@@ -34,3 +34,52 @@
 [12-10 18:14:24]: [INFO] Essentials spawn file not found: '/root/MC-Server/minecraft_server/plugins/Essentials/spawn.yml'
 [12-10 18:14:24]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
 [12-10 18:14:25]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[12-10 18:14:50]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[12-10 18:14:50]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[12-10 18:14:50]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[12-10 18:14:51]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+[12-10 18:14:51]: java.io.FileNotFoundException: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:356)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:273)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:223)
+	at AuthMe.jar//fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at AuthMe.jar//fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at AuthMe.jar//fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:173)
+	at AuthMe.jar//fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:144)
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78)
+	at org.bukkit.craftbukkit.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[12-10 18:15:08]: [FINE] oven logged in 127.212.166.221
+[12-10 18:18:50]: [INFO] AuthMe 5.6.0-beta2-b2453 disabled!
+[12-10 18:19:46]: [INFO] SQLite Setup finished
+[12-10 18:19:46]: [INFO] Hooked into LuckPerms!
+[12-10 18:19:46]: [INFO] Hooked successfully into Essentials
+[12-10 18:19:46]: [INFO] Essentials spawn file not found: '/root/MC-Server/minecraft_server/plugins/Essentials/spawn.yml'
+[12-10 18:19:46]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[12-10 18:19:46]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[12-10 18:19:59]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[12-10 18:19:59]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[12-10 18:19:59]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[12-10 18:19:59]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+[12-10 18:19:59]: java.io.FileNotFoundException: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:356)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:273)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:223)
+	at AuthMe.jar//fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at AuthMe.jar//fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at AuthMe.jar//fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:173)
+	at AuthMe.jar//fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:144)
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78)
+	at org.bukkit.craftbukkit.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[12-10 18:20:31]: [FINE] oven logged in 127.212.166.221
