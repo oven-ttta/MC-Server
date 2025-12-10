@@ -1,31 +1,29 @@
-[17:49:16] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.9+10-Ubuntu-124.04; Ubuntu null) on Linux 6.8.0-88-generic (amd64)
-[17:49:16] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.4-6-master@71a367e (2024-12-08T06:14:29Z) for Minecraft 1.21.4
-[17:49:19] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[17:49:20] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/GriefPrevention.jar'...
-[17:49:20] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Remapping plugin 'plugins/Vault.jar'...
-[17:49:20] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Remapping plugin 'plugins/AuthMe.jar'...
-[17:49:20] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Remapping plugin 'plugins/SkinsRestorer.jar'...
-[17:49:21] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Done remapping plugin 'plugins/Vault.jar' in 1739ms.
-[17:49:21] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/GriefPrevention.jar' in 1836ms.
-[17:49:23] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Done remapping plugin 'plugins/SkinsRestorer.jar' in 3501ms.
-[17:49:24] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Done remapping plugin 'plugins/AuthMe.jar' in 3656ms.
-[17:49:24] [ServerMain/INFO]: [PluginInitializerManager] Initialized 10 plugins
-[17:49:24] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (10):
- - AuthMe (5.6.0-beta2-b2453), Essentials (2.21.0), EssentialsChat (2.21.0), EssentialsSpawn (2.21.0), Geyser-Spigot (2.9.1-SNAPSHOT), GriefPrevention (16.18.5), LuckPerms (5.5.0), SkinsRestorer (15.5.0), Vault (1.7.3-b131), floodgate (2.2.5-SNAPSHOT (b121-55a85ec))
-[17:49:31] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17:49:35] [ServerMain/INFO]: Loaded 1370 recipes
-[17:49:35] [ServerMain/INFO]: Loaded 1481 advancements
-[17:49:35] [ServerMain/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
-[17:49:35] [ServerMain/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 746.5ms
-[17:49:35] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[17:49:35] [Server thread/WARN]: ****************************
-[17:49:35] [Server thread/WARN]: YOU ARE RUNNING THIS SERVER AS AN ADMINISTRATIVE OR ROOT USER. THIS IS NOT ADVISED.
-[17:49:35] [Server thread/WARN]: YOU ARE OPENING YOURSELF UP TO POTENTIAL RISKS WHEN DOING THIS.
-[17:49:35] [Server thread/WARN]: FOR MORE INFORMATION, SEE https://madelinemiller.dev/blog/root-minecraft-server/
-[17:49:35] [Server thread/WARN]: ****************************
-[17:49:35] [Server thread/INFO]: Loading properties
-[17:49:36] [Server thread/INFO]: This server is running Paper version 1.21.4-6-master@71a367e (2024-12-08T06:14:29Z) (Implementing API version 1.21.4-R0.1-SNAPSHOT)
-[17:49:37] [Server thread/WARN]: Couldn't load server icon
+[18:13:35] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.9+10-Ubuntu-124.04; Ubuntu null) on Linux 6.8.0-88-generic (amd64)
+[18:13:35] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.4-6-master@71a367e (2024-12-08T06:14:29Z) for Minecraft 1.21.4
+[18:13:38] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[18:13:40] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Remapping plugin 'plugins/WorldEdit.jar'...
+[18:13:40] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Remapping plugin 'plugins/SkinsRestorer.jar'...
+[18:13:40] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/WorldGuard.jar'...
+[18:13:41] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/WorldGuard.jar' in 1902ms.
+[18:13:44] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Done remapping plugin 'plugins/SkinsRestorer.jar' in 4515ms.
+[18:13:44] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Done remapping plugin 'plugins/WorldEdit.jar' in 4818ms.
+[18:13:44] [ServerMain/INFO]: [PluginInitializerManager] Initialized 12 plugins
+[18:13:44] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (12):
+ - AuthMe (5.6.0-beta2-b2453), Essentials (2.21.0), EssentialsChat (2.21.0), EssentialsSpawn (2.21.0), Geyser-Spigot (2.9.1-SNAPSHOT), GriefPrevention (16.18.5), LuckPerms (5.5.0), SkinsRestorer (15.9.0), Vault (1.7.3-b131), WorldEdit (7.4.0-beta-01+ae062ca), WorldGuard (7.0.15-beta-01+445a1d7), floodgate (2.2.5-SNAPSHOT (b121-55a85ec))
+[18:13:51] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:13:54] [ServerMain/INFO]: Loaded 1370 recipes
+[18:13:54] [ServerMain/INFO]: Loaded 1481 advancements
+[18:13:54] [ServerMain/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
+[18:13:55] [ServerMain/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 450.3ms
+[18:13:55] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[18:13:55] [Server thread/WARN]: ****************************
+[18:13:55] [Server thread/WARN]: YOU ARE RUNNING THIS SERVER AS AN ADMINISTRATIVE OR ROOT USER. THIS IS NOT ADVISED.
+[18:13:55] [Server thread/WARN]: YOU ARE OPENING YOURSELF UP TO POTENTIAL RISKS WHEN DOING THIS.
+[18:13:55] [Server thread/WARN]: FOR MORE INFORMATION, SEE https://madelinemiller.dev/blog/root-minecraft-server/
+[18:13:55] [Server thread/WARN]: ****************************
+[18:13:55] [Server thread/INFO]: Loading properties
+[18:13:55] [Server thread/INFO]: This server is running Paper version 1.21.4-6-master@71a367e (2024-12-08T06:14:29Z) (Implementing API version 1.21.4-R0.1-SNAPSHOT)
+[18:13:57] [Server thread/WARN]: Couldn't load server icon
 java.lang.IllegalArgumentException: BufferedImage must be 64 pixels wide (720)
 	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:191) ~[guava-33.3.1-jre.jar:?]
 	at org.bukkit.craftbukkit.CraftServer.loadServerIcon0(CraftServer.java:2688) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
@@ -38,226 +36,176 @@ java.lang.IllegalArgumentException: BufferedImage must be 64 pixels wide (720)
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1236) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:341) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[17:49:37] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[17:49:37] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[17:49:37] [Server thread/INFO]: Using 4 threads for Netty based IO
-[17:49:38] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[17:49:38] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[17:49:39] [Server thread/INFO]: Default game type: SURVIVAL
-[17:49:39] [Server thread/INFO]: Generating keypair
-[17:49:39] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:49:39] [Server thread/INFO]: Using epoll channel type
-[17:49:39] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[17:49:39] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
-[17:49:40] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.5.0
-[17:49:44] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
-[17:49:44] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0
-[17:49:44] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.5-SNAPSHOT (b121-55a85ec)
-[17:49:46] [Server thread/INFO]: [floodgate] Took 1,848ms to boot Floodgate
-[17:49:46] [Server thread/INFO]: [EssentialsSpawn] Loading server plugin EssentialsSpawn v2.21.0
-[17:49:46] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.0
-[17:49:46] [Server thread/INFO]: [AuthMe] Loading server plugin AuthMe v5.6.0-beta2-b2453
-[17:49:46] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.9.1-SNAPSHOT
-[17:49:47] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[17:49:47] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[17:49:47] [Server thread/INFO]: [EssentialsChat] Loading server plugin EssentialsChat v2.21.0
-[17:49:47] [Server thread/INFO]: [GriefPrevention] Loading server plugin GriefPrevention v16.18.5
-[17:49:47] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[17:49:47] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.5.0
-[17:49:49] [Server thread/INFO]:         __    
-[17:49:49] [Server thread/INFO]:   |    |__)   LuckPerms v5.5.0
-[17:49:49] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[17:49:49] [Server thread/INFO]: 
-[17:49:49] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[17:49:51] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[17:49:52] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[17:49:52] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[17:49:52] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 4940ms)
-[17:49:52] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
-[17:49:52] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
-[17:49:52] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
-[17:49:53] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
-[17:49:53] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
-[17:49:53] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.0
-[17:49:54] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[17:49:55] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.4.
-[17:49:55] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
-[17:49:56] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[17:49:56] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:49:56] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:49:56] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:49:56] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:49:56] [Server thread/INFO]: Preparing level "world"
-[17:49:56] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[17:49:56] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[17:49:56] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[17:49:56] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[17:49:56] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[17:49:56] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[17:49:56] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[17:49:56] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.0
-[17:49:56] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: ad418e4
-[17:49:56] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     A new version (15.9.0) is available! Downloading update...
-[17:49:56] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[17:49:56] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[17:49:56] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[17:49:56] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] [GitHubUpdate] Downloading update...
-[17:49:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:49:58] [Server thread/INFO]: Preparing spawn area: 0%
-[17:49:58] [Folia Async Scheduler Thread #1/WARN]: [SkinsRestorer] [GitHubUpdate] SHA256 hash not found, cannot verify integrity
-[17:49:58] [Server thread/INFO]: Preparing spawn area: 2%
-[17:49:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] [GitHubUpdate] Downloaded update in 1306ms
-[17:49:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] [GitHubUpdate] Update saved as SkinsRestorer.jar
-[17:49:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] [GitHubUpdate] The update will be loaded on the next server restart
-[17:49:58] [Server thread/INFO]: Preparing spawn area: 26%
-[17:49:59] [Server thread/INFO]: Preparing spawn area: 26%
-[17:49:59] [Server thread/INFO]: Time elapsed: 1821 ms
-[17:49:59] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[17:49:59] [Server thread/INFO]: Preparing spawn area: 0%
-[17:49:59] [Server thread/INFO]: Time elapsed: 391 ms
-[17:49:59] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[17:49:59] [Server thread/INFO]: Preparing spawn area: 0%
-[17:50:00] [Server thread/INFO]: Preparing spawn area: 36%
-[17:50:00] [Server thread/INFO]: Time elapsed: 630 ms
-[17:50:00] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0
-[17:50:01] [Server thread/WARN]: [Essentials] Beginning Adventure locale file conversion.
-[17:50:02] [Server thread/INFO]: [Essentials] Creating config from template: plugins/Essentials/config.yml
-[17:50:03] [Server thread/WARN]: [Essentials] Missing userdata folder, aborting
-[17:50:03] [Server thread/INFO]: [Essentials] Creating config from template: plugins/Essentials/kits.yml
-[17:50:03] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
-[17:50:03] [Server thread/INFO]: [Essentials] No kits found to migrate.
-[17:50:03] [Server thread/INFO]: [Essentials] Starting Essentials ban format conversion
-[17:50:03] [Server thread/INFO]: [Essentials] Attempting to migrate ignore list to UUIDs
-[17:50:03] [Server thread/INFO]: [Essentials] Attempting to migrate legacy userdata keys to Configurate
-[17:50:03] [Server thread/INFO]: [Essentials] Done converting random teleport config.
-[17:50:03] [Server thread/INFO]: [Essentials] Creating config from template: plugins/Essentials/worth.yml
-[17:50:03] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
-[17:50:03] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
-[17:50:03] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
-[17:50:03] [Server thread/INFO]: [Essentials] Selected 1.21.4+ Sync Commands Provider as the provider for SyncCommandsProvider
-[17:50:03] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
-[17:50:03] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
-[17:50:03] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
-[17:50:03] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
-[17:50:03] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
-[17:50:03] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
-[17:50:03] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
-[17:50:03] [Server thread/INFO]: [Essentials] Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
-[17:50:03] [Server thread/INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
-[17:50:03] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
-[17:50:03] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
-[17:50:03] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
-[17:50:03] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
-[17:50:03] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
-[17:50:03] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
-[17:50:03] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
-[17:50:03] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
-[17:50:03] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
-[17:50:03] [Server thread/INFO]: [Essentials] Creating config from template: plugins/Essentials/tpr.yml
-[17:50:03] [Server thread/INFO]: [Essentials] Loaded 43465 items from items.json.
-[17:50:03] [Server thread/INFO]: [Essentials] Creating config from template: plugins/Essentials/custom_items.yml
-[17:50:04] [Server thread/INFO]: [Essentials] Using locale en_US
-[17:50:04] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[17:50:05] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[17:50:05] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
-[17:50:05] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
-[17:50:05] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.5-SNAPSHOT (b121-55a85ec)
-[17:50:07] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.21.0
-[17:50:07] [Server thread/INFO]: [EssentialsSpawn] Starting Metrics. Opt-out using the global bStats config.
-[17:50:07] [Server thread/INFO]: [AuthMe] Enabling AuthMe v5.6.0-beta2-b2453
-[17:50:18] [Server thread/INFO]: [AuthMe] Created column 'regdate' and set the current timestamp, 1765389018793, to all 0 rows
-[17:50:19] [Server thread/INFO]: [AuthMe] SQLite Setup finished
-[17:50:22] [Server thread/INFO]: [AuthMe] Hooked into LuckPerms!
-[17:50:22] [Server thread/INFO]: [AuthMe] Hooked successfully into Essentials
-[17:50:22] [Server thread/INFO]: [AuthMe] Essentials spawn file not found: '/root/MC-Server/minecraft_server/plugins/Essentials/spawn.yml'
-[17:50:22] [Server thread/WARN]: [AuthMe] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[17:50:23] [Server thread/INFO]: [AuthMe] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
-[17:50:23] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.9.1-SNAPSHOT
-[17:50:29] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.21.0
-[17:50:29] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
-[17:50:29] [Server thread/INFO]: [GriefPrevention] Enabling GriefPrevention v16.18.5
-[17:50:29] [Server thread/INFO]: [GriefPrevention] Finished loading configuration.
-[17:50:29] [Server thread/INFO]: [GriefPrevention] 0 total claims loaded.
-[17:50:29] [Server thread/INFO]: [GriefPrevention] Customizable messages loaded.
-[17:50:29] [Server thread/INFO]: [GriefPrevention] Finished loading data (File Mode).
-[17:50:30] [Server thread/INFO]: [GriefPrevention] Boot finished.
-[17:50:30] [Server thread/INFO]: [spark] Starting background profiler...
-[17:50:32] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[17:50:32] [Server thread/INFO]: [Geyser-Spigot] 
-[17:50:32] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.9.1-b1002 (git-master-0cdd31e)
-[17:50:32] [Server thread/INFO]: [Geyser-Spigot] 
-[17:50:32] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[17:50:40] [GeyserServer-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
-[17:50:40] [Server thread/INFO]: [Geyser-Spigot] Done (8.168s)! Run /geyser help for help!
-[17:50:40] [Server thread/WARN]: [Geyser-Spigot] Your server software does not support the Java version that Geyser requires (1.21.9). Please install ViaVersion (https://ci.viaversion.com/job/ViaVersion/) or update your server software!
-[17:50:40] [Server thread/INFO]: Done preparing level "world" (44.057s)
-[17:50:40] [Server thread/ERROR]: Couldn't load server icon
-java.lang.IllegalStateException: Must be 64 pixels wide
-	at com.google.common.base.Preconditions.checkState(Preconditions.java:513) ~[guava-33.3.1-jre.jar:?]
-	at net.minecraft.server.MinecraftServer.lambda$loadStatusIcon$17(MinecraftServer.java:1595) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
-	at java.base/java.util.Optional.flatMap(Optional.java:289) ~[?:?]
-	at net.minecraft.server.MinecraftServer.loadStatusIcon(MinecraftServer.java:1591) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1241) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+[18:13:57] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[18:13:57] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[18:13:57] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:13:58] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[18:13:58] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[18:13:59] [Server thread/INFO]: Default game type: SURVIVAL
+[18:13:59] [Server thread/INFO]: Generating keypair
+[18:13:59] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:13:59] [Server thread/INFO]: Using epoll channel type
+[18:13:59] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[18:13:59] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[18:13:59] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load plugin 'WorldGuard.jar' in folder 'plugins/.paper-remapped'
+org.bukkit.plugin.InvalidPluginException: Unsupported API version 1.21.10
+	at org.bukkit.craftbukkit.util.CraftMagicNumbers.checkSupported(CraftMagicNumbers.java:370) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProvider.createInstance(SpigotPluginProvider.java:121) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProvider.createInstance(SpigotPluginProvider.java:35) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at io.papermc.paper.plugin.entrypoint.strategy.modern.ModernPluginLoadingStrategy.loadProviders(ModernPluginLoadingStrategy.java:116) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:38) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at io.papermc.paper.plugin.entrypoint.LaunchEntryPointHandler.enter(LaunchEntryPointHandler.java:40) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at org.bukkit.craftbukkit.CraftServer.loadPlugins(CraftServer.java:561) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:289) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1236) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:341) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[17:50:40] [Server thread/INFO]: Running delayed init tasks
-[17:50:40] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
-[17:50:40] [Craft Scheduler Thread - 4 - Essentials/INFO]: [Essentials] Fetching version information...
-[17:50:40] [Craft Scheduler Thread - 6 - AuthMe/INFO]: [AuthMe] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
-[17:50:40] [Craft Scheduler Thread - 6 - AuthMe/WARN]: [AuthMe] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
-[17:50:40] [Craft Scheduler Thread - 6 - AuthMe/INFO]: [AuthMe] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
-[17:50:40] [Craft Scheduler Thread - 6 - AuthMe/WARN]: [AuthMe] Could not download GeoLiteAPI database [FileNotFoundException]: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
-[17:50:40] [Server thread/INFO]: Done (86.204s)! For help, type "help"
-[17:50:40] [Craft Scheduler Thread - 7 - Vault/INFO]: [Vault] Checking for Updates ... 
-[17:50:40] [Craft Scheduler Thread - 7 - Vault/INFO]: [Vault] No new version available
-[17:50:41] [Craft Scheduler Thread - 4 - Essentials/WARN]: [Essentials] There is a new EssentialsX version available for download: 2.21.2.
-[17:50:41] [Craft Scheduler Thread - 4 - Essentials/WARN]: [Essentials] Download it here: https://essentialsx.net/downloads.html?branch=stable
-[17:52:23] [User Authenticator #0/INFO]: UUID of player oven is 46e44b98-3f62-3483-a9ea-5b246b676a26
-[17:52:25] [Server thread/INFO]: oven joined the game
-[17:52:25] [Server thread/INFO]: oven[/127.212.166.221:48515] logged in with entity id 17 at ([world]213.07878033790536, 76.0, -628.354681568688)
-[17:52:25] [Server thread/WARN]: [Essentials] Permissions lag notice with (LuckPermsHandler). Response took 32.676351ms. Summary: Getting prefix for oven
-[17:52:25] [Server thread/WARN]: [Essentials] File motd.txt does not exist. Creating one for you.
-[17:52:27] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 247c5937-d6fb-46fd-aa41-e34a89356a1a, mapped to IronGolem['Iron Golem'/156, uuid='247c5937-d6fb-46fd-aa41-e34a89356a1a', l='ServerLevel[world]', x=159.17, y=73.00, z=-546.32, cpos=[9, -35], tl=35422, v=true], can't add IronGolem['Iron Golem'/182, uuid='247c5937-d6fb-46fd-aa41-e34a89356a1a', l='ServerLevel[world]', x=155.15, y=74.00, z=-539.13, cpos=[9, -34], tl=36824, v=false]
-[17:52:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2502ms or 50 ticks behind
-[17:52:43] [Server thread/INFO]: oven issued server command: /re
-[17:52:57] [Server thread/INFO]: oven lost connection: Login timeout exceeded, you have been kicked from the server, please try again!
-[17:52:57] [Server thread/INFO]: oven left the game
-[17:53:02] [User Authenticator #0/INFO]: UUID of player oven is 46e44b98-3f62-3483-a9ea-5b246b676a26
-[17:53:02] [Server thread/INFO]: Disconnecting oven (/127.212.166.221:59111): You must wait 23 seconds before logging-in again.
-[17:53:02] [Server thread/INFO]: Disconnecting oven (/127.212.166.221:59111): You must wait 23 seconds before logging-in again.
-[17:53:02] [Server thread/INFO]: oven (/127.212.166.221:59111) lost connection: You must wait 23 seconds before logging-in again.
-[17:53:25] [User Authenticator #0/INFO]: UUID of player oven is 46e44b98-3f62-3483-a9ea-5b246b676a26
-[17:53:26] [Server thread/INFO]: oven joined the game
-[17:53:26] [Server thread/INFO]: oven[/127.212.166.221:50841] logged in with entity id 306 at ([world]213.99436559889523, 76.0, -628.0030376500505)
-[17:53:50] [Server thread/INFO]: [AuthMe] oven registered 127.212.166.221
-[17:53:50] [Craft Scheduler Thread - 18 - AuthMe/INFO]: [AuthMe] oven logged in 127.212.166.221
-[17:59:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5771ms or 115 ticks behind
-[17:59:44] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21.4-6-71a367e (MC: 1.21.4) ---
-[17:59:44] [Paper Watchdog Thread/ERROR]: The server has not responded for 12 seconds! Creating thread dump
-[17:59:44] [Paper Watchdog Thread/ERROR]: ------------------------------
-[17:59:44] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
-[17:59:46] [Paper Watchdog Thread/ERROR]: ------------------------------
-[17:59:46] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
-[17:59:51] [Paper Watchdog Thread/ERROR]: 	PID: 49 | Suspended: false | Native: false | State: RUNNABLE
-[17:59:51] [Paper Watchdog Thread/ERROR]: 	Stack:
-[17:59:51] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.lang.Math.floor(Math.java:523)
-[17:59:51] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Entity.isChunkLoaded(Entity.java:413)
-[17:59:51] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.CraftWorld.getEntityCount(CraftWorld.java:213)
-[17:59:51] [Paper Watchdog Thread/ERROR]: 		me.lucko.spark.paper.PaperWorldInfoProvider.pollCounts(PaperWorldInfoProvider.java:56)
-[17:59:51] [Paper Watchdog Thread/ERROR]: 		me.lucko.spark.paper.common.platform.world.AsyncWorldInfoProvider$$Lambda/0x00007bd3f1fe3930.apply(Unknown Source)
-[17:59:51] [Paper Watchdog Thread/ERROR]: 		me.lucko.spark.paper.common.platform.world.AsyncWorldInfoProvider.lambda$async$0(AsyncWorldInfoProvider.java:55)
-[17:59:51] [Paper Watchdog Thread/ERROR]: 		me.lucko.spark.paper.common.platform.world.AsyncWorldInfoProvider$$Lambda/0x00007bd3f1fe3b70.get(Unknown Source)
-[17:59:51] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
-[17:59:51] [Paper Watchdog Thread/ERROR]: 		io.papermc.paper.SparksFly$1.lambda$catching$0(SparksFly.java:59)
-[17:59:51] [Paper Watchdog Thread/ERROR]: 		io.papermc.paper.SparksFly$1$$Lambda/0x00007bd3f1d57338.run(Unknown Source)
-[17:59:51] [Paper Watchdog Thread/ERROR]: 		io.papermc.paper.SparksFly.executeMainThreadTasks(SparksFly.java:93)
-[17:59:51] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1700)
-[17:59:51] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1331)
-[17:59:51] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:341)
-[17:59:51] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x00007bd3f0dd4510.run(Unknown Source)
-[17:59:51] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.lang.Thread.runWith(Thread.java:1596)
-[17:59:51] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.lang.Thread.run(Thread.java:1583)
-[17:59:51] [Paper Watchdog Thread/ERROR]: ------------------------------
-[17:59:51] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
-[17:59:51] [Paper Watchdog Thread/ERROR]: ------------------------------
-[17:59:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9623ms or 192 ticks behind
+[18:14:00] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.5.0
+[18:14:00] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[18:14:00] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0
+[18:14:00] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.4.0-beta-01+ae062ca
+[18:14:02] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@7a707fe4]
+[18:14:02] [Server thread/INFO]: [WorldEdit] Default configuration file written: config.yml
+[18:14:02] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.5-SNAPSHOT (b121-55a85ec)
+[18:14:04] [Server thread/INFO]: [floodgate] Took 2,145ms to boot Floodgate
+[18:14:04] [Server thread/INFO]: [EssentialsSpawn] Loading server plugin EssentialsSpawn v2.21.0
+[18:14:04] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.9.0
+[18:14:04] [Server thread/INFO]: [AuthMe] Loading server plugin AuthMe v5.6.0-beta2-b2453
+[18:14:04] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.9.1-SNAPSHOT
+[18:14:05] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[18:14:05] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[18:14:05] [Server thread/INFO]: [EssentialsChat] Loading server plugin EssentialsChat v2.21.0
+[18:14:05] [Server thread/INFO]: [GriefPrevention] Loading server plugin GriefPrevention v16.18.5
+[18:14:05] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:14:05] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.5.0
+[18:14:06] [Server thread/INFO]:         __    
+[18:14:06] [Server thread/INFO]:   |    |__)   LuckPerms v5.5.0
+[18:14:06] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[18:14:06] [Server thread/INFO]: 
+[18:14:06] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[18:14:06] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[18:14:07] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[18:14:07] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[18:14:08] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 2569ms)
+[18:14:08] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[18:14:08] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[18:14:08] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[18:14:08] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[18:14:08] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[18:14:08] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.4.0-beta-01+ae062ca
+[18:14:08] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[18:14:08] [Server thread/INFO]: WEPIF: Updated config file
+[18:14:08] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[18:14:08] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_21_4.PaperweightAdapter as the Bukkit adapter
+[18:14:11] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.9.0
+[18:14:12] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.4.
+[18:14:13] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
+[18:14:14] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[18:14:14] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:14:14] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:14:14] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:14:14] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:14:14] [Server thread/INFO]: Preparing level "world"
+[18:14:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[18:14:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[18:14:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[18:14:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[18:14:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[18:14:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[18:14:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[18:14:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.9.0
+[18:14:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 1565b8f
+[18:14:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[18:14:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[18:14:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[18:14:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[18:14:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:14:17] [Server thread/INFO]: Preparing spawn area: 0%
+[18:14:17] [Server thread/INFO]: Preparing spawn area: 2%
+[18:14:18] [Server thread/INFO]: Preparing spawn area: 28%
+[18:14:18] [Server thread/INFO]: Preparing spawn area: 30%
+[18:14:18] [Server thread/INFO]: Time elapsed: 1587 ms
+[18:14:18] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[18:14:18] [Server thread/INFO]: Preparing spawn area: 0%
+[18:14:18] [Server thread/INFO]: Time elapsed: 339 ms
+[18:14:18] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[18:14:18] [Server thread/INFO]: Preparing spawn area: 0%
+[18:14:18] [Server thread/INFO]: Time elapsed: 170 ms
+[18:14:18] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0
+[18:14:19] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[18:14:19] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[18:14:19] [Server thread/INFO]: [Essentials] Starting Essentials ban format conversion
+[18:14:19] [Server thread/INFO]: [Essentials] Found 1 files to convert...
+[18:14:19] [Server thread/INFO]: [Essentials] Converted 0/1
+[18:14:19] [Server thread/INFO]: [Essentials] Ban format update complete.
+[18:14:19] [Server thread/INFO]: [Essentials] Attempting to migrate ignore list to UUIDs
+[18:14:19] [Server thread/INFO]: [Essentials] Done converting ignore list.
+[18:14:19] [Server thread/INFO]: [Essentials] Attempting to migrate legacy userdata keys to Configurate
+[18:14:19] [Server thread/INFO]: [Essentials] Done converting legacy userdata keys to Configurate.
+[18:14:19] [Server thread/INFO]: [Essentials] Done converting mail list.
+[18:14:19] [Server thread/INFO]: [Essentials] #===========================================================================#
+[18:14:19] [Server thread/INFO]: [Essentials]  EssentialsX will now purge any NPC accounts which were incorrectly created.
+[18:14:19] [Server thread/INFO]: [Essentials]  Only NPC accounts with the default starting balance will be deleted. If
+[18:14:19] [Server thread/INFO]: [Essentials]  they turn out to be valid NPC accounts, they will be re-created as needed.
+[18:14:19] [Server thread/INFO]: [Essentials]  Any files deleted here will be backed up to the 
+[18:14:19] [Server thread/INFO]: [Essentials]  "plugins/Essentials/userdata-npc-backup" folder. If you notice any files
+[18:14:19] [Server thread/INFO]: [Essentials]  have been purged incorrectly, you should restore it from the backup and
+[18:14:19] [Server thread/INFO]: [Essentials]  report it to us on GitHub:
+[18:14:19] [Server thread/INFO]: [Essentials]  https://github.com/EssentialsX/Essentials/issues/new/choose
+[18:14:19] [Server thread/INFO]: [Essentials] 
+[18:14:19] [Server thread/INFO]: [Essentials]  NOTE: This is a one-time process and will take several minutes if you have
+[18:14:19] [Server thread/INFO]: [Essentials]  a lot of userdata files! If you interrupt this process, EssentialsX will
+[18:14:19] [Server thread/INFO]: [Essentials]  skip the process until you rename or remove the backup folder.
+[18:14:19] [Server thread/INFO]: [Essentials] #===========================================================================#
+[18:14:19] [Server thread/INFO]: [Essentials] Found ~1 files under "plugins/Essentials/userdata"...
+[18:14:19] [Server thread/INFO]: [Essentials] #===========================================================================#
+[18:14:19] [Server thread/INFO]: [Essentials]  EssentialsX has finished purging NPC accounts.
+[18:14:19] [Server thread/INFO]: [Essentials] 
+[18:14:19] [Server thread/INFO]: [Essentials]  Deleted accounts: 0
+[18:14:19] [Server thread/INFO]: [Essentials]  Total accounts processed: 1
+[18:14:19] [Server thread/INFO]: [Essentials] 
+[18:14:19] [Server thread/INFO]: [Essentials]  Purged accounts have been backed up to
+[18:14:19] [Server thread/INFO]: [Essentials]  "plugins/Essentials/userdata-npc-backup", and can be restored from there
+[18:14:19] [Server thread/INFO]: [Essentials]  if needed. Please report any files which have been incorrectly deleted
+[18:14:19] [Server thread/INFO]: [Essentials]  to us on GitHub:
+[18:14:19] [Server thread/INFO]: [Essentials]  https://github.com/EssentialsX/Essentials/issues/new/choose
+[18:14:19] [Server thread/INFO]: [Essentials] #===========================================================================#
+[18:14:20] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
+[18:14:20] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
+[18:14:20] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
+[18:14:20] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
+[18:14:20] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
+[18:14:20] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
+[18:14:20] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
+[18:14:20] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
+[18:14:20] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
+[18:14:20] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
+[18:14:20] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
+[18:14:20] [Server thread/INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
+[18:14:20] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
+[18:14:20] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
+[18:14:20] [Server thread/INFO]: [Essentials] Selected 1.21.4+ Sync Commands Provider as the provider for SyncCommandsProvider
+[18:14:20] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
+[18:14:20] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
+[18:14:20] [Server thread/INFO]: [Essentials] Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
+[18:14:20] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
+[18:14:20] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
+[18:14:20] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
+[18:14:20] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
+[18:14:21] [Server thread/INFO]: [Essentials] Loaded 43465 items from items.json.
+[18:14:21] [Server thread/INFO]: [Essentials] Using locale en_US
+[18:14:21] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[18:14:22] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[18:14:22] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[18:14:22] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[18:14:22] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.5-SNAPSHOT (b121-55a85ec)
+[18:14:23] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.21.0
+[18:14:23] [Server thread/INFO]: [EssentialsSpawn] Starting Metrics. Opt-out using the global bStats config.
+[18:14:23] [Server thread/INFO]: [AuthMe] Enabling AuthMe v5.6.0-beta2-b2453
+[18:14:24] [Server thread/INFO]: [AuthMe] SQLite Setup finished
+[18:14:24] [Server thread/INFO]: [AuthMe] Hooked into LuckPerms!
+[18:14:24] [Server thread/INFO]: [AuthMe] Hooked successfully into Essentials
+[18:14:24] [Server thread/INFO]: [AuthMe] Essentials spawn file not found: '/root/MC-Server/minecraft_server/plugins/Essentials/spawn.yml'
+[18:14:24] [Server thread/WARN]: [AuthMe] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[18:14:25] [Server thread/INFO]: [AuthMe] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[18:14:25] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.9.1-SNAPSHOT
