@@ -94,3 +94,241 @@ org.bukkit.plugin.InvalidPluginException: Unsupported API version 1.21.10
 [18:41:18] [Server thread/INFO]: 
 [18:41:18] [Server thread/INFO]: [LuckPerms] Loading configuration...
 [18:41:18] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[18:41:20] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[18:41:20] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[18:41:20] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 3271ms)
+[18:41:20] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[18:41:20] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[18:41:20] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[18:41:20] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[18:41:20] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[18:41:20] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.4.0-beta-01+ae062ca
+[18:41:20] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[18:41:21] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[18:41:21] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_21_4.PaperweightAdapter as the Bukkit adapter
+[18:41:24] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.9.0
+[18:41:27] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.4.
+[18:41:27] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
+[18:41:28] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[18:41:28] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:41:28] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:41:28] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:41:28] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:41:28] [Server thread/INFO]: Preparing level "world"
+[18:41:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[18:41:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[18:41:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[18:41:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[18:41:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[18:41:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[18:41:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[18:41:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.9.0
+[18:41:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 1565b8f
+[18:41:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[18:41:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[18:41:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[18:41:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[18:41:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:41:31] [Server thread/INFO]: Preparing spawn area: 0%
+[18:41:31] [Server thread/INFO]: Preparing spawn area: 0%
+[18:41:32] [Server thread/INFO]: Preparing spawn area: 2%
+[18:41:32] [Server thread/INFO]: Preparing spawn area: 2%
+[18:41:33] [Server thread/INFO]: Preparing spawn area: 42%
+[18:41:34] [Server thread/INFO]: Preparing spawn area: 42%
+[18:41:34] [Server thread/INFO]: Preparing spawn area: 42%
+[18:41:34] [Server thread/INFO]: Preparing spawn area: 42%
+[18:41:34] [Server thread/INFO]: Preparing spawn area: 42%
+[18:41:35] [Server thread/INFO]: Time elapsed: 4472 ms
+[18:41:35] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[18:41:35] [Server thread/INFO]: Preparing spawn area: 0%
+[18:41:35] [Server thread/INFO]: Preparing spawn area: 2%
+[18:41:35] [Server thread/INFO]: Time elapsed: 608 ms
+[18:41:35] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[18:41:35] [Server thread/INFO]: Preparing spawn area: 0%
+[18:41:36] [Server thread/INFO]: Time elapsed: 277 ms
+[18:41:36] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0
+[18:41:38] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[18:41:38] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[18:41:38] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
+[18:41:38] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
+[18:41:38] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
+[18:41:38] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
+[18:41:38] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
+[18:41:38] [Server thread/INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
+[18:41:38] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
+[18:41:38] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
+[18:41:39] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
+[18:41:39] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
+[18:41:39] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
+[18:41:39] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
+[18:41:39] [Server thread/INFO]: [Essentials] Selected 1.21.4+ Sync Commands Provider as the provider for SyncCommandsProvider
+[18:41:39] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
+[18:41:39] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
+[18:41:39] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
+[18:41:39] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
+[18:41:39] [Server thread/INFO]: [Essentials] Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
+[18:41:42] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
+[18:41:42] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
+[18:41:42] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
+[18:41:42] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
+[18:41:47] [Server thread/INFO]: [Essentials] Loaded 43465 items from items.json.
+[18:41:47] [Server thread/INFO]: [Essentials] Using locale en_US
+[18:41:51] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[18:41:54] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[18:41:54] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[18:41:54] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[18:41:54] [Server thread/INFO]: [GriefPrevention] Enabling GriefPrevention v16.18.5
+[18:41:54] [Server thread/INFO]: [GriefPrevention] Finished loading configuration.
+[18:41:54] [Server thread/INFO]: [GriefPrevention] 0 total claims loaded.
+[18:41:56] [Server thread/INFO]: [GriefPrevention] Customizable messages loaded.
+[18:41:56] [Server thread/INFO]: [GriefPrevention] Finished loading data (File Mode).
+[18:41:57] [Server thread/INFO]: [GriefPrevention] Boot finished.
+[18:41:57] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.5-SNAPSHOT (b121-55a85ec)
+[18:41:58] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.21.0
+[18:41:58] [Server thread/INFO]: [EssentialsSpawn] Starting Metrics. Opt-out using the global bStats config.
+[18:41:58] [Server thread/INFO]: [mcMMO] Enabling mcMMO v2.2.046-SNAPSHOT
+[18:42:01] [Server thread/INFO]: [mcMMO] Loaded 232 of 232 Alchemy potions.
+[18:42:01] [Server thread/INFO]: [mcMMO] Fixing incorrect Salvage quantities on Netherite gear, this will only run once...
+[18:42:03] [Server thread/INFO]: [CMILib] Enabling CMILib v1.5.7.5
+[18:42:08] [Server thread/INFO]: Server version: v1_21_R3 - 1.21.4 - paper  1.21.4-6-71a367e (MC: 1.21.4)
+[18:42:15] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:42:16] [Server thread/INFO]: Updated (EN) language file. Took 416ms
+[18:42:16] [Server thread/INFO]: [ChestShop] Enabling ChestShop v3.12.3-SNAPSHOT (build 446)
+[18:42:18] [Server thread/INFO]: [ChestShop] Found locales ru, lb, pt_br, vi, he, uk, ku, de, no, ja, fr, el, ro, bg, ko, fi, pl, sr, cs, ga, zh, ca, is, sv, it, zh_tw, cy, th, pt, es_mx, hu, af, kk, en_pt, es, sk, sl, nl, da, tr, la, lt, lol, ar, en
+[18:42:19] [Server thread/INFO]: [ChestShop] Updating Item Metadata database to data version 4189...
+[18:42:19] [Server thread/INFO]: [ChestShop] Finished updating database in 0.002s. 0 items out of 0 were updated!
+[18:42:19] [Server thread/INFO]: [ChestShop] Using EssentialsX Economy as the Economy provider now.
+[18:42:19] [Server thread/INFO]: [ChestShop] Vault loaded!
+[18:42:19] [Server thread/INFO]: [ChestShop] Auto-updater is disabled. If you want the plugin to automatically download new releases then set 'TURN_OFF_UPDATES' to 'false' in your config.yml!
+[18:42:19] [Server thread/INFO]: [AuthMe] Enabling AuthMe v5.6.0-beta2-b2453
+[18:42:19] [Server thread/INFO]: [AuthMe] SQLite Setup finished
+[18:42:20] [Server thread/INFO]: [AuthMe] Hooked into LuckPerms!
+[18:42:20] [Server thread/INFO]: [AuthMe] Hooked successfully into Essentials
+[18:42:20] [Server thread/INFO]: [AuthMe] Essentials spawn file not found: '/root/MC-Server/minecraft_server/plugins/Essentials/spawn.yml'
+[18:42:20] [Server thread/WARN]: [AuthMe] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[18:42:20] [Server thread/INFO]: [AuthMe] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[18:42:20] [Server thread/INFO]: [VeinMiner] Enabling VeinMiner v2.3.0
+[18:42:20] [Server thread/INFO]: [VeinMiner] Using "sqlite" for persistent data storage.
+[18:42:20] [Server thread/INFO]: [VeinMiner] Loading configuration options to local memory
+[18:42:20] [Server thread/INFO]: [VeinMiner] Added 14 aliases.
+[18:42:20] [Server thread/INFO]: [VeinMiner] Registered category with id "Axe" holding 6 unique items and 28 unique blocks.
+[18:42:20] [Server thread/INFO]: [VeinMiner] Registered category with id "Hoe" holding 6 unique items and 12 unique blocks.
+[18:42:20] [Server thread/INFO]: [VeinMiner] Registered category with id "Pickaxe" holding 6 unique items and 14 unique blocks.
+[18:42:20] [Server thread/INFO]: [VeinMiner] Registered category with id "Shears" holding 1 unique items and 4 unique blocks.
+[18:42:20] [Server thread/INFO]: [VeinMiner] Registered category with id "Shovel" holding 6 unique items and 10 unique blocks.
+[18:42:20] [Server thread/WARN]: [VeinMiner] No block list configured for category with id "Hand"! Is this intentional?
+[18:42:20] [Server thread/INFO]: [VeinMiner] Registered category with id "Hand" holding 0 unique items and 0 unique blocks.
+[18:42:20] [Server thread/INFO]: [VeinMiner] Performing an update check!
+[18:42:20] [Server thread/INFO]: [VeinMiner] Registering commands
+[18:42:20] [Server thread/INFO]: [VeinMiner] Registering events
+[18:42:20] [Server thread/INFO]: [VeinMiner] Vault found. Attempting to enable economy support...
+[18:42:20] [Server thread/INFO]: [VeinMiner] Enabling Plugin Metrics
+[18:42:20] [Server thread/INFO]: [VeinMiner] Thanks for enabling Metrics! The anonymous stats are appreciated
+[18:42:20] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.9.1-SNAPSHOT
+[18:42:21] [ForkJoinPool.commonPool-worker-2/INFO]: [VeinMiner] You are on the latest version of VeinMiner!
+[18:42:23] [Server thread/INFO]: [Jobs] Enabling Jobs v5.2.6.5
+[18:42:23] [Server thread/INFO]: ------------- Jobs -------------
+[18:42:23] [Server thread/INFO]: Connected to database (SqLite)
+[18:42:23] [Server thread/INFO]: Loaded 8 titles
+[18:42:23] [Server thread/INFO]: Loaded 2 restricted areas!
+[18:42:23] [Server thread/INFO]: Loaded 53 protected blocks timers
+[18:42:23] [Server thread/INFO]: Loaded 1538 custom item names
+[18:42:23] [Server thread/INFO]: Loaded 85 custom entity names
+[18:42:23] [Server thread/INFO]: Loaded 2 custom MythicMobs names
+[18:42:23] [Server thread/INFO]: Loaded 42 custom enchant names
+[18:42:23] [Server thread/INFO]: Loaded 46 custom enchant names
+[18:42:23] [Server thread/INFO]: Loaded 16 custom color names
+[18:42:24] [Server thread/INFO]: Update shops items icon section and use 'ItemStack' instead
+[18:42:24] [Server thread/INFO]: Loaded 4 shop items
+[18:42:24] [Server thread/INFO]: Loaded 1 quests for Hunter
+[18:42:24] [Server thread/INFO]: Loaded 1 quests for Fisherman
+[18:42:24] [Server thread/INFO]: Loaded 1 quests for Crafter
+[18:42:24] [Server thread/INFO]: Loaded 1 quests for Brewer
+[18:42:24] [Server thread/INFO]: Loaded 1 quests for Miner
+[18:42:24] [Server thread/INFO]: Loaded 1 quests for Explorer
+[18:42:24] [Server thread/INFO]: Loaded 1 quests for Woodcutter
+[18:42:24] [Server thread/INFO]: Loaded 1 quests for Digger
+[18:42:24] [Server thread/INFO]: Loaded 1 quests for Enchanter
+[18:42:24] [Server thread/INFO]: Loaded 1 quests for Weaponsmith
+[18:42:24] [Server thread/INFO]: Loaded 1 quests for Builder
+[18:42:24] [Server thread/INFO]: Loaded 1 quests for Farmer
+[18:42:24] [Server thread/INFO]: Loaded 12 jobs
+[18:42:24] [Server thread/INFO]: Loaded 0 boosted items
+[18:42:24] [Jobs-DatabaseSaveTask/INFO]: Started database save task.
+[18:42:24] [Jobs-BufferedPaymentThread/INFO]: Started buffered payment thread.
+[18:42:24] [Server thread/INFO]: mcMMO detected.
+[18:42:24] [Server thread/INFO]: Registering listeners...
+[18:42:24] [Server thread/INFO]: Registered mcMMO 2.x listener.
+[18:42:24] [Server thread/INFO]: Listeners registered successfully
+[18:42:24] [Server thread/INFO]: Plugin has been enabled successfully.
+[18:42:24] [Server thread/INFO]: ------------------------------------
+[18:42:24] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.21.0
+[18:42:24] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
+[18:42:24] [Server thread/INFO]: [AuctionHouse] Enabling AuctionHouse v1.3.9
+[18:42:24] [Server thread/INFO]: [AuctionHouse] AuctionHouse enabled in 99ms
+[18:42:25] [Server thread/INFO]: [spark] Starting background profiler...
+[18:42:26] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[18:42:26] [Server thread/INFO]: [Geyser-Spigot] 
+[18:42:26] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.9.1-b1002 (git-master-0cdd31e)
+[18:42:26] [Server thread/INFO]: [Geyser-Spigot] 
+[18:42:26] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[18:42:39] [GeyserServer-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
+[18:42:39] [Server thread/INFO]: [Geyser-Spigot] Done (12.56s)! Run /geyser help for help!
+[18:42:39] [Server thread/WARN]: [Geyser-Spigot] Your server software does not support the Java version that Geyser requires (1.21.9). Please install ViaVersion (https://ci.viaversion.com/job/ViaVersion/) or update your server software!
+[18:42:39] [Server thread/INFO]: Done preparing level "world" (71.182s)
+[18:42:39] [Server thread/INFO]: Starting remote control listener
+[18:42:39] [Server thread/WARN]: No rcon password set in server.properties, rcon disabled!
+[18:42:39] [Server thread/ERROR]: Couldn't load server icon
+java.lang.IllegalStateException: Must be 64 pixels wide
+	at com.google.common.base.Preconditions.checkState(Preconditions.java:513) ~[guava-33.3.1-jre.jar:?]
+	at net.minecraft.server.MinecraftServer.lambda$loadStatusIcon$17(MinecraftServer.java:1595) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at java.base/java.util.Optional.flatMap(Optional.java:289) ~[?:?]
+	at net.minecraft.server.MinecraftServer.loadStatusIcon(MinecraftServer.java:1591) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1241) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:341) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[18:42:39] [Server thread/INFO]: Running delayed init tasks
+[18:42:39] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[18:42:39] [Craft Scheduler Thread - 4 - Essentials/INFO]: [Essentials] Fetching version information...
+[18:42:39] [Craft Scheduler Thread - 26 - AuthMe/INFO]: [AuthMe] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[18:42:39] [Craft Scheduler Thread - 26 - AuthMe/WARN]: [AuthMe] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[18:42:39] [Craft Scheduler Thread - 26 - AuthMe/INFO]: [AuthMe] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[18:42:39] [Craft Scheduler Thread - 26 - AuthMe/WARN]: [AuthMe] Could not download GeoLiteAPI database [FileNotFoundException]: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+[18:42:39] [Craft Scheduler Thread - 30 - Vault/INFO]: [Vault] Checking for Updates ... 
+[18:42:39] [Server thread/INFO]: [Jobs] Successfully linked with Vault. (Essentials)
+[18:42:39] [Server thread/INFO]: [Jobs] Successfully linked with Vault. (LuckPerms)
+[18:42:39] [Server thread/INFO]: Done (113.235s)! For help, type "help"
+[18:42:39] [Craft Scheduler Thread - 30 - Vault/INFO]: [Vault] No new version available
+[18:42:39] [Server thread/INFO]: oven (/127.212.166.221:38195) lost connection: Disconnected
+[18:42:40] [Server thread/INFO]: Downloaded Locale_ZH.yml file
+[18:42:40] [Server thread/INFO]: Updated (EN) language file. Took 38ms
+[18:42:40] [Server thread/INFO]: Downloaded Locale_DE.yml file
+[18:42:40] [Server thread/INFO]: Downloaded Locale_CN.yml file
+[18:42:40] [Server thread/INFO]: Downloaded Locale_CZ.yml file
+[18:42:40] [Server thread/INFO]: Downloaded Locale_LT.yml file
+[18:42:40] [Server thread/INFO]: Downloaded Locale_PL.yml file
+[18:42:40] [Server thread/INFO]: Downloaded Locale_SL.yml file
+[18:42:40] [Server thread/INFO]: Downloaded Locale_UA.yml file
+[18:42:40] [Server thread/INFO]: Downloaded Locale_NO.yml file
+[18:42:40] [Server thread/INFO]: Downloaded Locale_TR.yml file
+[18:42:40] [Server thread/INFO]: Downloaded Locale_RU.yml file
+[18:42:40] [Server thread/INFO]: Downloaded items_ES.yml file
+[18:42:40] [Server thread/INFO]: Downloaded Locale_IT.yml file
+[18:42:40] [Server thread/INFO]: Downloaded Locale_SK.yml file
+[18:42:40] [Server thread/INFO]: Downloaded Locale_ES.yml file
+[18:42:40] [Server thread/INFO]: Downloaded Locale_BR.yml file
+[18:42:40] [Server thread/INFO]: Downloaded items_CN.yml file
+[18:42:40] [Server thread/INFO]: Downloaded Locale_FR.yml file
+[18:42:40] [Server thread/INFO]: Downloaded items_RU.yml file
+[18:42:40] [Server thread/INFO]: Updated (EN) language file. Took 17ms
+[18:42:40] [Craft Scheduler Thread - 4 - Essentials/WARN]: [Essentials] There is a new EssentialsX version available for download: 2.21.2.
+[18:42:40] [Craft Scheduler Thread - 4 - Essentials/WARN]: [Essentials] Download it here: https://essentialsx.net/downloads.html?branch=stable
+[18:42:41] [User Authenticator #0/INFO]: UUID of player oven is 46e44b98-3f62-3483-a9ea-5b246b676a26
+[18:42:55] [User Authenticator #0/INFO]: UUID of player oven is 46e44b98-3f62-3483-a9ea-5b246b676a26
+[18:42:57] [Server thread/INFO]: oven joined the game
+[18:42:57] [Server thread/INFO]: oven[/127.212.166.221:37857] logged in with entity id 17 at ([world]216.93019791279647, 75.0, -623.8048524872868)
+[18:42:57] [Server thread/WARN]: [Essentials] Permissions lag notice with (LuckPermsHandler). Response took 35.382432ms. Summary: Getting prefix for oven
+[18:43:08] [Craft Scheduler Thread - 10 - AuthMe/INFO]: [AuthMe] oven logged in 127.212.166.221
+[18:43:55] [Server thread/INFO]: oven issued server command: /jobs
+[18:44:06] [Server thread/INFO]: oven lost connection: Disconnected
+[18:44:06] [Server thread/INFO]: oven left the game
