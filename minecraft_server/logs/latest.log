@@ -222,3 +222,37 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [18:20:15] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: d2260f2a-9c17-405b-8c27-f9e5110d4739, mapped to Chicken['Chicken'/249, uuid='d2260f2a-9c17-405b-8c27-f9e5110d4739', l='ServerLevel[world]', x=67.13, y=70.00, z=-735.12, cpos=[4, -46], tl=44694, v=true], can't add Chicken['Chicken'/259, uuid='d2260f2a-9c17-405b-8c27-f9e5110d4739', l='ServerLevel[world]', x=76.61, y=75.00, z=-740.49, cpos=[4, -47], tl=45843, v=false]
 [18:20:15] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: a8b607b7-7ea5-41ab-850d-bc9b6aa3e335, mapped to Chicken['Chicken'/250, uuid='a8b607b7-7ea5-41ab-850d-bc9b6aa3e335', l='ServerLevel[world]', x=66.15, y=70.00, z=-734.08, cpos=[4, -46], tl=43374, v=true], can't add Chicken['Chicken'/260, uuid='a8b607b7-7ea5-41ab-850d-bc9b6aa3e335', l='ServerLevel[world]', x=64.91, y=70.00, z=-742.07, cpos=[4, -47], tl=44523, v=false]
 [18:20:31] [Craft Scheduler Thread - 10 - AuthMe/INFO]: [AuthMe] oven logged in 127.212.166.221
+[18:21:04] [Server thread/INFO]: oven lost connection: Timed out
+[18:21:05] [Server thread/INFO]: oven left the game
+[18:21:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7189ms or 143 ticks behind
+[18:22:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5017ms or 100 ticks behind
+[18:22:03] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21.4-6-71a367e (MC: 1.21.4) ---
+[18:22:03] [Paper Watchdog Thread/ERROR]: The server has not responded for 0 seconds! Creating thread dump
+[18:22:03] [Paper Watchdog Thread/ERROR]: ------------------------------
+[18:22:03] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[18:22:03] [Paper Watchdog Thread/ERROR]: ------------------------------
+[18:22:03] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[18:22:03] [Paper Watchdog Thread/ERROR]: 	PID: 43 | Suspended: false | Native: false | State: RUNNABLE
+[18:22:03] [Paper Watchdog Thread/ERROR]: 	Stack:
+[18:22:03] [Paper Watchdog Thread/ERROR]: 		ca.spottedleaf.concurrentutil.map.ConcurrentLong2ReferenceChainedHashTable$NodeIterator.findNext(ConcurrentLong2ReferenceChainedHashTable.java:1597)
+[18:22:03] [Paper Watchdog Thread/ERROR]: 		ca.spottedleaf.concurrentutil.map.ConcurrentLong2ReferenceChainedHashTable$BaseIteratorImpl.hasNext(ConcurrentLong2ReferenceChainedHashTable.java:1421)
+[18:22:03] [Paper Watchdog Thread/ERROR]: 		ca.spottedleaf.moonrise.patches.chunk_system.scheduling.ChunkHolderManager.getOldChunkHolders(ChunkHolderManager.java:149)
+[18:22:03] [Paper Watchdog Thread/ERROR]: 		ca.spottedleaf.moonrise.common.util.ChunkSystem.getVisibleChunkHolders(ChunkSystem.java:54)
+[18:22:03] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.CraftWorld.getTileEntityCount(CraftWorld.java:224)
+[18:22:03] [Paper Watchdog Thread/ERROR]: 		me.lucko.spark.paper.PaperWorldInfoProvider.pollCounts(PaperWorldInfoProvider.java:57)
+[18:22:03] [Paper Watchdog Thread/ERROR]: 		me.lucko.spark.paper.common.platform.world.AsyncWorldInfoProvider$$Lambda/0x000070dba22a8000.apply(Unknown Source)
+[18:22:03] [Paper Watchdog Thread/ERROR]: 		me.lucko.spark.paper.common.platform.world.AsyncWorldInfoProvider.lambda$async$0(AsyncWorldInfoProvider.java:55)
+[18:22:03] [Paper Watchdog Thread/ERROR]: 		me.lucko.spark.paper.common.platform.world.AsyncWorldInfoProvider$$Lambda/0x000070dba22a8240.get(Unknown Source)
+[18:22:03] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+[18:22:03] [Paper Watchdog Thread/ERROR]: 		io.papermc.paper.SparksFly$1.lambda$catching$0(SparksFly.java:59)
+[18:22:03] [Paper Watchdog Thread/ERROR]: 		io.papermc.paper.SparksFly$1$$Lambda/0x000070dba1e84000.run(Unknown Source)
+[18:22:03] [Paper Watchdog Thread/ERROR]: 		io.papermc.paper.SparksFly.executeMainThreadTasks(SparksFly.java:93)
+[18:22:03] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1700)
+[18:22:03] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1331)
+[18:22:03] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:341)
+[18:22:03] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x000070dba0dca848.run(Unknown Source)
+[18:22:03] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.lang.Thread.runWith(Thread.java:1596)
+[18:22:03] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.lang.Thread.run(Thread.java:1583)
+[18:22:03] [Paper Watchdog Thread/ERROR]: ------------------------------
+[18:22:03] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[18:22:03] [Paper Watchdog Thread/ERROR]: ------------------------------
