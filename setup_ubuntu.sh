@@ -36,7 +36,7 @@ cd ..
 # 6. ตั้งค่าให้เล่นแบบ Offline (Minecraft เถื่อนเข้าได้)
 echo "ตั้งค่า server.properties (online-mode=false)..."
 echo "online-mode=false" > server.properties
-echo "motd=\u00A7aMinecraft Server for ALL Platforms" >> server.properties
+echo "motd=Ovenx Shop Server" >> server.properties
 
 # 7. ยอมรับ EULA
 echo "สร้างไฟล์ EULA..."
