@@ -1765,3 +1765,6 @@ Direct Download: https://get.discordsrv.com
 [01:30:52] [Craft Scheduler Thread - 13 - AuthMe/INFO]: [AuthMe] oven logged in 192.168.1.4
 [01:31:40] [Server thread/INFO]: oven lost connection: Disconnected
 [01:31:40] [Server thread/INFO]: oven left the game
+[01:37:47] [User Authenticator #1/INFO]: UUID of player oven is 46e44b98-3f62-3483-a9ea-5b246b676a26
+[01:37:48] [Server thread/INFO]: oven joined the game
+[01:37:48] [Server thread/INFO]: oven[/192.168.1.4:55528] logged in with entity id 351 at ([world]221.7213552856501, 75.0, -623.6851095788836)
