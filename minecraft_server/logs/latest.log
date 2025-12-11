@@ -1863,3 +1863,19 @@ Direct Download: https://get.discordsrv.com
 [22:50:18] [Paper Watchdog Thread/ERROR]: ------------------------------
 [22:50:18] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
 [22:50:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9394ms or 187 ticks behind
+[22:50:18] [Paper Watchdog Thread/ERROR]: ------------------------------
+[22:50:18] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[22:50:18] [Paper Watchdog Thread/ERROR]: 	PID: 43 | Suspended: false | Native: false | State: RUNNABLE
+[22:50:18] [Paper Watchdog Thread/ERROR]: 	Stack:
+[22:50:18] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.tickBlockEntities(Level.java:1462)
+[22:50:18] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:820)
+[22:50:18] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1877)
+[22:50:18] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1666)
+[22:50:18] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1331)
+[22:50:18] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:341)
+[22:50:18] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x0000757574dca220.run(Unknown Source)
+[22:50:18] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.lang.Thread.runWith(Thread.java:1596)
+[22:50:18] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.lang.Thread.run(Thread.java:1583)
+[22:50:18] [Paper Watchdog Thread/ERROR]: ------------------------------
+[22:50:18] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[22:50:18] [Paper Watchdog Thread/ERROR]: ------------------------------
