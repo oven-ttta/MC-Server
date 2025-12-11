@@ -1994,3 +1994,5 @@ Direct Download: https://get.discordsrv.com
 [01:38:42] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
 [01:38:42] [Paper Watchdog Thread/ERROR]: ------------------------------
 [01:38:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20062ms or 401 ticks behind
+[01:42:29] [Server thread/INFO]: oven lost connection: Disconnected
+[01:42:29] [Server thread/INFO]: oven left the game
