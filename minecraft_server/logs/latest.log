@@ -1827,3 +1827,4 @@ Direct Download: https://get.discordsrv.com
 [16:14:22] [Craft Scheduler Thread - 17 - AuthMe/INFO]: [AuthMe] oven logged in 127.212.166.221
 [16:14:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18979ms or 379 ticks behind
 [16:17:23] [Server thread/INFO]: oven issued server command: /gamemode creative
+[16:18:22] [GeyserServerChild-4-1/INFO]: [Geyser-Spigot] Bedrock user with ip: /192.168.1.128 has disconnected for reason Please log into Xbox to join this server.
