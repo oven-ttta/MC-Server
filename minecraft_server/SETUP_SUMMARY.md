@@ -100,9 +100,9 @@ bash setup_download_server.sh
 # หา IP ของ Server
 curl ifconfig.me
 
-# แทนที่ YOUR_SERVER_IP ในไฟล์ทั้งหมด
+# แทนที่ 192.168.1.13 ในไฟล์ทั้งหมด
 find /root/MC-Server/minecraft_server -type f \( -name "*.txt" -o -name "*.yml" -o -name "*.html" \) \
-  -exec sed -i 's/your-server-ip/YOUR_ACTUAL_IP/g' {} +
+  -exec sed -i 's/192.168.1.13/YOUR_ACTUAL_IP/g' {} +
 ```
 
 ### 4. ตั้งค่า DiscordSRV

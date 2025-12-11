@@ -33,13 +33,13 @@ items:
       - '&7━━━━━━━━━━━━━━━━━━━━━━━━━━━━'
       - ''
       - '&6&lดาวน์โหลด:'
-      - '&fhttp://your-server-ip:8080'
+      - '&fhttp://192.168.1.13:8081'
       - ''
       - '&7หรือพิมพ์ &f/downloads resourcepack'
       - ''
       - '&e&l[คลิกเพื่อคัดลอกลิงก์]'
     click_commands:
-      - '[message] &aลิงก์ดาวน์โหลด: &fhttp://your-server-ip:8080'
+      - '[message] &aลิงก์ดาวน์โหลด: &fhttp://192.168.1.13:8081'
       - '[message] &7คัดลอกลิงก์แล้ววางในเบราว์เซอร์'
   
   shader:
@@ -62,13 +62,13 @@ items:
       - '&7━━━━━━━━━━━━━━━━━━━━━━━━━━━━'
       - ''
       - '&6&lดาวน์โหลด:'
-      - '&fhttp://your-server-ip:8080'
+      - '&fhttp://192.168.1.13:8081'
       - ''
       - '&7หรือพิมพ์ &f/downloads shader'
       - ''
       - '&e&l[คลิกเพื่อคัดลอกลิงก์]'
     click_commands:
-      - '[message] &aลิงก์ดาวน์โหลด: &fhttp://your-server-ip:8080'
+      - '[message] &aลิงก์ดาวน์โหลด: &fhttp://192.168.1.13:8081'
       - '[message] &7คัดลอกลิงก์แล้ววางในเบราว์เซอร์'
   
   guide_resourcepack:

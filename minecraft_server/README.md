@@ -88,7 +88,7 @@
 2. **Join Message** - ข้อความเมื่อเข้าเกม
 3. **Auto Broadcast** - แจ้งเตือนทุก 10 นาที
 4. **คำสั่ง /downloads** - เปิดเมนูดาวน์โหลด
-5. **เว็บไซต์** - http://YOUR_SERVER_IP:8080
+5. **เว็บไซต์** - http://192.168.1.13:8081
 
 ---
 
@@ -128,9 +128,9 @@ bash setup_download_server.sh
 # หา IP ของ Server
 curl ifconfig.me
 
-# แทนที่ YOUR_SERVER_IP
+# แทนที่ 192.168.1.13
 find /root/MC-Server/minecraft_server -type f \( -name "*.txt" -o -name "*.yml" -o -name "*.html" \) \
-  -exec sed -i 's/your-server-ip/YOUR_ACTUAL_IP/g' {} +
+  -exec sed -i 's/192.168.1.13/YOUR_ACTUAL_IP/g' {} +
 ```
 
 ### ขั้นตอนที่ 4: เปิด Ports
@@ -155,7 +155,7 @@ pm2 restart minecraft-server
 ### สำหรับผู้เล่น
 
 #### เริ่มต้นเล่น
-1. เข้า Server: `your-server-ip:25565`
+1. เข้า Server: `192.168.1.13:25565`
 2. สมัครสมาชิก: `/register <password> <confirm>`
 3. เข้าสู่ระบบ: `/login <password>`
 4. เลือกอาชีพ: `/jobs browse`
@@ -163,7 +163,7 @@ pm2 restart minecraft-server
 
 #### ดาวน์โหลด Resource Pack และ Shader
 1. พิมพ์ `/downloads` ในเกม
-2. หรือเข้า http://YOUR_SERVER_IP:8080
+2. หรือเข้า http://192.168.1.13:8081
 3. ดาวน์โหลดไฟล์ทั้งสอง
 4. ติดตั้งตามคำแนะนำในเว็บ
 
@@ -287,7 +287,7 @@ pm2 restart minecraft-server
 
 ### สำหรับผู้เล่น
 ```
-1. เข้า Server: your-server-ip:25565
+1. เข้า Server: 192.168.1.13:25565
 2. สมัคร: /register <password> <confirm>
 3. ดาวน์โหลด: /downloads
 4. เลือกอาชีพ: /jobs browse
@@ -303,7 +303,7 @@ bash setup_plugins_config.sh
 bash setup_download_server.sh
 
 # แก้ไข IP
-sed -i 's/your-server-ip/YOUR_IP/g' plugins/Essentials/messages/*.txt
+sed -i 's/192.168.1.13/192.168.1.13/g' plugins/Essentials/messages/*.txt
 
 # รีสตาร์ท
 pm2 restart minecraft-server
@@ -315,7 +315,7 @@ pm2 restart minecraft-server
 
 - **Discord:** discord.gg/yourserver
 - **Website:** your-website.com
-- **Downloads:** http://YOUR_SERVER_IP:8080
+- **Downloads:** http://192.168.1.13:8081
 
 ---
 

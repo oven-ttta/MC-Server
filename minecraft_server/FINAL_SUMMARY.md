@@ -65,9 +65,9 @@ bash setup_download_server.sh
 # หา IP ของคุณ
 curl ifconfig.me
 
-# แทนที่ YOUR_SERVER_IP ด้วย IP จริง (เช่น 123.45.67.89)
+# แทนที่ 192.168.1.13 ด้วย IP จริง (เช่น 123.45.67.89)
 find /root/MC-Server/minecraft_server -type f \( -name "*.txt" -o -name "*.yml" -o -name "*.html" \) \
-  -exec sed -i 's/your-server-ip/YOUR_ACTUAL_IP/g' {} +
+  -exec sed -i 's/192.168.1.13/YOUR_ACTUAL_IP/g' {} +
 ```
 
 ### 4. ตั้งค่า Plugin อัตโนมัติ
@@ -151,7 +151,7 @@ pm2 restart minecraft
 - **Join Message** - ทุกครั้งที่เข้าเกม (แบบสั้น ตามที่คุณแก้ไข)
 - **Auto Broadcast** - ทุก 10 นาที (ต้องติดตั้ง AutoMessage plugin)
 - **คำสั่ง /downloads** - เมนู GUI (ต้องติดตั้ง DeluxeMenus plugin)
-- **เว็บไซต์** - http://YOUR_IP:8080 (ต้องรัน setup_download_server.sh)
+- **เว็บไซต์** - http://192.168.1.13:8081 (ต้องรัน setup_download_server.sh)
 
 ### 2. Plugin ที่ควรติดตั้งเพิ่ม (ถ้าต้องการ)
 ```bash
@@ -172,7 +172,7 @@ nano /root/MC-Server/minecraft_server/plugins/Essentials/config.yml
 announcements:
   interval: 600  # 10 นาที
   messages:
-    - '&6[Server] &eดาวน์โหลด Resource Pack และ Shader ที่ &fhttp://YOUR_IP:8080'
+    - '&6[Server] &eดาวน์โหลด Resource Pack และ Shader ที่ &fhttp://192.168.1.13:8081'
 ```
 
 ---

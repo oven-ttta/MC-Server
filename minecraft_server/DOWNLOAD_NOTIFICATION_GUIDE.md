@@ -23,7 +23,7 @@
 
 ### 2. เว็บไซต์ดาวน์โหลด
 - `setup_download_server.sh` - สคริปต์ตั้งค่า Web Server
-- จะสร้างเว็บไซต์ที่ http://YOUR_SERVER_IP:8080
+- จะสร้างเว็บไซต์ที่ http://192.168.1.13:8081
 
 ### 3. เมนูในเกม
 - `downloads_menu.yml` - เมนู GUI (ใช้กับ DeluxeMenus)
@@ -55,7 +55,7 @@ chmod +x setup_download_server.sh
 bash setup_download_server.sh
 ```
 
-**หมายเหตุ:** แก้ไข `YOUR_SERVER_IP` ในไฟล์ต่างๆ ให้เป็น IP จริงของ Server
+**หมายเหตุ:** แก้ไข `192.168.1.13` ในไฟล์ต่างๆ ให้เป็น IP จริงของ Server
 
 ### ขั้นตอนที่ 3: คัดลอกไฟล์ Config
 
@@ -74,9 +74,9 @@ cp autobroadcast_downloads.yml plugins/AutoMessage/
 
 แก้ไข IP Address ในไฟล์ทั้งหมด:
 ```bash
-# แทนที่ YOUR_SERVER_IP ด้วย IP จริง
+# แทนที่ 192.168.1.13 ด้วย IP จริง
 find /root/MC-Server/minecraft_server -type f -name "*.txt" -o -name "*.yml" | \
-xargs sed -i 's/your-server-ip/YOUR_ACTUAL_IP/g'
+xargs sed -i 's/192.168.1.13/YOUR_ACTUAL_IP/g'
 ```
 
 ### ขั้นตอนที่ 5: เปิด Port
@@ -118,7 +118,7 @@ Server จะแจ้งเตือนให้ดาวน์โหลดอ�
 
 ### URL
 ```
-http://YOUR_SERVER_IP:8080
+http://192.168.1.13:8081
 ```
 
 ### ฟีเจอร์
@@ -156,7 +156,7 @@ http://YOUR_SERVER_IP:8080
 🎨 Resource Pack: Faithful 64x
 ✨ Shader Pack: Sildur's Vibrant Shaders
 
-ดาวน์โหลด: http://your-server-ip:8080
+ดาวน์โหลด: http://192.168.1.13:8081
 ```
 
 ### Join Message
@@ -168,10 +168,10 @@ http://YOUR_SERVER_IP:8080
 ⚠️  แนะนำให้ดาวน์โหลดเพื่อประสบการณ์ที่ดีที่สุด!
 
 📦 Resource Pack: Faithful 64x
-   ดาวน์โหลด: http://your-server-ip:8080
+   ดาวน์โหลด: http://192.168.1.13:8081
 
 ✨ Shader Pack: Sildur's Vibrant Shaders
-   ดาวน์โหลด: http://your-server-ip:8080
+   ดาวน์โหลด: http://192.168.1.13:8081
 ```
 
 ### Auto Broadcast (ทุก 10 นาที)
@@ -182,7 +182,7 @@ http://YOUR_SERVER_IP:8080
 ✨ Resource Pack: Faithful 64x (กราฟิกสวยขึ้น 4 เท่า!)
 ✨ Shader Pack: Sildur's Vibrant (แสงเงาสมจริง!)
 
-ดาวน์โหลด: http://your-server-ip:8080
+ดาวน์โหลด: http://192.168.1.13:8081
 หรือพิมพ์: /downloads
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
@@ -265,7 +265,7 @@ grep "GET / " /var/log/nginx/access.log | wc -l
 - [ ] ติดตั้ง DeluxeMenus plugin
 - [ ] ติดตั้ง AutoMessage plugin
 - [ ] รัน setup_download_server.sh
-- [ ] แก้ไข YOUR_SERVER_IP ทุกที่
+- [ ] แก้ไข 192.168.1.13 ทุกที่
 - [ ] เปิด Port 8080
 - [ ] คัดลอกไฟล์ config ทั้งหมด
 - [ ] รีสตาร์ท Server
@@ -289,4 +289,4 @@ grep "GET / " /var/log/nginx/access.log | wc -l
 
 ---
 
-**หมายเหตุ:** อย่าลืมแก้ไข `YOUR_SERVER_IP` ให้เป็น IP จริงของ Server ครับ!
+**หมายเหตุ:** อย่าลืมแก้ไข `192.168.1.13` ให้เป็น IP จริงของ Server ครับ!
