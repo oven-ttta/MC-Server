@@ -1465,3 +1465,31 @@ org.bukkit.plugin.InvalidPluginException: Unsupported API version 1.21.10
 [01:13:06] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
 [01:13:06] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_21_4.PaperweightAdapter as the Bukkit adapter
 [01:13:09] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.9.0
+[01:13:11] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.4.
+[01:13:11] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
+[01:13:13] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[01:13:13] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:13:13] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:13:13] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:13:13] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:13:13] [Server thread/INFO]: Preparing level "world"
+[01:13:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[01:13:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[01:13:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[01:13:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[01:13:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[01:13:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[01:13:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[01:13:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.9.0
+[01:13:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 1565b8f
+[01:13:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[01:13:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[01:13:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[01:13:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[01:13:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:13:18] [Server thread/INFO]: Preparing spawn area: 0%
+[01:13:18] [Server thread/INFO]: Preparing spawn area: 0%
+[01:13:18] [Server thread/INFO]: Preparing spawn area: 0%
+[01:13:19] [Server thread/INFO]: Preparing spawn area: 2%
+[01:13:19] [Server thread/INFO]: Preparing spawn area: 2%
+[01:13:19] [Server thread/INFO]: Preparing spawn area: 2%
