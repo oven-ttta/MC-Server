@@ -1493,3 +1493,111 @@ org.bukkit.plugin.InvalidPluginException: Unsupported API version 1.21.10
 [01:13:19] [Server thread/INFO]: Preparing spawn area: 2%
 [01:13:19] [Server thread/INFO]: Preparing spawn area: 2%
 [01:13:19] [Server thread/INFO]: Preparing spawn area: 2%
+[01:13:21] [Server thread/INFO]: Preparing spawn area: 18%
+[01:13:21] [Server thread/INFO]: Preparing spawn area: 18%
+[01:13:21] [Server thread/INFO]: Preparing spawn area: 20%
+[01:13:22] [Server thread/INFO]: Preparing spawn area: 26%
+[01:13:22] [Server thread/INFO]: Preparing spawn area: 26%
+[01:13:22] [Server thread/INFO]: Time elapsed: 5475 ms
+[01:13:22] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[01:13:22] [Server thread/INFO]: Preparing spawn area: 0%
+[01:13:22] [Server thread/INFO]: Time elapsed: 424 ms
+[01:13:22] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[01:13:22] [Server thread/INFO]: Preparing spawn area: 0%
+[01:13:29] [Server thread/INFO]: Preparing spawn area: 32%
+[01:13:29] [Server thread/INFO]: Preparing spawn area: 32%
+[01:13:29] [Server thread/INFO]: Preparing spawn area: 32%
+[01:13:29] [Server thread/INFO]: Preparing spawn area: 32%
+[01:13:29] [Server thread/INFO]: Preparing spawn area: 32%
+[01:13:29] [Server thread/INFO]: Preparing spawn area: 32%
+[01:13:29] [Server thread/INFO]: Preparing spawn area: 32%
+[01:13:29] [Server thread/INFO]: Preparing spawn area: 32%
+[01:13:29] [Server thread/INFO]: Preparing spawn area: 32%
+[01:13:29] [Server thread/INFO]: Preparing spawn area: 32%
+[01:13:29] [Server thread/INFO]: Preparing spawn area: 32%
+[01:13:29] [Server thread/INFO]: Preparing spawn area: 32%
+[01:13:29] [Server thread/INFO]: Preparing spawn area: 32%
+[01:13:29] [Server thread/INFO]: Time elapsed: 6887 ms
+[01:13:29] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.3.12
+[01:13:29] [Server thread/WARN]: [Multiverse-Core] "Multiverse-Core v4.3.12" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
+[01:13:29] [Server thread/INFO]: [Multiverse-Core] §aWe are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
+[01:13:30] [Server thread/INFO]: [Multiverse-Core] 3 - World(s) loaded.
+[01:13:30] [Server thread/WARN]: [Multiverse-Core] Buscript failed to load! The script command will be disabled! If you would like not to see this message, use `/mv conf enablebuscript false` to disable Buscript from loading.
+[01:13:30] [Server thread/INFO]: [Multiverse-Core] Version 4.3.12 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
+[01:13:30] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0
+[01:13:32] [Server thread/ERROR]: [Essentials] The file plugins/Essentials/config.yml is broken, it has been renamed to /root/MC-Server/minecraft_server/plugins/Essentials/config.yml.broken.1765415612215
+com.earth2me.essentials.libs.configurate.yaml.internal.snakeyaml.parser.ParserException: while parsing a block mapping
+ in 'reader', line 27, column 1:
+    ops-name-color: '4'
+    ^
+expected <block end>, but found '<block mapping start>'
+ in 'reader', line 794, column 3:
+      default: 3
+      ^
+
+	at EssentialsX.jar/com.earth2me.essentials.libs.configurate.yaml.internal.snakeyaml.parser.ParserImpl$ParseBlockMappingKey.produce(ParserImpl.java:654) ~[EssentialsX.jar:?]
+	at EssentialsX.jar/com.earth2me.essentials.libs.configurate.yaml.internal.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:161) ~[EssentialsX.jar:?]
+	at EssentialsX.jar/com.earth2me.essentials.libs.configurate.yaml.internal.snakeyaml.comments.CommentEventsCollector$1.peek(CommentEventsCollector.java:57) ~[EssentialsX.jar:?]
+	at EssentialsX.jar/com.earth2me.essentials.libs.configurate.yaml.internal.snakeyaml.comments.CommentEventsCollector$1.peek(CommentEventsCollector.java:43) ~[EssentialsX.jar:?]
+	at EssentialsX.jar/com.earth2me.essentials.libs.configurate.yaml.internal.snakeyaml.comments.CommentEventsCollector.collectEvents(CommentEventsCollector.java:136) ~[EssentialsX.jar:?]
+	at EssentialsX.jar/com.earth2me.essentials.libs.configurate.yaml.internal.snakeyaml.comments.CommentEventsCollector.collectEvents(CommentEventsCollector.java:116) ~[EssentialsX.jar:?]
+	at EssentialsX.jar/com.earth2me.essentials.libs.configurate.yaml.internal.snakeyaml.composer.Composer.composeMappingNode(Composer.java:336) ~[EssentialsX.jar:?]
+	at EssentialsX.jar/com.earth2me.essentials.libs.configurate.yaml.internal.snakeyaml.composer.Composer.composeNode(Composer.java:218) ~[EssentialsX.jar:?]
+	at EssentialsX.jar/com.earth2me.essentials.libs.configurate.yaml.internal.snakeyaml.composer.Composer.composeValueNode(Composer.java:396) ~[EssentialsX.jar:?]
+	at EssentialsX.jar/com.earth2me.essentials.libs.configurate.yaml.internal.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:361) ~[EssentialsX.jar:?]
+	at EssentialsX.jar/com.earth2me.essentials.libs.configurate.yaml.internal.snakeyaml.composer.Composer.composeMappingNode(Composer.java:329) ~[EssentialsX.jar:?]
+	at EssentialsX.jar/com.earth2me.essentials.libs.configurate.yaml.internal.snakeyaml.composer.Composer.composeNode(Composer.java:218) ~[EssentialsX.jar:?]
+	at EssentialsX.jar/com.earth2me.essentials.libs.configurate.yaml.internal.snakeyaml.composer.Composer.getNode(Composer.java:141) ~[EssentialsX.jar:?]
+	at EssentialsX.jar/com.earth2me.essentials.libs.configurate.yaml.internal.snakeyaml.composer.Composer.getSingleNode(Composer.java:167) ~[EssentialsX.jar:?]
+	at EssentialsX.jar/com.earth2me.essentials.libs.configurate.yaml.internal.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:179) ~[EssentialsX.jar:?]
+	at EssentialsX.jar/com.earth2me.essentials.libs.configurate.yaml.internal.snakeyaml.Yaml.loadFromReader(Yaml.java:508) ~[EssentialsX.jar:?]
+	at EssentialsX.jar/com.earth2me.essentials.libs.configurate.yaml.internal.snakeyaml.Yaml.load(Yaml.java:461) ~[EssentialsX.jar:?]
+	at EssentialsX.jar/com.earth2me.essentials.libs.configurate.yaml.YamlConfigurationLoader.loadInternal(YamlConfigurationLoader.java:207) ~[EssentialsX.jar:?]
+	at EssentialsX.jar/com.earth2me.essentials.libs.configurate.yaml.YamlConfigurationLoader.loadInternal(YamlConfigurationLoader.java:48) ~[EssentialsX.jar:?]
+	at EssentialsX.jar/com.earth2me.essentials.libs.configurate.loader.AbstractConfigurationLoader.load(AbstractConfigurationLoader.java:161) ~[EssentialsX.jar:?]
+	at EssentialsX.jar/com.earth2me.essentials.libs.configurate.loader.AbstractConfigurationLoader.load(AbstractConfigurationLoader.java:69) ~[EssentialsX.jar:?]
+	at EssentialsX.jar/com.earth2me.essentials.libs.configurate.loader.ConfigurationLoader.load(ConfigurationLoader.java:56) ~[EssentialsX.jar:?]
+	at EssentialsX.jar/com.earth2me.essentials.config.EssentialsConfiguration.load(EssentialsConfiguration.java:391) ~[EssentialsX.jar:?]
+	at EssentialsX.jar/com.earth2me.essentials.Settings.reloadConfig(Settings.java:796) ~[EssentialsX.jar:?]
+	at EssentialsX.jar/com.earth2me.essentials.Settings.<init>(Settings.java:160) ~[EssentialsX.jar:?]
+	at EssentialsX.jar/com.earth2me.essentials.Essentials.onEnable(Essentials.java:305) ~[EssentialsX.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:288) ~[paper-api-1.21.4-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[paper-api-1.21.4-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:655) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:604) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at net.minecraft.server.MinecraftServer.loadWorld0(MinecraftServer.java:769) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at net.minecraft.server.MinecraftServer.loadLevel(MinecraftServer.java:531) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:326) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1236) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:341) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[01:13:32] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[01:13:32] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[01:13:32] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
+[01:13:32] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
+[01:13:32] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
+[01:13:32] [Server thread/INFO]: [Essentials] Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
+[01:13:32] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
+[01:13:32] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
+[01:13:32] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
+[01:13:32] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
+[01:13:32] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
+[01:13:32] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
+[01:13:32] [Server thread/INFO]: [Essentials] Selected 1.21.4+ Sync Commands Provider as the provider for SyncCommandsProvider
+[01:13:32] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
+[01:13:32] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
+[01:13:32] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
+[01:13:32] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
+[01:13:32] [Server thread/INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
+[01:13:32] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
+[01:13:32] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
+[01:13:33] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
+[01:13:33] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
+[01:13:33] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
+[01:13:33] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
+[01:13:33] [Server thread/INFO]: [Essentials] Creating config from template: plugins/Essentials/config.yml
+[01:13:34] [Server thread/INFO]: [Essentials] Loaded 43465 items from items.json.
+[01:13:34] [Server thread/INFO]: [Essentials] Using locale en_US
+[01:13:34] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
