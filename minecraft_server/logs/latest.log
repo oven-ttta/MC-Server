@@ -1766,3 +1766,20 @@ Direct Download: https://get.discordsrv.com
 [16:13:16] [Server thread/INFO]: [Jobs] Successfully linked with Vault. (LuckPerms)
 [16:13:16] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.5.1, you're on: 5.5.0
 [16:13:16] [Server thread/INFO]: Done (90.535s)! For help, type "help"
+[16:13:48] [User Authenticator #0/INFO]: UUID of player oven is 46e44b98-3f62-3483-a9ea-5b246b676a26
+[16:13:51] [Server thread/INFO]: oven joined the game
+[16:13:51] [Server thread/INFO]: oven[/127.212.166.221:49675] logged in with entity id 18 at ([world]216.3870634498393, 79.0, -628.636387399253)
+[16:13:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2553ms or 51 ticks behind
+[16:14:21] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21.4-6-71a367e (MC: 1.21.4) ---
+[16:14:21] [Paper Watchdog Thread/ERROR]: The server has not responded for 16 seconds! Creating thread dump
+[16:14:21] [Paper Watchdog Thread/ERROR]: ------------------------------
+[16:14:21] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[16:14:21] [Paper Watchdog Thread/ERROR]: Ticking entity: minecraft:bat, entity class: net.minecraft.world.entity.ambient.Bat
+[16:14:21] [Paper Watchdog Thread/ERROR]: Entity status: removed: false, valid: true, alive: true, is passenger: false
+[16:14:21] [Paper Watchdog Thread/ERROR]: Entity UUID: 4601a244-a64e-4bc7-81c0-be9a7818270d
+[16:14:21] [Paper Watchdog Thread/ERROR]: Position: world: 'world' at location (170.37539568854882, 11.74370520710953, -538.8721494907829)
+[16:14:21] [Paper Watchdog Thread/ERROR]: Velocity: (-0.02606542687534146, 0.05875955745715426, -0.05691447108001611) (in blocks per tick)
+[16:14:21] [Paper Watchdog Thread/ERROR]: Entity AABB: AABB[170.12539568854882, 11.74370520710953, -539.1221494907829] -> [170.62539568854882, 12.643705183267672, -538.6221494907829]
+[16:14:21] [Paper Watchdog Thread/ERROR]: Move call information: 
+[16:14:21] [Paper Watchdog Thread/ERROR]: Start position: (170.40146111542415, 11.684945649652375, -538.8152350197029)
+[16:14:21] [Paper Watchdog Thread/ERROR]: Move vector: (-0.02606542687534146, 0.05875955745715426, -0.05691447108001611)
