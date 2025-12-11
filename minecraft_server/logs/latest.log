@@ -2000,3 +2000,20 @@ Direct Download: https://get.discordsrv.com
 [01:42:45] [Server thread/INFO]: oven joined the game
 [01:42:45] [Server thread/INFO]: oven[/192.168.1.4:55582] logged in with entity id 941 at ([world]225.04038774939835, 75.0, -625.8451177304239)
 [01:42:56] [Craft Scheduler Thread - 29 - AuthMe/INFO]: [AuthMe] oven logged in 192.168.1.4
+[01:43:24] [Server thread/INFO]: oven lost connection: Disconnected
+[01:43:24] [Server thread/INFO]: oven left the game
+[01:43:42] [Server thread/INFO]: Stopping server
+[01:43:42] [Server thread/INFO]: [AuctionHouse] Disabling AuctionHouse v1.3.9
+[01:43:42] [Server thread/INFO]: [TAB] Disabling TAB v5.0.3
+[01:43:42] [Server thread/INFO]: [TAB] Disabled in 7ms
+[01:43:42] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.21.0
+[01:43:42] [Server thread/INFO]: [Jobs] Disabling Jobs v5.2.6.5
+[01:43:42] [Server thread/INFO]: ------------- Jobs -------------
+[01:43:42] [Server thread/INFO]: Cleared boss bar cache
+[01:43:42] [Jobs-DatabaseSaveTask/INFO]: Database save task shutdown!
+[01:43:42] [Server thread/INFO]: Saved player data
+[01:43:42] [Jobs-BufferedPaymentThread/INFO]: Buffered payment thread shutdown.
+[01:43:42] [Server thread/INFO]: Closed database connection
+[01:43:42] [Server thread/INFO]: ------------------------------------
+[01:43:42] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.9.1-SNAPSHOT
+[01:43:43] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
