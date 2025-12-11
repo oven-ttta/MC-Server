@@ -282,3 +282,10 @@
 [12-11 01:30:52]: [FINE] oven logged in 192.168.1.4
 [12-11 01:37:55]: [FINE] oven logged in 192.168.1.4
 [12-11 01:42:56]: [FINE] oven logged in 192.168.1.4
+[12-11 01:44:44]: [INFO] SQLite Setup finished
+[12-11 01:44:45]: [INFO] Hooked into LuckPerms!
+[12-11 01:44:45]: [INFO] Hooked successfully into Essentials
+[12-11 01:44:45]: [INFO] Hooked successfully into Multiverse-Core
+[12-11 01:44:45]: [INFO] Essentials spawn file not found: '/root/MC-Server/minecraft_server/plugins/Essentials/spawn.yml'
+[12-11 01:44:45]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[12-11 01:44:45]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
