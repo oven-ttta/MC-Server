@@ -1,0 +1,273 @@
+# color codes:
+# §0: Black
+# §1: Dark Blue
+# §2: Dark Green
+# §3: Dark Aqua
+# §4: Dark Red
+# §5: Dark Purple
+# §6: Gold
+# §7: Gray
+# §8: Dark Gray
+# §9: Blue
+# §a: Green
+# §b: Aqua
+# §c: Red
+# §d: Light Purple
+# §e: Yellow
+# §f: White
+
+# §k obfuscated
+# §l bold
+# §m strikethrough
+# §n underline
+# §o italic
+# §r reset
+# &n new line
+
+# chat messages from the auction house
+chat:
+  already-sold: §cERROR! This item has already been sold!
+  already-sold2: §cThis item has already been sold!
+  non-existent: §cERROR! This item has been removed!
+  non-existent2: §cThis item has been removed!
+  not-enough-money: §cYou don't have enough money to buy this item!
+  inventory-full: §cYour inventory is full! &nPlease empty a slot in order to take
+    the item!
+  admin-expire-auction: '§b------------------------------------------------- &n§aYou
+    successfully expired the auction &n§rReason: %reason% &n§b-------------------------------------------------'
+  admin-delete-auction: '§b------------------------------------------------- &n§aYou
+    successfully deleted the auction &n§rReason: %reason% &n§b-------------------------------------------------'
+  expired-auction-by-admin: '§4------------------------------------------------- &n§cYour
+    auction was expired by a moderator &n§7Reason: %reason% &n§4-------------------------------------------------'
+  deleted-auction-by-admin: '§4------------------------------------------------- &n§cYour
+    auction was deleted by a moderator &n§7Reason: %reason% &n§4-------------------------------------------------'
+  own-auction: This is your own auction! You cannot buy it.
+  auction-canceled: §b------------------------------------------------- &n§eYour auction
+    was canceled! &n§b-------------------------------------------------
+  collect-sold-auction: §b------------------------------------------------- &n§eYou
+    collected an auction for %price%! &n§b-------------------------------------------------
+  purchase-auction: §b------------------------------------------------- &n§eYou purchased
+    an item from §7%player%§e's auction &n§b-------------------------------------------------
+  sold-message:
+    prefix: '§6[Auction] §7%player%§e bought %item%§e for %price% '
+    interaction: §f§l[CLICK]
+    auto-collect: §6[Auction] §7%player%§e bought %item%§e! §6+%price%
+  auction-announcement: §6[Auction] §7%player%§e is selling %item%§e x%amount% for
+    %price%
+  invalid-amount: §cThat is not a valid amount!
+
+inventory-titles:
+  admin-confirm-gui: Confirm Action
+  admin-menu: Admin Menu
+  auction-house: Auction House
+  cancel-auction: Cancel Auction
+  collect-expired: Collect Expired Item
+  collect-sold: Collect Sold Item
+  my-auctions: My Auctions
+  anvil-search: Search Item
+  anvil-admin-search: Admin Search Item
+  anvil-admin-expire-message: Expire Item Reason
+  anvil-admin-delete-message: Delete Item Reason
+  anvil-set-amount: Set Amount
+items:
+  next-page:
+    name: §aNext Page
+    lore: §7%page%/%pages% &n &n§eRight-Click to skip! &n§aClick to turn the page!
+  previous-page:
+    name: §aPrevious Page
+    lore: §7%page%/%pages% &n &n§eRight-Click to skip! &n§aClick to turn the page!
+  search:
+    name: §aSearch
+    lore: '§7Find Items by name, type or enchants &n &n§7Filter: %filter% &n &n§eRight-Click
+      to clear! &n§aClick to set filter!'
+  locked-slot:
+    name: §cLocked Slot
+  refresh:
+    name: §aRefresh
+    lore: §7Click to refresh the menu
+  back-main-menu:
+    name: §aMain Menu
+    lore: §7Click to go back!
+  back-my-auctions:
+    name: §aMy Auctions
+    lore: §7Click to go back!
+  info:
+    name: §aInfo
+    lore: §7To set up a new auction use &n§7/ah sell 1000 &n§7while holding the item
+      to sell in your hand &n§7The number will be the price of the item &n§7Current
+      tax is %tax% &n§8 - auction house made by ElaineQheart
+  my-auctions:
+    name: §aMy Auctions
+    lore: §7Click to view your auctions!
+  sort-highest-price:
+    name: §aSort
+    lore: ' &n§b► Highest Price &n§7 Lowest Price &n§7 Ending Soon &n§7 Alphabetical
+      &n &n§eRight-Click to go backwards! &n§aClick to switch sort!'
+  sort-lowest-price:
+    name: §aSort
+    lore: ' &n§7 Highest Price &n§b► Lowest Price &n§7 Ending Soon &n§7 Alphabetical
+      &n &n§eRight-Click to go backwards! &n§aClick to switch sort!'
+  sort-ending-soon:
+    name: §aSort
+    lore: ' &n§7 Highest Price &n§7 Lowest Price &n§b► Ending Soon &n§7 Alphabetical
+      &n &n§eRight-Click to go backwards! &n§aClick to switch sort!'
+  sort-alphabetical:
+    name: §aSort
+    lore: ' &n§7 Highest Price &n§7 Lowest Price &n§7 Ending Soon &n§b► Alphabetical
+      &n &n§eRight-Click to go backwards! &n§aClick to switch sort!'
+  my-sort-all:
+    name: §aSort
+    lore: ' &n§b► All Auctions &n§7 Sold Items &n§7 Expired Items &n§7 Active Auctions
+      &n &n§eRight-Click to go backwards! &n§aClick to switch sort!'
+  my-sort-sold:
+    name: §aSort
+    lore: ' &n§7 All Auctions &n§b► Sold Items &n§7 Expired Items &n§7 Active Auctions
+      &n &n§eRight-Click to go backwards! &n§aClick to switch sort!'
+  my-sort-expired:
+    name: §aSort
+    lore: ' &n§7 All Auctions &n§7 Sold Items &n§b► Expired Items &n§7 Active Auctions
+      &n &n§eRight-Click to go backwards! &n§aClick to switch sort!'
+  my-sort-active:
+    name: §aSort
+    lore: ' &n§7 All Auctions &n§7 Sold Items &n§7 Expired Items &n§b► Active Auctions
+      &n &n§eRight-Click to go backwards! &n§aClick to switch sort!'
+  cancel:
+    name: §cCancel
+  collect-expired:
+    name: §cCollect Expired Item
+    lore: ' &n§eClick to collect!'
+  cancel-auction:
+    name: §cCancel Auction Item
+    lore: ' &n§eClick to collect!'
+  admin-info:
+    name: §aInfo
+    lore: §7Click on an item to expire or delete it &n§7Expired items can be collected
+      again by the player &n§7Deleted items will be removed from the auction house
+      &n§7and you will get them in your inventory
+  admin-cancel-auction:
+    name: §cCancel Auction Item
+    lore: ' &n§eThe player won''t get the item back! You will collect it!'
+  admin-expire-auction:
+    name: §eExpire Auction Item
+    lore: ' &n§eClick to make it expire!'
+  confirm:
+    name: §aConfirm
+  deleted:
+    name: §cCanceled Item
+  auction:
+    lore:
+      default: '§8------------------ &n§7Seller: %player% &n§7Price: %price% &n '
+      own-auction: '§aThis is your own item! &n '
+      admin-deleted: §cDeleted by a moderator!
+      admin-expired: §cExpired by a moderator!
+      admin-message: '§7Reason: %reason%'
+      expired: §cExpired!
+      sold: '§6Sold! &n§7Buyer: %buyer%'
+      partially-sold: '§6Sold: §e%sold%/%total% &n§7Buyer: %buyer%&n '
+      waiting-list: 'Auction starting in: %time%'
+      active: 'Ends in: %time%'
+      buying-item: §8------------------ &n§e§nBUYING ITEM!
+      shulker-preview: §f§oRight-Click to preview!
+  admin-expire-item:
+    lore: '§8------------------ &n§7Seller: %player% &n§7Price: %price% &n &n§cExpired
+      by a moderator! &n§7Reason: %reason%'
+  admin-delete-item:
+    lore: '§8------------------ &n§7Seller: %player% &n§7Price: %price% &n &n§cDeleted
+      by a moderator! &n§7Reason: %reason%'
+  buy-item:
+    name: §6Buy Item right now!
+    lore: ' &n§7Price: %price% &n &n§eClick to buy!'
+  not-enough-money:
+    name: §6Buy Item right now!
+    lore: ' &n§7You need %price%§7 to buy this item! &n &n§cNot enough money!'
+  confirm-buy:
+    name: §aConfirm
+    lore: '§7Cost: %price%'
+  collect-sold:
+    name: §aCollect Sold Item
+    lore: ' &n§7Value with taxes: %price% &n &n§eClick to collect!'
+  choose-item-buy-amount:
+    name: §fChoose amount to buy!
+    lore: §7You can choose to buy only a few items &n§7with the price being reduced
+      accordingly &n &n§eClick to set!
+  loading:
+    name: loading...
+
+
+world:
+  npc: §6Auction Master
+  displays:
+    sign-interaction: §d[CLICK]
+    by-player: 'by: '
+
+commands:
+  sell: sell
+  announce: announce
+  admin: admin
+  ban: ban
+  pardon: pardon
+  reload: reload
+  summon: summon
+  blacklist: blacklist
+  add: add
+  undo: undo
+  npc: npc
+  display: display
+  highest_price: highest-price
+  ending_soon: ending-soon
+  facing: facing
+  north: north
+  east: east
+  south: south
+  west: west
+  exact: exact
+  material: material
+  name_contains: name_contains
+  contains_lore: contains_lore
+
+command-feedback:
+  usage: '§eUsage: /ah sell <price> <amount>'
+  reached-max-auctions: §eYou can only have %limit% auctions at a time
+  no-item-in-hand: §eYou need to hold an item in your hand to sell it
+  invalid-number: That is not a valid number
+  invalid-number2: That is not a valid price
+  invalid-number3: §eThat is not a valid amount of days
+  invalid-number4: §eThat is not a valid duration
+  invalid-number5: Item rank number must be greater than 0
+  invalid-number6: Invalid item rank number. Please enter a valid number
+  invalid-number7: That is not a valid amount
+  auction: §eYou have put up an auction for %price%
+  announcements-enabled: §aAuction announcements enabled! §7You will now see when
+    players put items on auction.
+  announcements-disabled: §cAuction announcements disabled! §7You will no longer see
+    when players put items on auction.
+  ban-usage: '$eUsage: /ah ban <player> <time in days> <reason>'
+  pardon-usage: '§eUsage: /ah pardon <player>'
+  player-not-found: §eThat player is not online
+  ban: '§b------------------------------------------------- &n§e%player% was banned
+    from the ah for %duration% days. &n§rReason: %reason% &n§b-------------------------------------------------'
+  pardon: §b------------------------------------------------- &n§fUnbanned %player%
+    from the auction house &n§b-------------------------------------------------
+  no-banned-players: §eThere are no players banned
+  not-banned: That player isn't banned from the auction house
+  reload: §eThe auction house plugin has reloaded.
+  summon-usage: /ah summon <entity>
+  npc-usage: /ah summon npc facing <direction>
+  display-usage: /ah summon display <sort type> <item rank>
+  no-space-for-display: §eThere is already a display here. Please remove it first.
+  blacklist-usage: '§eUsage: /ah blacklist add <type> <text>&n§rFor <exact> and <material>
+    you don''t need <text>, but hold an item in your hand'
+  blacklist-undo: Successfully removed the last rule
+  blacklist-undo-error: There are no rules
+  blacklist-no-item-in-hand: §eYou need to hold an item in your hand to add its properties
+    to the blacklist
+  blacklist-success: Successfully added the properties of %item% to the blacklist
+  blacklist-name-success: Successfully added "%name%" to the blacklist
+  item-blacklisted: §cYou cannot auction this item!
+
+placeholders:
+  number: §6%input%§r
+  price: '%number%%currency-symbol%'
+  currency-symbol: ' §ecoins'
+  format-numbers: '#,###.##'
+  format-time-characters: dhms

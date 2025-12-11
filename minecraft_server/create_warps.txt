@@ -1,0 +1,8 @@
+# คำสั่งสร้าง Warp (รันใน Server Console)
+setwarp spawn 0 64 0
+setwarp shop 100 64 0
+setwarp pvp -100 64 0
+setwarp mine 0 64 100
+setwarp farm 0 64 -100
+setwarp end 200 64 0
+setwarp nether -200 64 0

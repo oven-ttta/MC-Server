@@ -1,0 +1,35 @@
+# คำสั่งสร้าง Kits (รันใน Server Console)
+
+# Kit Starter (ทุกคน)
+createkit starter 86400
+- WOODEN_SWORD 1
+- WOODEN_PICKAXE 1
+- WOODEN_AXE 1
+- WOODEN_SHOVEL 1
+- BREAD 16
+- TORCH 32
+
+# Kit Daily (ทุกคน)
+createkit daily 86400
+- DIAMOND 3
+- EMERALD 5
+- GOLD_INGOT 10
+- IRON_INGOT 20
+- COOKED_BEEF 32
+
+# Kit VIP (VIP เท่านั้น)
+createkit vip 43200
+- DIAMOND_SWORD 1 sharpness:3
+- DIAMOND_PICKAXE 1 efficiency:3
+- DIAMOND 10
+- EMERALD 10
+- GOLDEN_APPLE 5
+
+# Kit MVP (MVP เท่านั้น)
+createkit mvp 21600
+- DIAMOND_SWORD 1 sharpness:5 unbreaking:3
+- DIAMOND_PICKAXE 1 efficiency:5 unbreaking:3
+- DIAMOND 20
+- EMERALD 20
+- GOLDEN_APPLE 10
+- ENCHANTED_GOLDEN_APPLE 2

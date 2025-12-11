@@ -1,0 +1,12 @@
+# คำสั่งลัดสำหรับผู้เล่น
+commands:
+  shop:
+    - warp shop
+  pvp:
+    - warp pvp
+  mine:
+    - warp mine
+  rules:
+    - motd rules
+  discord:
+    - msg %player% &bDiscord: &fhttps://discord.gg/yourserver
