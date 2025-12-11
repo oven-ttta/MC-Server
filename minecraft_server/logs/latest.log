@@ -1613,3 +1613,105 @@ expected <block end>, but found '<block mapping start>'
 [01:13:39] [Server thread/INFO]: [GriefPrevention] Finished loading data (File Mode).
 [01:13:39] [Server thread/INFO]: [GriefPrevention] Boot finished.
 [01:13:39] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.5-SNAPSHOT (b121-55a85ec)
+[01:13:40] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.21.0
+[01:13:40] [Server thread/INFO]: [EssentialsSpawn] Starting Metrics. Opt-out using the global bStats config.
+[01:13:40] [Server thread/INFO]: [CMILib] Enabling CMILib v1.5.7.5
+[01:13:41] [Server thread/INFO]: Server version: v1_21_R3 - 1.21.4 - paper  1.21.4-6-71a367e (MC: 1.21.4)
+[01:13:42] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:13:42] [Server thread/INFO]: Updated (EN) language file. Took 99ms
+[01:13:42] [Server thread/INFO]: [DiscordSRV] Enabling DiscordSRV v1.28.0
+[01:13:42] [Server thread/INFO]: [ChestShop] Enabling ChestShop v3.12.3-SNAPSHOT (build 446)
+[01:13:43] [DiscordSRV - Initialization/ERROR]: [DiscordSRV] No bot token has been set in the config; a bot token is required to connect to Discord.
+[01:13:43] [Server thread/INFO]: [ChestShop] Found locales ru, lb, pt_br, vi, he, uk, ku, de, no, ja, fr, el, ro, bg, ko, fi, pl, sr, cs, ga, zh, ca, is, sv, it, zh_tw, cy, th, pt, es_mx, hu, af, kk, en_pt, es, sk, sl, nl, da, tr, la, lt, lol, ar, en
+[01:13:44] [Server thread/INFO]: [ChestShop] Using EssentialsX Economy as the Economy provider now.
+[01:13:44] [Server thread/INFO]: [ChestShop] Vault loaded!
+[01:13:44] [Server thread/INFO]: [ChestShop] Auto-updater is disabled. If you want the plugin to automatically download new releases then set 'TURN_OFF_UPDATES' to 'false' in your config.yml!
+[01:13:44] [Server thread/INFO]: [AuthMe] Enabling AuthMe v5.6.0-beta2-b2453
+[01:13:45] [Server thread/INFO]: [AuthMe] SQLite Setup finished
+[01:13:45] [pool-31-thread-1/WARN]: [DiscordSRV] 
+
+The current build of DiscordSRV is outdated by 82 commits! Get the latest build at your favorite distribution center.
+
+Spigot: https://www.spigotmc.org/resources/discordsrv.18494/
+Github: https://github.com/DiscordSRV/DiscordSRV/releases
+Direct Download: https://get.discordsrv.com
+
+[01:13:45] [Server thread/INFO]: [AuthMe] Hooked into LuckPerms!
+[01:13:45] [Server thread/INFO]: [AuthMe] Hooked successfully into Essentials
+[01:13:45] [Server thread/INFO]: [AuthMe] Hooked successfully into Multiverse-Core
+[01:13:45] [Server thread/INFO]: [AuthMe] Essentials spawn file not found: '/root/MC-Server/minecraft_server/plugins/Essentials/spawn.yml'
+[01:13:45] [Server thread/WARN]: [AuthMe] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[01:13:45] [Server thread/INFO]: [AuthMe] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[01:13:45] [Server thread/INFO]: [VeinMiner] Enabling VeinMiner v2.3.0
+[01:13:45] [Server thread/INFO]: [VeinMiner] Using "sqlite" for persistent data storage.
+[01:13:45] [Server thread/INFO]: [VeinMiner] Loading configuration options to local memory
+[01:13:45] [Server thread/INFO]: [VeinMiner] Added 14 aliases.
+[01:13:45] [Server thread/INFO]: [VeinMiner] Registered category with id "Axe" holding 6 unique items and 28 unique blocks.
+[01:13:45] [Server thread/INFO]: [VeinMiner] Registered category with id "Hoe" holding 6 unique items and 12 unique blocks.
+[01:13:45] [Server thread/INFO]: [VeinMiner] Registered category with id "Pickaxe" holding 6 unique items and 14 unique blocks.
+[01:13:45] [Server thread/INFO]: [VeinMiner] Registered category with id "Shears" holding 1 unique items and 4 unique blocks.
+[01:13:45] [Server thread/INFO]: [VeinMiner] Registered category with id "Shovel" holding 6 unique items and 10 unique blocks.
+[01:13:45] [Server thread/WARN]: [VeinMiner] No block list configured for category with id "Hand"! Is this intentional?
+[01:13:45] [Server thread/INFO]: [VeinMiner] Registered category with id "Hand" holding 0 unique items and 0 unique blocks.
+[01:13:45] [Server thread/INFO]: [VeinMiner] Performing an update check!
+[01:13:46] [Server thread/INFO]: [VeinMiner] Registering commands
+[01:13:46] [Server thread/INFO]: [VeinMiner] Registering events
+[01:13:46] [Server thread/INFO]: [VeinMiner] Vault found. Attempting to enable economy support...
+[01:13:46] [Server thread/INFO]: [VeinMiner] Enabling Plugin Metrics
+[01:13:46] [Server thread/INFO]: [VeinMiner] Thanks for enabling Metrics! The anonymous stats are appreciated
+[01:13:46] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.9.1-SNAPSHOT
+[01:13:46] [ForkJoinPool.commonPool-worker-1/INFO]: [VeinMiner] You are on the latest version of VeinMiner!
+[01:13:49] [Server thread/INFO]: [Jobs] Enabling Jobs v5.2.6.5
+[01:13:49] [Server thread/INFO]: ------------- Jobs -------------
+[01:13:49] [Server thread/INFO]: Connected to database (SqLite)
+[01:13:50] [Server thread/INFO]: Loaded 8 titles
+[01:13:50] [Server thread/INFO]: Loaded 2 restricted areas!
+[01:13:50] [Server thread/INFO]: Loaded 53 protected blocks timers
+[01:13:50] [Server thread/INFO]: Loaded 1538 custom item names
+[01:13:50] [Server thread/INFO]: Loaded 85 custom entity names
+[01:13:50] [Server thread/INFO]: Loaded 2 custom MythicMobs names
+[01:13:50] [Server thread/INFO]: Loaded 42 custom enchant names
+[01:13:50] [Server thread/INFO]: Loaded 46 custom enchant names
+[01:13:50] [Server thread/INFO]: Loaded 16 custom color names
+[01:13:50] [Server thread/INFO]: Update shops items icon section and use 'ItemStack' instead
+[01:13:50] [Server thread/INFO]: Loaded 4 shop items
+[01:13:50] [Server thread/INFO]: Loaded 1 quests for Miner
+[01:13:50] [Server thread/INFO]: Loaded 1 quests for Crafter
+[01:13:50] [Server thread/INFO]: Loaded 1 quests for Builder
+[01:13:50] [Server thread/INFO]: Loaded 1 quests for Hunter
+[01:13:50] [Server thread/INFO]: Loaded 1 quests for Weaponsmith
+[01:13:50] [Server thread/INFO]: Loaded 1 quests for Brewer
+[01:13:50] [Server thread/INFO]: Loaded 1 quests for Explorer
+[01:13:50] [Server thread/INFO]: Loaded 1 quests for Fisherman
+[01:13:50] [Server thread/INFO]: Loaded 1 quests for Digger
+[01:13:50] [Server thread/INFO]: Loaded 1 quests for Enchanter
+[01:13:50] [Server thread/INFO]: Loaded 1 quests for Farmer
+[01:13:50] [Server thread/INFO]: Loaded 1 quests for Woodcutter
+[01:13:50] [Server thread/INFO]: Loaded 12 jobs
+[01:13:50] [Server thread/INFO]: Loaded 0 boosted items
+[01:13:50] [Jobs-DatabaseSaveTask/INFO]: Started database save task.
+[01:13:50] [Jobs-BufferedPaymentThread/INFO]: Started buffered payment thread.
+[01:13:50] [Server thread/INFO]: Preloaded 1 players data in 0.01
+[01:13:50] [Server thread/INFO]: mcMMO detected.
+[01:13:50] [Server thread/INFO]: Registering listeners...
+[01:13:51] [Server thread/INFO]: Registered mcMMO 2.x listener.
+[01:13:51] [Server thread/INFO]: Listeners registered successfully
+[01:13:51] [Server thread/INFO]: Plugin has been enabled successfully.
+[01:13:51] [Server thread/INFO]: ------------------------------------
+[01:13:51] [Server thread/INFO]: [DecentHolograms] Enabling DecentHolograms v2.8.11
+[01:13:51] [Server thread/ERROR]: [DecentHolograms] Unsupported server version detected: 1.21.4-6-71a367e (MC: 1.21.4)
+[01:13:51] [Server thread/ERROR]: [DecentHolograms] Plugin will now be disabled.
+[01:13:51] [Server thread/INFO]: [DecentHolograms] Disabling DecentHolograms v2.8.11
+[01:13:51] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.21.0
+[01:13:51] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
+[01:13:51] [Server thread/INFO]: [TAB] Enabling TAB v5.0.3
+[01:13:51] [Server thread/INFO]: [TAB] Loaded NMS hook in 119ms
+[01:13:52] [Server thread/INFO]: [TAB] Enabled in 657ms
+[01:13:52] [Server thread/INFO]: [AuctionHouse] Enabling AuctionHouse v1.3.9
+[01:13:52] [Server thread/INFO]: [AuctionHouse] AuctionHouse enabled in 93ms
+[01:13:53] [Server thread/INFO]: [spark] Starting background profiler...
+[01:13:54] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[01:13:54] [Server thread/INFO]: [Geyser-Spigot] 
+[01:13:54] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.9.1-b1002 (git-master-0cdd31e)
+[01:13:54] [Server thread/INFO]: [Geyser-Spigot] 
+[01:13:54] [Server thread/INFO]: [Geyser-Spigot] ******************************************
