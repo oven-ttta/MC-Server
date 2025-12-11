@@ -1,0 +1,50 @@
+# Minecraft Server Files
+minecraft_server/logs/
+minecraft_server/cache/
+minecraft_server/world/
+minecraft_server/world_nether/
+minecraft_server/world_the_end/
+minecraft_server/usercache.json
+minecraft_server/banned-ips.json
+minecraft_server/banned-players.json
+minecraft_server/ops.json
+minecraft_server/whitelist.json
+
+# Server JAR files
+minecraft_server/*.jar
+minecraft_server/server.jar
+minecraft_server/libraries/
+minecraft_server/versions/
+
+# Plugin JAR files (ถ้าไม่ต้องการ backup plugins)
+# minecraft_server/plugins/*.jar
+
+# Auto Git Push
+auto_git_push.log
+logs/
+
+# Temporary files
+*.tmp
+*.log
+*.lock
+
+# Node modules (ถ้ามี)
+node_modules/
+
+# PM2
+.pm2/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Backup files
+*.bak
+*.backup
+*~
