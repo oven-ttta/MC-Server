@@ -1759,3 +1759,9 @@ Direct Download: https://get.discordsrv.com
 [01:45:28] [Craft Scheduler Thread - 8 - Vault/INFO]: [Vault] Checking for Updates ... 
 [01:45:28] [Craft Scheduler Thread - 8 - Vault/INFO]: [Vault] No new version available
 [01:45:29] [User Authenticator #0/INFO]: UUID of player oven is 46e44b98-3f62-3483-a9ea-5b246b676a26
+[01:45:34] [Server thread/INFO]: oven joined the game
+[01:45:35] [Server thread/INFO]: oven[/192.168.1.4:63117] logged in with entity id 18 at ([world]222.7697079788378, 75.0, -622.6906085429703)
+[01:45:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3332ms or 66 ticks behind
+[01:45:43] [Server thread/WARN]: oven moved too quickly! 0.0,-53.0,0.0
+[01:45:51] [Craft Scheduler Thread - 8 - AuthMe/INFO]: [AuthMe] oven logged in 192.168.1.4
+[01:45:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3596ms or 71 ticks behind
