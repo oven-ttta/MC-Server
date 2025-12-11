@@ -1766,3 +1766,4 @@ Direct Download: https://get.discordsrv.com
 [01:45:51] [Craft Scheduler Thread - 8 - AuthMe/INFO]: [AuthMe] oven logged in 192.168.1.4
 [01:45:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3596ms or 71 ticks behind
 [01:49:35] [Server thread/INFO]: oven issued server command: /gamemode creative
+[01:50:47] [Server thread/INFO]: oven issued server command: /time set midnight
