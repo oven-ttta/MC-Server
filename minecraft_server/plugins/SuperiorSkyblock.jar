@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <link rel="stylesheet" href="https://static.bg-software.com/css/styles.css">
+    
+    <link rel="icon" href="https://static.bg-software.com/imgs/website-icon.png">
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Montserrat">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" integrity="sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP" crossorigin="anonymous">
+    <script type="bffdfcad71ba055108c1a0b7-text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+    
+      <title>BG-Software | 404 Not Found</title>
+    
+
+    <meta charset="utf-8">
+  </head>
+  <body>
+    <header>
+      <div class="container">
+  <a href="/"><img src="https://static.bg-software.com/imgs/website-icon.png" /></a>
+  <div class="desktop-only">
+    <ul>
+      <li><a href="/discord/" class="nav_discord" target="_blank" rel="noopener noreferrer"><i class="fab fa-discord"></i> Discord</a></li>
+      <li><a href="/github/" class="nav_github" target="_blank" rel="noopener noreferrer"><i class="fab fa-github"></i> Github</a></li>
+      <li><a href="/patreon/" class="nav_patreon" target="_blank" rel="noopener noreferrer"><i class="fab fa-patreon"></i> Patreon</a></li>
+      <li><a href="/wiki/" class="nav_wiki" target="_blank" rel="noopener noreferrer"><i class="fas fa-globe-africa"></i> Wiki</a></li>
+    </ul>
+  </div>
+  <div class="media-only">
+    <div class="dropdown-menu" for="media-dropdown-menu">
+      <i class="fas fa-bars"></i>
+    </div>
+    <div class="media-dropdown-menu">
+      <ul>
+        <li><a href="/discord/" target="_blank" rel="noopener noreferrer"><i class="fab fa-discord"></i> Discord</a></li>
+        <li><a href="/github/" target="_blank" rel="noopener noreferrer"><i class="fab fa-github"></i> Github</a></li>
+        <li><a href="/patreon/" target="_blank" rel="noopener noreferrer"><i class="fab fa-patreon"></i> Patreon</a></li>
+        <li><a href="/wiki/" target="_blank" rel="noopener noreferrer"><i class="fas fa-globe-africa"></i> Wiki</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+    </header>
+
+    <main>
+      <p>404 Not Found</p>
+
+    </main>
+
+    <footer>
+      <body>
+  <div class="container">
+    <div class="copyright">
+      Copyright © BG-Software 2018-2025
+    </div>
+  </div>
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="bffdfcad71ba055108c1a0b7-|49" defer></script></body>
+
+    </footer>
+
+    <script src="https://static.bg-software.com/js/all.js" type="bffdfcad71ba055108c1a0b7-text/javascript"></script>
+    
+  </body>
+</html>
