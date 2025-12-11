@@ -1770,3 +1770,11 @@ Direct Download: https://get.discordsrv.com
 [01:52:55] [Server thread/INFO]: oven lost connection: Disconnected
 [01:52:56] [Server thread/INFO]: oven left the game
 [04:02:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7268ms or 145 ticks behind
+[07:44:45] [pool-31-thread-1/WARN]: [DiscordSRV] 
+
+The current build of DiscordSRV is outdated by 82 commits! Get the latest build at your favorite distribution center.
+
+Spigot: https://www.spigotmc.org/resources/discordsrv.18494/
+Github: https://github.com/DiscordSRV/DiscordSRV/releases
+Direct Download: https://get.discordsrv.com
+
