@@ -1,0 +1,119 @@
+# ไฟล์ config สำหรับแจ้งเตือนดาวน์โหลด Resource Pack และ Shader
+# ใช้กับ DeluxeMenus plugin
+
+menu_title: '&6&lดาวน์โหลด Resource Pack & Shader'
+open_command: downloads
+size: 27
+
+items:
+  header:
+    material: DIAMOND
+    slot: 4
+    display_name: '&6&lOvenx Shop Server'
+    lore:
+      - '&7ดาวน์โหลดไฟล์เพื่อประสบการณ์ที่ดีที่สุด!'
+      - ''
+      - '&eคลิกที่ไอเทมด้านล่างเพื่อดูข้อมูล'
+  
+  resourcepack:
+    material: PAINTING
+    slot: 11
+    display_name: '&b&lResource Pack: Faithful 64x'
+    lore:
+      - '&7━━━━━━━━━━━━━━━━━━━━━━━━━━━━'
+      - '&fFaithful 64x เป็น Resource Pack'
+      - '&fความละเอียดสูงที่ยังคงความเป็น'
+      - '&fMinecraft ไว้ แต่สวยงามขึ้น!'
+      - ''
+      - '&a✓ &7ความละเอียด 64x64'
+      - '&a✓ &7รักษาสไตล์ Minecraft'
+      - '&a✓ &7ไม่หนักมาก เล่นได้ลื่น'
+      - ''
+      - '&e📦 ขนาดไฟล์: &f~16 MB'
+      - '&7━━━━━━━━━━━━━━━━━━━━━━━━━━━━'
+      - ''
+      - '&6&lดาวน์โหลด:'
+      - '&fhttp://your-server-ip:8080'
+      - ''
+      - '&7หรือพิมพ์ &f/downloads resourcepack'
+      - ''
+      - '&e&l[คลิกเพื่อคัดลอกลิงก์]'
+    click_commands:
+      - '[message] &aลิงก์ดาวน์โหลด: &fhttp://your-server-ip:8080'
+      - '[message] &7คัดลอกลิงก์แล้ววางในเบราว์เซอร์'
+  
+  shader:
+    material: GLOWSTONE
+    slot: 15
+    display_name: '&d&lShader Pack: Sildur''s Vibrant'
+    lore:
+      - '&7━━━━━━━━━━━━━━━━━━━━━━━━━━━━'
+      - '&fSildur''s Vibrant Shaders ทำให้'
+      - '&fโลก Minecraft มีแสงเงา น้ำสะท้อน'
+      - '&fและบรรยากาศสมจริง!'
+      - ''
+      - '&a✓ &7แสงเงาสมจริง'
+      - '&a✓ &7น้ำสะท้อน'
+      - '&a✓ &7ท้องฟ้าสวยงาม'
+      - '&a✓ &7เวอร์ชัน Lite ไม่หนัก'
+      - ''
+      - '&c⚠ &7ต้องใช้ OptiFine หรือ Iris'
+      - '&e📦 ขนาดไฟล์: &f~145 KB'
+      - '&7━━━━━━━━━━━━━━━━━━━━━━━━━━━━'
+      - ''
+      - '&6&lดาวน์โหลด:'
+      - '&fhttp://your-server-ip:8080'
+      - ''
+      - '&7หรือพิมพ์ &f/downloads shader'
+      - ''
+      - '&e&l[คลิกเพื่อคัดลอกลิงก์]'
+    click_commands:
+      - '[message] &aลิงก์ดาวน์โหลด: &fhttp://your-server-ip:8080'
+      - '[message] &7คัดลอกลิงก์แล้ววางในเบราว์เซอร์'
+  
+  guide_resourcepack:
+    material: BOOK
+    slot: 20
+    display_name: '&e&lวิธีติดตั้ง Resource Pack'
+    lore:
+      - '&7━━━━━━━━━━━━━━━━━━━━━━━━━━━━'
+      - '&f1. &7ดาวน์โหลดไฟล์ .zip'
+      - '&f2. &7เปิด Minecraft'
+      - '&f3. &7Options → Resource Packs'
+      - '&f4. &7คลิก Open Pack Folder'
+      - '&f5. &7วางไฟล์ .zip ลงในโฟลเดอร์'
+      - '&f6. &7กลับไปเกมแล้วเลือก Pack'
+      - '&f7. &7คลิก Done'
+      - '&7━━━━━━━━━━━━━━━━━━━━━━━━━━━━'
+      - ''
+      - '&a&l✓ ไม่ต้องแตกไฟล์!'
+  
+  guide_shader:
+    material: ENCHANTED_BOOK
+    slot: 24
+    display_name: '&e&lวิธีติดตั้ง Shader Pack'
+    lore:
+      - '&7━━━━━━━━━━━━━━━━━━━━━━━━━━━━'
+      - '&c&lสำคัญ: &7ต้องติดตั้ง OptiFine ก่อน!'
+      - ''
+      - '&f1. &7ติดตั้ง OptiFine หรือ Iris'
+      - '&f2. &7ดาวน์โหลดไฟล์ Shader .zip'
+      - '&f3. &7เปิด Minecraft'
+      - '&f4. &7Options → Video Settings'
+      - '&f5. &7คลิก Shaders'
+      - '&f6. &7คลิก Shaders Folder'
+      - '&f7. &7วางไฟล์ .zip ลงในโฟลเดอร์'
+      - '&f8. &7กลับไปเกมแล้วเลือก Shader'
+      - '&f9. &7คลิก Done'
+      - '&7━━━━━━━━━━━━━━━━━━━━━━━━━━━━'
+      - ''
+      - '&a&l✓ ไม่ต้องแตกไฟล์!'
+  
+  close:
+    material: BARRIER
+    slot: 22
+    display_name: '&c&lปิด'
+    lore:
+      - '&7คลิกเพื่อปิดเมนู'
+    click_commands:
+      - '[close]'

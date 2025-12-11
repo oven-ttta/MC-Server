@@ -1,0 +1,20 @@
+# คำสั่งแสดงลิงก์ดาวน์โหลด Resource Pack และ Shader
+# วางไฟล์นี้ใน plugins/Essentials/
+
+downloads:
+  description: แสดงลิงก์ดาวน์โหลด Resource Pack และ Shader
+  usage: /downloads [resourcepack|shader|all]
+  permission: essentials.downloads
+  aliases: [dl, download, packs]
+  
+resourcepack:
+  description: แสดงลิงก์ดาวน์โหลด Resource Pack
+  usage: /resourcepack
+  permission: essentials.resourcepack
+  aliases: [rp, texture]
+  
+shader:
+  description: แสดงลิงก์ดาวน์โหลด Shader Pack
+  usage: /shader
+  permission: essentials.shader
+  aliases: [shaders]

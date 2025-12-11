@@ -1,0 +1,44 @@
+&6&l╔════════════════════════════════════════════════════════╗
+&e&l║          ยินดีต้อนรับสู่ Ovenx Shop Server!           ║
+&6&l╚════════════════════════════════════════════════════════╝
+
+&a&l✨ ฟีเจอร์พิเศษของ Server:
+&f• &bระบบ RPG &7(mcMMO - เลเวลสกิล)
+&f• &bระบบอาชีพ &7(Jobs - หาเงิน)
+&f• &bร้านค้าและประมูล &7(ChestShop, AuctionHouse)
+&f• &bป้องกันการทำลาย &7(GriefPrevention)
+&f• &bรองรับ Bedrock Edition &7(Geyser)
+
+&c&l━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+&d&l📦 แนะนำให้ดาวน์โหลด Resource Pack และ Shader!
+
+&e&l🎨 Resource Pack:
+&f➜ &bFaithful 64x &7(ความละเอียดสูง)
+&f➜ ดาวน์โหลด: &a&nhttps://your-server.com/downloads/resourcepack
+
+&e&l✨ Shader Pack:
+&f➜ &bSildur's Vibrant Shaders v1.541 Lite
+&f➜ ดาวน์โหลด: &a&nhttps://your-server.com/downloads/shader
+
+&6&l💡 วิธีติดตั้ง:
+&f1. &7ดาวน์โหลดไฟล์ทั้งสอง
+&f2. &7Resource Pack: &eOptions > Resource Packs > Open Pack Folder
+&f3. &7Shader: &eOptions > Video Settings > Shaders > Shaders Folder
+&f4. &7วางไฟล์ลงในโฟลเดอร์แล้วเลือกใช้งาน
+
+&c&l━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+&b&l📌 คำสั่งสำคัญ:
+&f/help &7- ดูคำสั่งทั้งหมด
+&f/jobs &7- เลือกอาชีพ
+&f/ah &7- เปิดตลาดประมูล
+&f/claim &7- สร้างพื้นที่ส่วนตัว
+&f/downloads &7- ดูลิงก์ดาวน์โหลด
+
+&c&l💰 เงินเริ่มต้น: &e5,000 เหรียญ
+&d&l🎁 โบนัส: &aEXP x2 &fและ &aเงิน x2&f!
+
+&e&l═══════════════════════════════════════════════════════
+&a&l            สนุกกับการเล่น! 🎮
+&e&l═══════════════════════════════════════════════════════

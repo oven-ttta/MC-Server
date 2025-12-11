@@ -1384,3 +1384,261 @@ org.bukkit.plugin.InvalidPluginException: Unsupported API version 1.21.10
 [00:53:09] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
 [00:53:09] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
 [00:53:09] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_21_4.PaperweightAdapter as the Bukkit adapter
+[00:53:16] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.9.0
+[00:53:22] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.4.
+[00:53:22] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
+[00:53:23] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[00:53:23] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:53:23] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:53:23] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:53:23] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:53:23] [Server thread/INFO]: Preparing level "world"
+[00:53:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[00:53:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[00:53:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[00:53:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[00:53:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[00:53:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[00:53:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[00:53:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.9.0
+[00:53:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 1565b8f
+[00:53:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[00:53:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[00:53:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[00:53:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[00:53:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:53:30] [Server thread/INFO]: Preparing spawn area: 0%
+[00:53:30] [Server thread/INFO]: Preparing spawn area: 0%
+[00:53:30] [Server thread/INFO]: Preparing spawn area: 0%
+[00:53:31] [Server thread/INFO]: Preparing spawn area: 2%
+[00:53:32] [Server thread/INFO]: Preparing spawn area: 2%
+[00:53:32] [Server thread/INFO]: Preparing spawn area: 2%
+[00:53:32] [Server thread/INFO]: Preparing spawn area: 18%
+[00:53:34] [Server thread/INFO]: Preparing spawn area: 20%
+[00:53:34] [Server thread/INFO]: Preparing spawn area: 20%
+[00:53:34] [Server thread/INFO]: Preparing spawn area: 20%
+[00:53:34] [Server thread/INFO]: Preparing spawn area: 22%
+[00:53:34] [Server thread/INFO]: Time elapsed: 5476 ms
+[00:53:34] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[00:53:34] [Server thread/INFO]: Preparing spawn area: 0%
+[00:53:35] [Server thread/INFO]: Time elapsed: 353 ms
+[00:53:35] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[00:53:35] [Server thread/INFO]: Preparing spawn area: 0%
+[00:53:35] [Server thread/INFO]: Time elapsed: 223 ms
+[00:53:35] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.3.12
+[00:53:35] [Server thread/WARN]: [Multiverse-Core] "Multiverse-Core v4.3.12" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
+[00:53:35] [Server thread/INFO]: [Multiverse-Core] §aWe are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
+[00:53:36] [Server thread/WARN]: [Multiverse-Core] Cannot load worlds.yml
+[00:53:36] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -3119291820491745211
+[00:53:37] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -3119291820491745211
+[00:53:37] [Server thread/WARN]: [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+[00:53:37] [Server thread/WARN]: [Multiverse-Core] Original Location: X: 0 Y: 66 Z: 0 P: 0 Y: 0 
+[00:53:37] [Server thread/INFO]: [Multiverse-Core] New Spawn for 'world_nether' is located at: world_nether:-4.50,66.00,4.50:0.00:0.00
+[00:53:37] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -3119291820491745211
+[00:53:37] [Server thread/INFO]: [Multiverse-Core] 3 - World(s) loaded.
+[00:53:37] [Server thread/WARN]: [Multiverse-Core] Buscript failed to load! The script command will be disabled! If you would like not to see this message, use `/mv conf enablebuscript false` to disable Buscript from loading.
+[00:53:37] [Server thread/INFO]: [Multiverse-Core] Version 4.3.12 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
+[00:53:37] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0
+[00:53:39] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[00:53:39] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[00:53:39] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
+[00:53:39] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
+[00:53:39] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
+[00:53:39] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
+[00:53:39] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
+[00:53:39] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
+[00:53:39] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
+[00:53:39] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
+[00:53:39] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
+[00:53:39] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
+[00:53:39] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
+[00:53:39] [Server thread/INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
+[00:53:39] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
+[00:53:39] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
+[00:53:39] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
+[00:53:39] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
+[00:53:39] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
+[00:53:39] [Server thread/INFO]: [Essentials] Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
+[00:53:39] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
+[00:53:39] [Server thread/INFO]: [Essentials] Selected 1.21.4+ Sync Commands Provider as the provider for SyncCommandsProvider
+[00:53:39] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
+[00:53:39] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
+[00:53:40] [Server thread/INFO]: [Essentials] Loaded 43465 items from items.json.
+[00:53:40] [Server thread/INFO]: [Essentials] Using locale en_US
+[00:53:41] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[00:53:41] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[00:53:41] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[00:53:41] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[00:53:41] [Server thread/INFO]: [mcMMO] Enabling mcMMO v2.2.046-SNAPSHOT
+[00:53:43] [Server thread/INFO]: [mcMMO] Loaded 232 of 232 Alchemy potions.
+[00:53:45] [Server thread/INFO]: [GriefPrevention] Enabling GriefPrevention v16.18.5
+[00:53:45] [Server thread/INFO]: [GriefPrevention] Finished loading configuration.
+[00:53:45] [Server thread/INFO]: [GriefPrevention] 0 total claims loaded.
+[00:53:47] [Server thread/INFO]: [GriefPrevention] Customizable messages loaded.
+[00:53:47] [Server thread/INFO]: [GriefPrevention] Finished loading data (File Mode).
+[00:53:47] [Server thread/INFO]: [GriefPrevention] Boot finished.
+[00:53:47] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.5-SNAPSHOT (b121-55a85ec)
+[00:53:48] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.21.0
+[00:53:48] [Server thread/INFO]: [EssentialsSpawn] Starting Metrics. Opt-out using the global bStats config.
+[00:53:48] [Server thread/INFO]: [CMILib] Enabling CMILib v1.5.7.5
+[00:53:50] [Server thread/INFO]: Server version: v1_21_R3 - 1.21.4 - paper  1.21.4-6-71a367e (MC: 1.21.4)
+[00:53:50] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:53:51] [Server thread/INFO]: Updated (EN) language file. Took 73ms
+[00:53:51] [Server thread/INFO]: [DiscordSRV] Enabling DiscordSRV v1.28.0
+[00:53:51] [Server thread/INFO]: [ChestShop] Enabling ChestShop v3.12.3-SNAPSHOT (build 446)
+[00:53:51] [DiscordSRV - Initialization/ERROR]: [DiscordSRV] No bot token has been set in the config; a bot token is required to connect to Discord.
+[00:53:52] [Server thread/INFO]: [ChestShop] Found locales ru, lb, pt_br, vi, he, uk, ku, de, no, ja, fr, el, ro, bg, ko, fi, pl, sr, cs, ga, zh, ca, is, sv, it, zh_tw, cy, th, pt, es_mx, hu, af, kk, en_pt, es, sk, sl, nl, da, tr, la, lt, lol, ar, en
+[00:53:52] [pool-35-thread-1/WARN]: [DiscordSRV] 
+
+The current build of DiscordSRV is outdated by 82 commits! Get the latest build at your favorite distribution center.
+
+Spigot: https://www.spigotmc.org/resources/discordsrv.18494/
+Github: https://github.com/DiscordSRV/DiscordSRV/releases
+Direct Download: https://get.discordsrv.com
+
+[00:53:53] [Server thread/INFO]: [ChestShop] Using EssentialsX Economy as the Economy provider now.
+[00:53:53] [Server thread/INFO]: [ChestShop] Vault loaded!
+[00:53:53] [Server thread/INFO]: [ChestShop] Auto-updater is disabled. If you want the plugin to automatically download new releases then set 'TURN_OFF_UPDATES' to 'false' in your config.yml!
+[00:53:53] [Server thread/INFO]: [AuthMe] Enabling AuthMe v5.6.0-beta2-b2453
+[00:53:54] [Server thread/INFO]: [AuthMe] SQLite Setup finished
+[00:53:54] [Server thread/INFO]: [AuthMe] Hooked into LuckPerms!
+[00:53:54] [Server thread/INFO]: [AuthMe] Hooked successfully into Essentials
+[00:53:54] [Server thread/INFO]: [AuthMe] Hooked successfully into Multiverse-Core
+[00:53:54] [Server thread/INFO]: [AuthMe] Essentials spawn file not found: '/root/MC-Server/minecraft_server/plugins/Essentials/spawn.yml'
+[00:53:55] [Server thread/WARN]: [AuthMe] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[00:53:55] [Server thread/INFO]: [AuthMe] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[00:53:55] [Server thread/INFO]: [VeinMiner] Enabling VeinMiner v2.3.0
+[00:53:55] [Server thread/INFO]: [VeinMiner] Using "sqlite" for persistent data storage.
+[00:53:55] [Server thread/INFO]: [VeinMiner] Loading configuration options to local memory
+[00:53:55] [Server thread/INFO]: [VeinMiner] Added 14 aliases.
+[00:53:55] [Server thread/INFO]: [VeinMiner] Registered category with id "Axe" holding 6 unique items and 28 unique blocks.
+[00:53:55] [Server thread/INFO]: [VeinMiner] Registered category with id "Hoe" holding 6 unique items and 12 unique blocks.
+[00:53:55] [Server thread/INFO]: [VeinMiner] Registered category with id "Pickaxe" holding 6 unique items and 14 unique blocks.
+[00:53:55] [Server thread/INFO]: [VeinMiner] Registered category with id "Shears" holding 1 unique items and 4 unique blocks.
+[00:53:55] [Server thread/INFO]: [VeinMiner] Registered category with id "Shovel" holding 6 unique items and 10 unique blocks.
+[00:53:55] [Server thread/WARN]: [VeinMiner] No block list configured for category with id "Hand"! Is this intentional?
+[00:53:55] [Server thread/INFO]: [VeinMiner] Registered category with id "Hand" holding 0 unique items and 0 unique blocks.
+[00:53:55] [Server thread/INFO]: [VeinMiner] Performing an update check!
+[00:53:55] [Server thread/INFO]: [VeinMiner] Registering commands
+[00:53:55] [Server thread/INFO]: [VeinMiner] Registering events
+[00:53:55] [Server thread/INFO]: [VeinMiner] Vault found. Attempting to enable economy support...
+[00:53:55] [Server thread/INFO]: [VeinMiner] Enabling Plugin Metrics
+[00:53:55] [Server thread/INFO]: [VeinMiner] Thanks for enabling Metrics! The anonymous stats are appreciated
+[00:53:55] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.9.1-SNAPSHOT
+[00:53:56] [ForkJoinPool.commonPool-worker-1/INFO]: [VeinMiner] You are on the latest version of VeinMiner!
+[00:54:01] [Server thread/INFO]: [Jobs] Enabling Jobs v5.2.6.5
+[00:54:01] [Server thread/INFO]: ------------- Jobs -------------
+[00:54:02] [Server thread/INFO]: Connected to database (SqLite)
+[00:54:05] [Server thread/INFO]: Loaded 8 titles
+[00:54:05] [Server thread/INFO]: Loaded 2 restricted areas!
+[00:54:05] [Server thread/INFO]: Loaded 53 protected blocks timers
+[00:54:09] [Server thread/INFO]: Loaded 1538 custom item names
+[00:54:09] [Server thread/INFO]: Loaded 85 custom entity names
+[00:54:09] [Server thread/INFO]: Loaded 2 custom MythicMobs names
+[00:54:09] [Server thread/INFO]: Loaded 42 custom enchant names
+[00:54:09] [Server thread/INFO]: Loaded 46 custom enchant names
+[00:54:09] [Server thread/INFO]: Loaded 16 custom color names
+[00:54:09] [Server thread/INFO]: Update shops items icon section and use 'ItemStack' instead
+[00:54:09] [Server thread/INFO]: Loaded 4 shop items
+[00:54:10] [Server thread/INFO]: Loaded 1 quests for Weaponsmith
+[00:54:10] [Server thread/INFO]: Loaded 1 quests for Builder
+[00:54:10] [Server thread/INFO]: Loaded 1 quests for Farmer
+[00:54:10] [Server thread/INFO]: Loaded 1 quests for Brewer
+[00:54:10] [Server thread/INFO]: Loaded 1 quests for Explorer
+[00:54:10] [Server thread/INFO]: Loaded 1 quests for Crafter
+[00:54:10] [Server thread/INFO]: Loaded 1 quests for Fisherman
+[00:54:10] [Server thread/INFO]: Loaded 1 quests for Miner
+[00:54:10] [Server thread/INFO]: Loaded 1 quests for Enchanter
+[00:54:10] [Server thread/INFO]: Loaded 1 quests for Digger
+[00:54:10] [Server thread/INFO]: Loaded 1 quests for Hunter
+[00:54:10] [Server thread/INFO]: Loaded 1 quests for Woodcutter
+[00:54:10] [Server thread/INFO]: Loaded 12 jobs
+[00:54:10] [Server thread/INFO]: Loaded 0 boosted items
+[00:54:11] [Jobs-DatabaseSaveTask/INFO]: Started database save task.
+[00:54:11] [Jobs-BufferedPaymentThread/INFO]: Started buffered payment thread.
+[00:54:11] [Server thread/INFO]: Preloaded 1 players data in 0.3
+[00:54:11] [Server thread/INFO]: mcMMO detected.
+[00:54:11] [Server thread/INFO]: Registering listeners...
+[00:54:12] [Server thread/INFO]: Registered mcMMO 2.x listener.
+[00:54:12] [Server thread/INFO]: Listeners registered successfully
+[00:54:13] [Server thread/INFO]: Plugin has been enabled successfully.
+[00:54:13] [Server thread/INFO]: ------------------------------------
+[00:54:13] [Server thread/INFO]: [DecentHolograms] Enabling DecentHolograms v2.8.11
+[00:54:13] [Server thread/ERROR]: [DecentHolograms] Unsupported server version detected: 1.21.4-6-71a367e (MC: 1.21.4)
+[00:54:13] [Server thread/ERROR]: [DecentHolograms] Plugin will now be disabled.
+[00:54:13] [Server thread/INFO]: [DecentHolograms] Disabling DecentHolograms v2.8.11
+[00:54:13] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.21.0
+[00:54:13] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
+[00:54:13] [Server thread/INFO]: [TAB] Enabling TAB v5.0.3
+[00:54:13] [Server thread/INFO]: [TAB] Loaded NMS hook in 321ms
+[00:54:17] [Server thread/INFO]: [TAB] Enabled in 3115ms
+[00:54:17] [Server thread/INFO]: [AuctionHouse] Enabling AuctionHouse v1.3.9
+[00:54:18] [Server thread/INFO]: [AuctionHouse] AuctionHouse enabled in 701ms
+[00:54:21] [Server thread/INFO]: [spark] Starting background profiler...
+[00:54:25] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[00:54:25] [Server thread/INFO]: [Geyser-Spigot] 
+[00:54:25] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.9.1-b1002 (git-master-0cdd31e)
+[00:54:25] [Server thread/INFO]: [Geyser-Spigot] 
+[00:54:25] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[00:54:46] [GeyserServer-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
+[00:54:46] [Server thread/INFO]: [Geyser-Spigot] Done (21.718s)! Run /geyser help for help!
+[00:54:46] [Server thread/WARN]: [Geyser-Spigot] Your server software does not support the Java version that Geyser requires (1.21.9). Please install ViaVersion (https://ci.viaversion.com/job/ViaVersion/) or update your server software!
+[00:54:47] [Server thread/INFO]: Done preparing level "world" (83.348s)
+[00:54:47] [Server thread/INFO]: Starting remote control listener
+[00:54:47] [Server thread/WARN]: No rcon password set in server.properties, rcon disabled!
+[00:54:47] [Server thread/ERROR]: Couldn't load server icon
+java.lang.IllegalStateException: Must be 64 pixels wide
+	at com.google.common.base.Preconditions.checkState(Preconditions.java:513) ~[guava-33.3.1-jre.jar:?]
+	at net.minecraft.server.MinecraftServer.lambda$loadStatusIcon$17(MinecraftServer.java:1595) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at java.base/java.util.Optional.flatMap(Optional.java:289) ~[?:?]
+	at net.minecraft.server.MinecraftServer.loadStatusIcon(MinecraftServer.java:1591) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1241) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:341) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[00:54:47] [Server thread/INFO]: Running delayed init tasks
+[00:54:47] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[00:54:47] [Craft Scheduler Thread - 8 - AuthMe/INFO]: [AuthMe] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[00:54:47] [Craft Scheduler Thread - 8 - AuthMe/WARN]: [AuthMe] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[00:54:47] [Craft Scheduler Thread - 8 - AuthMe/INFO]: [AuthMe] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[00:54:47] [Craft Scheduler Thread - 4 - Essentials/INFO]: [Essentials] Fetching version information...
+[00:54:47] [Craft Scheduler Thread - 8 - AuthMe/WARN]: [AuthMe] Could not download GeoLiteAPI database [FileNotFoundException]: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+[00:54:47] [Craft Scheduler Thread - 11 - Vault/INFO]: [Vault] Checking for Updates ... 
+[00:54:47] [Craft Scheduler Thread - 11 - Vault/INFO]: [Vault] No new version available
+[00:54:47] [Server thread/INFO]: [DiscordSRV] Disabling DiscordSRV v1.28.0
+[00:54:47] [Server thread/INFO]: [Jobs] Successfully linked with Vault. (Essentials)
+[00:54:47] [Server thread/INFO]: [Jobs] Successfully linked with Vault. (LuckPerms)
+[00:54:47] [Server thread/INFO]: Done (139.968s)! For help, type "help"
+[00:54:48] [Craft Scheduler Thread - 4 - Essentials/WARN]: [Essentials] There is a new EssentialsX version available for download: 2.21.2.
+[00:54:48] [Craft Scheduler Thread - 4 - Essentials/WARN]: [Essentials] Download it here: https://essentialsx.net/downloads.html?branch=stable
+[00:56:46] [User Authenticator #0/INFO]: [LuckPerms] Another plugin has cancelled the connection for ff47f4e0-57f3-3e4e-92f5-855ccd3d8257 - O. No permissions data will be loaded.
+[00:56:46] [User Authenticator #0/INFO]: Disconnecting O (/192.168.1.4:50522): Your username is either too short or too long!
+[00:56:46] [User Authenticator #0/INFO]: UUID of player O is ff47f4e0-57f3-3e4e-92f5-855ccd3d8257
+[00:56:46] [Server thread/INFO]: O (/192.168.1.4:50522) lost connection: Your username is either too short or too long!
+[00:57:28] [User Authenticator #0/WARN]: [LuckPerms] LuckPerms already has data for player 'Oven' - but this data is stored under a different UUID.
+[00:57:28] [User Authenticator #0/WARN]: [LuckPerms] 'Oven' has previously used the unique ids [46e44b98-3f62-3483-a9ea-5b246b676a26] but is now connecting with '5fca5397-45b1-3b6a-9963-e4b047697ab7'
+[00:57:28] [User Authenticator #0/WARN]: [LuckPerms] The UUID the player is connecting with now is NOT Mojang-assigned (type 3). This implies that THIS server is not authenticating correctly, but one (or more) of the other servers/proxies in the network are.
+[00:57:28] [User Authenticator #0/WARN]: [LuckPerms] If you're using BungeeCord/Velocity, please ensure that IP-Forwarding is setup correctly on all of your backend servers!
+[00:57:28] [User Authenticator #0/WARN]: [LuckPerms] See here for more info: https://luckperms.net/wiki/Network-Installation#pre-setup
+[00:57:29] [User Authenticator #0/INFO]: Disconnecting Oven (/192.168.1.4:63660): You should join using username oven, not Oven.
+[00:57:29] [User Authenticator #0/INFO]: UUID of player Oven is 5fca5397-45b1-3b6a-9963-e4b047697ab7
+[00:57:29] [Server thread/INFO]: Oven (/192.168.1.4:63660) lost connection: You should join using username oven, not Oven.
+[00:58:21] [User Authenticator #0/WARN]: [LuckPerms] LuckPerms already has data for player 'oven' - but this data is stored under a different UUID.
+[00:58:21] [User Authenticator #0/WARN]: [LuckPerms] 'oven' has previously used the unique ids [5fca5397-45b1-3b6a-9963-e4b047697ab7] but is now connecting with '46e44b98-3f62-3483-a9ea-5b246b676a26'
+[00:58:21] [User Authenticator #0/WARN]: [LuckPerms] The UUID the player is connecting with now is NOT Mojang-assigned (type 3). This implies that THIS server is not authenticating correctly, but one (or more) of the other servers/proxies in the network are.
+[00:58:21] [User Authenticator #0/WARN]: [LuckPerms] If you're using BungeeCord/Velocity, please ensure that IP-Forwarding is setup correctly on all of your backend servers!
+[00:58:21] [User Authenticator #0/WARN]: [LuckPerms] See here for more info: https://luckperms.net/wiki/Network-Installation#pre-setup
+[00:58:23] [User Authenticator #0/INFO]: UUID of player oven is 46e44b98-3f62-3483-a9ea-5b246b676a26
+[00:58:25] [Server thread/INFO]: oven joined the game
+[00:58:25] [Server thread/INFO]: oven[/192.168.1.4:60082] logged in with entity id 18 at ([world]213.3057351999187, 76.0, -628.803168760643)
+[00:58:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3718ms or 74 ticks behind
+[00:58:58] [Server thread/INFO]: oven lost connection: Login timeout exceeded, you have been kicked from the server, please try again!
+[00:58:58] [Server thread/INFO]: oven left the game
+[00:59:09] [User Authenticator #0/INFO]: UUID of player oven is 46e44b98-3f62-3483-a9ea-5b246b676a26
+[00:59:09] [Server thread/INFO]: oven joined the game
+[00:59:09] [Server thread/INFO]: oven[/192.168.1.4:61471] logged in with entity id 317 at ([world]213.3057351999187, 76.0, -628.803168760643)
+[00:59:17] [Craft Scheduler Thread - 17 - AuthMe/INFO]: [AuthMe] oven logged in 192.168.1.4
+[01:01:03] [Server thread/INFO]: oven issued server command: /gamemode survival
+[01:01:24] [Server thread/INFO]: oven issued server command: /gamemode creative
+[01:04:13] [Server thread/INFO]: oven has made the advancement [A Seedy Place]
+[01:06:53] [Server thread/INFO]: oven lost connection: Disconnected
+[01:06:53] [Server thread/INFO]: oven left the game
