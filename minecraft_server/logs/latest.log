@@ -1783,3 +1783,46 @@ Direct Download: https://get.discordsrv.com
 [16:14:21] [Paper Watchdog Thread/ERROR]: Move call information: 
 [16:14:21] [Paper Watchdog Thread/ERROR]: Start position: (170.40146111542415, 11.684945649652375, -538.8152350197029)
 [16:14:21] [Paper Watchdog Thread/ERROR]: Move vector: (-0.02606542687534146, 0.05875955745715426, -0.05691447108001611)
+[16:14:21] [Paper Watchdog Thread/ERROR]: ------------------------------
+[16:14:21] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[16:14:22] [Paper Watchdog Thread/ERROR]: 	PID: 43 | Suspended: false | Native: false | State: RUNNABLE
+[16:14:22] [Paper Watchdog Thread/ERROR]: 	Stack:
+[16:14:22] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.lang.ClassLoader.defineClass1(Native Method)
+[16:14:22] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.lang.ClassLoader.defineClass(ClassLoader.java:1027)
+[16:14:22] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.security.SecureClassLoader.defineClass(SecureClassLoader.java:150)
+[16:14:22] [Paper Watchdog Thread/ERROR]: 		org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:243)
+[16:14:22] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.lang.ClassLoader.loadClass(ClassLoader.java:593)
+[16:14:22] [Paper Watchdog Thread/ERROR]: 		org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:169)
+[16:14:22] [Paper Watchdog Thread/ERROR]: 		org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:164)
+[16:14:22] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+[16:14:22] [Paper Watchdog Thread/ERROR]: 		CMILib.jar//net.Zrips.CMILib.RawMessages.RawMessageListener.onShadowCommand(RawMessageListener.java:28)
+[16:14:22] [Paper Watchdog Thread/ERROR]: 		com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor224.execute(Unknown Source)
+[16:14:22] [Paper Watchdog Thread/ERROR]: 		org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77)
+[16:14:22] [Paper Watchdog Thread/ERROR]: 		co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80)
+[16:14:22] [Paper Watchdog Thread/ERROR]: 		org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[16:14:22] [Paper Watchdog Thread/ERROR]: 		io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54)
+[16:14:22] [Paper Watchdog Thread/ERROR]: 		io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131)
+[16:14:22] [Paper Watchdog Thread/ERROR]: 		org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628)
+[16:14:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2288)
+[16:14:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$11(ServerGamePacketListenerImpl.java:2275)
+[16:14:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.network.ServerGamePacketListenerImpl$$Lambda/0x0000757576774af0.run(Unknown Source)
+[16:14:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.TickTask.run(TickTask.java:18)
+[16:14:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:154)
+[16:14:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24)
+[16:14:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1579)
+[16:14:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:207)
+[16:14:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:128)
+[16:14:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1556)
+[16:14:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1549)
+[16:14:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.runAllTasks(BlockableEventLoop.java:117)
+[16:14:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1506)
+[16:14:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1346)
+[16:14:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:341)
+[16:14:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x0000757574dca220.run(Unknown Source)
+[16:14:22] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.lang.Thread.runWith(Thread.java:1596)
+[16:14:22] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.lang.Thread.run(Thread.java:1583)
+[16:14:22] [Paper Watchdog Thread/ERROR]: ------------------------------
+[16:14:22] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[16:14:22] [Paper Watchdog Thread/ERROR]: ------------------------------
+[16:14:22] [Craft Scheduler Thread - 17 - AuthMe/INFO]: [AuthMe] oven logged in 127.212.166.221
+[16:14:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18979ms or 379 ticks behind
