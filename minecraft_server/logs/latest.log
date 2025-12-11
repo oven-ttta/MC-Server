@@ -1601,3 +1601,15 @@ expected <block end>, but found '<block mapping start>'
 [01:13:34] [Server thread/INFO]: [Essentials] Loaded 43465 items from items.json.
 [01:13:34] [Server thread/INFO]: [Essentials] Using locale en_US
 [01:13:34] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[01:13:34] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[01:13:34] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[01:13:34] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[01:13:34] [Server thread/INFO]: [mcMMO] Enabling mcMMO v2.2.046-SNAPSHOT
+[01:13:36] [Server thread/INFO]: [mcMMO] Loaded 232 of 232 Alchemy potions.
+[01:13:38] [Server thread/INFO]: [GriefPrevention] Enabling GriefPrevention v16.18.5
+[01:13:38] [Server thread/INFO]: [GriefPrevention] Finished loading configuration.
+[01:13:38] [Server thread/INFO]: [GriefPrevention] 0 total claims loaded.
+[01:13:39] [Server thread/INFO]: [GriefPrevention] Customizable messages loaded.
+[01:13:39] [Server thread/INFO]: [GriefPrevention] Finished loading data (File Mode).
+[01:13:39] [Server thread/INFO]: [GriefPrevention] Boot finished.
+[01:13:39] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.5-SNAPSHOT (b121-55a85ec)
