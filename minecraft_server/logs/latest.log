@@ -1836,3 +1836,10 @@ Direct Download: https://get.discordsrv.com
 [16:28:49] [Server thread/INFO]: /127.191.71.205:0 lost connection: Disconnected
 [16:28:49] [localSession-7-2/INFO]: [Geyser-Spigot] FawnHurdle3884 has disconnected from the Java server because of §r§4Your username contains illegal characters. Allowed chars: [a-zA-Z0-9_]*
 [16:28:49] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .FawnHurdle3884 disconnected
+[16:30:19] [GeyserServerChild-4-4/INFO]: [Geyser-Spigot] Player connected with username FawnHurdle3884 (827)
+[16:30:19] [localSession-7-3/INFO]: [Geyser-Spigot] FawnHurdle3884 (logged in as: FawnHurdle3884) has connected to the Java server
+[16:30:19] [Geyser Spigot connection thread-6-4/INFO]: [LuckPerms] Another plugin has cancelled the connection for 00000000-0000-0000-0009-01f0570def82 - .FawnHurdle3884. No permissions data will be loaded.
+[16:30:19] [Geyser Spigot connection thread-6-4/INFO]: Disconnecting /127.191.71.205:0: Your username contains illegal characters. Allowed chars: [a-zA-Z0-9_]*
+[16:30:19] [localSession-7-3/INFO]: [Geyser-Spigot] FawnHurdle3884 has disconnected from the Java server because of §r§4Your username contains illegal characters. Allowed chars: [a-zA-Z0-9_]*
+[16:30:19] [Server thread/INFO]: /127.191.71.205:0 lost connection: Disconnected
+[16:30:19] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .FawnHurdle3884 disconnected
