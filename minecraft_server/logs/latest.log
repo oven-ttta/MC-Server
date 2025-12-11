@@ -1996,3 +1996,7 @@ Direct Download: https://get.discordsrv.com
 [01:38:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20062ms or 401 ticks behind
 [01:42:29] [Server thread/INFO]: oven lost connection: Disconnected
 [01:42:29] [Server thread/INFO]: oven left the game
+[01:42:43] [User Authenticator #2/INFO]: UUID of player oven is 46e44b98-3f62-3483-a9ea-5b246b676a26
+[01:42:45] [Server thread/INFO]: oven joined the game
+[01:42:45] [Server thread/INFO]: oven[/192.168.1.4:55582] logged in with entity id 941 at ([world]225.04038774939835, 75.0, -625.8451177304239)
+[01:42:56] [Craft Scheduler Thread - 29 - AuthMe/INFO]: [AuthMe] oven logged in 192.168.1.4
