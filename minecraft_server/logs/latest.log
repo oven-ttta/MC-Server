@@ -1767,3 +1767,5 @@ Direct Download: https://get.discordsrv.com
 [01:45:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3596ms or 71 ticks behind
 [01:49:35] [Server thread/INFO]: oven issued server command: /gamemode creative
 [01:50:47] [Server thread/INFO]: oven issued server command: /time set midnight
+[01:52:55] [Server thread/INFO]: oven lost connection: Disconnected
+[01:52:56] [Server thread/INFO]: oven left the game
