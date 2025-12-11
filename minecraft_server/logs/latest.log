@@ -1739,3 +1739,23 @@ Direct Download: https://get.discordsrv.com
 [01:44:52] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.9.1-b1002 (git-master-0cdd31e)
 [01:44:52] [Server thread/INFO]: [Geyser-Spigot] 
 [01:44:52] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[01:45:22] [GeyserServer-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
+[01:45:23] [Server thread/INFO]: [Geyser-Spigot] Done (30.744s)! Run /geyser help for help!
+[01:45:25] [Server thread/WARN]: [Geyser-Spigot] Your server software does not support the Java version that Geyser requires (1.21.9). Please install ViaVersion (https://ci.viaversion.com/job/ViaVersion/) or update your server software!
+[01:45:26] [Server thread/INFO]: Done preparing level "world" (55.865s)
+[01:45:26] [Server thread/INFO]: Starting remote control listener
+[01:45:26] [Server thread/WARN]: No rcon password set in server.properties, rcon disabled!
+[01:45:26] [Server thread/INFO]: Running delayed init tasks
+[01:45:26] [Craft Scheduler Thread - 8 - AuthMe/INFO]: [AuthMe] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[01:45:26] [Craft Scheduler Thread - 4 - Essentials/INFO]: [Essentials] Fetching version information...
+[01:45:26] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[01:45:26] [Craft Scheduler Thread - 8 - AuthMe/WARN]: [AuthMe] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[01:45:26] [Craft Scheduler Thread - 8 - AuthMe/INFO]: [AuthMe] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[01:45:27] [Craft Scheduler Thread - 8 - AuthMe/WARN]: [AuthMe] Could not download GeoLiteAPI database [FileNotFoundException]: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+[01:45:27] [Server thread/INFO]: [DiscordSRV] Disabling DiscordSRV v1.28.0
+[01:45:28] [Server thread/INFO]: [Jobs] Successfully linked with Vault. (Essentials)
+[01:45:28] [Server thread/INFO]: [Jobs] Successfully linked with Vault. (LuckPerms)
+[01:45:28] [Server thread/INFO]: Done (99.507s)! For help, type "help"
+[01:45:28] [Craft Scheduler Thread - 8 - Vault/INFO]: [Vault] Checking for Updates ... 
+[01:45:28] [Craft Scheduler Thread - 8 - Vault/INFO]: [Vault] No new version available
+[01:45:29] [User Authenticator #0/INFO]: UUID of player oven is 46e44b98-3f62-3483-a9ea-5b246b676a26
