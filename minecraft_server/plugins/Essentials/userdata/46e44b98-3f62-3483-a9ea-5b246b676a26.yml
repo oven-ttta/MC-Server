@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1765470728003
+  logout: 1765558166494
   login: 1765554341592
 money: '0'
 last-account-name: oven
 logoutlocation:
   world: c6f6579c-eac5-4288-a6ae-500388f97d11
   world-name: world
-  x: 226.73411423446237
-  y: 81.49390748022948
-  z: -619.7378760012207
-  yaw: -141.728271484375
-  pitch: 19.950021743774414
+  x: 204.7112710902308
+  y: 79.0
+  z: -594.8922090431236
+  yaw: 111.54922485351562
+  pitch: 26.250207901000977
 lastlocation:
   world: c6f6579c-eac5-4288-a6ae-500388f97d11
   world-name: world
