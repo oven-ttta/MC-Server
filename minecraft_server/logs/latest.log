@@ -1774,3 +1774,10 @@ Direct Download: https://get.discordsrv.com
 [15:45:41] [Server thread/INFO]: oven[/127.212.166.221:35901] logged in with entity id 32 at ([world]232.06007908104786, 69.25220334025373, -798.9163997495003)
 [15:45:42] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 5af0a787-27b9-4069-a8a1-5ab017fe0a1f, mapped to Bat['Bat'/59, uuid='5af0a787-27b9-4069-a8a1-5ab017fe0a1f', l='ServerLevel[world]', x=300.61, y=2.04, z=-799.32, cpos=[18, -50], tl=113, v=true], can't add Bat['Bat'/65, uuid='5af0a787-27b9-4069-a8a1-5ab017fe0a1f', l='ServerLevel[world]', x=298.25, y=3.11, z=-801.51, cpos=[18, -51], tl=164, v=false]
 [15:45:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2683ms or 53 ticks behind
+[15:45:51] [Craft Scheduler Thread - 10 - AuthMe/INFO]: [AuthMe] oven logged in 127.212.166.221
+[15:46:01] [User Authenticator #1/INFO]: UUID of player S4NTAZANG is c4f9e38d-5c7d-3749-bdde-45bce4978d13
+[15:46:02] [Server thread/INFO]: S4NTAZANG joined the game
+[15:46:02] [Server thread/INFO]: S4NTAZANG[/127.51.72.87:46385] logged in with entity id 319 at ([world]231.95656488598746, 88.0, -475.30000001192093)
+[15:46:03] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 988b7cae-25a5-4f96-8b81-151f8965bd08, mapped to Bat['Bat'/327, uuid='988b7cae-25a5-4f96-8b81-151f8965bd08', l='ServerLevel[world]', x=243.40, y=20.57, z=-523.56, cpos=[15, -33], tl=783, v=true], can't add Bat['Bat'/342, uuid='988b7cae-25a5-4f96-8b81-151f8965bd08', l='ServerLevel[world]', x=241.85, y=20.39, z=-529.64, cpos=[15, -34], tl=718, v=false]
+[15:46:12] [Server thread/INFO]: oven issued server command: /time set day
+[15:46:12] [Craft Scheduler Thread - 14 - AuthMe/INFO]: [AuthMe] S4NTAZANG logged in 127.51.72.87
