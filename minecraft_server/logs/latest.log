@@ -1793,3 +1793,4 @@ Direct Download: https://get.discordsrv.com
 [15:49:37] [Server thread/INFO]: oven drowned
 [15:50:38] [Server thread/INFO]: oven issued server command: /gamerule doTileDrops false
 [15:50:38] [Server thread/INFO]: [oven: Gamerule doTileDrops is now set to: false]
+[15:51:16] [Server thread/INFO]: oven issued server command: /teleport oven ekkeke
