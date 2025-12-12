@@ -1788,3 +1788,5 @@ Direct Download: https://get.discordsrv.com
 [15:47:03] [Server thread/INFO]: ekkeke suffocated in a wall
 [15:47:04] [Server thread/INFO]: (mcMMO) oven has reached a Power level of 100!
 [15:48:04] [Server thread/INFO]: oven issued server command: /teleport ekkeke oven
+[15:48:47] [Server thread/INFO]: oven issued server command: /gamerule keepInventory true
+[15:48:47] [Server thread/INFO]: [oven: Gamerule keepInventory is now set to: true]
