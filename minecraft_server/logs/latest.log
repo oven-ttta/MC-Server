@@ -1784,3 +1784,6 @@ Direct Download: https://get.discordsrv.com
 [15:46:34] [User Authenticator #1/INFO]: UUID of player ekkeke is 077a7bba-4549-3bf9-bd0a-83817cd79fb8
 [15:46:38] [Server thread/INFO]: ekkeke joined the game
 [15:46:38] [Server thread/INFO]: ekkeke[/127.39.177.41:53607] logged in with entity id 595 at ([world]226.69999998807907, 14.0, -651.5134988920145)
+[15:46:58] [Craft Scheduler Thread - 18 - AuthMe/INFO]: [AuthMe] ekkeke logged in 127.39.177.41
+[15:47:03] [Server thread/INFO]: ekkeke suffocated in a wall
+[15:47:04] [Server thread/INFO]: (mcMMO) oven has reached a Power level of 100!
