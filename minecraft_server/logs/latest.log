@@ -80,3 +80,16 @@ Direct Download: https://get.discordsrv.com
 [15:32:51] [Server thread/INFO]: oven issued server command: /teleport oven ekkeke
 [15:34:37] [Async Chat Thread - #11/INFO]: [Not Secure] <S4NTAZANG> ขอเหล็กหน่อยค่ะ
 [15:34:44] [Server thread/INFO]: (mcMMO) oven has reached a Power level of 100!
+[15:36:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2955ms or 59 ticks behind
+[15:37:29] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21.4-6-71a367e (MC: 1.21.4) ---
+[15:37:37] [Paper Watchdog Thread/ERROR]: The server has not responded for 10 seconds! Creating thread dump
+[15:37:38] [Paper Watchdog Thread/ERROR]: ------------------------------
+[15:37:48] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[15:37:57] [Server thread/INFO]: S4NTAZANG lost connection: Timed out
+[15:38:07] [Paper Watchdog Thread/ERROR]: Ticking entity: minecraft:player, entity class: net.minecraft.server.level.ServerPlayer
+[15:38:07] [Paper Watchdog Thread/ERROR]: Entity status: removed: false, valid: true, alive: true, is passenger: false
+[15:38:07] [Paper Watchdog Thread/ERROR]: Entity UUID: c4f9e38d-5c7d-3749-bdde-45bce4978d13
+[15:38:07] [Paper Watchdog Thread/ERROR]: Position: world: 'world' at location (232.18300733243836, 88.0, -482.69754970162813)
+[15:38:07] [Paper Watchdog Thread/ERROR]: Velocity: (0.0, -0.0784000015258789, 0.0) (in blocks per tick)
+[15:38:08] [Paper Watchdog Thread/ERROR]: Entity AABB: AABB[231.88300732051744, 88.0, -482.99754971354906] -> [232.4830073443593, 89.79999995231628, -482.3975496897072]
+[15:38:10] [Paper Watchdog Thread/ERROR]: Total packets processed on the main thread for all players: 307377
