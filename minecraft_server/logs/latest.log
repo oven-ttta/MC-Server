@@ -1812,3 +1812,7 @@ Direct Download: https://get.discordsrv.com
 [15:53:17] [Server thread/INFO]: [Egg: Modified entity data of Egg]
 [15:53:17] [Server thread/INFO]: [Stick: Modified entity data of Stick]
 [15:53:17] [Server thread/INFO]: [Weeping Vines: Modified entity data of Weeping Vines]
+[15:53:47] [Server thread/INFO]: oven issued server command: /gamerule doTileDrops true
+[15:53:47] [Server thread/INFO]: [oven: Gamerule doTileDrops is now set to: true]
+[15:54:05] [Server thread/INFO]: oven issued server command: /teleport ekkeke oven
+[15:54:18] [Server thread/INFO]: oven issued server command: /kill
