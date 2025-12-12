@@ -1875,3 +1875,7 @@ Direct Download: https://get.discordsrv.com
 [16:27:42] [Server thread/INFO]: ekkeke has made the advancement [We Need to Go Deeper]
 [16:28:51] [Server thread/INFO]: ekkeke lost connection: Timed out
 [16:28:51] [Server thread/INFO]: ekkeke left the game
+[16:28:59] [User Authenticator #4/INFO]: UUID of player ekkeke is 077a7bba-4549-3bf9-bd0a-83817cd79fb8
+[16:29:02] [Server thread/INFO]: ekkeke joined the game
+[16:29:02] [Server thread/INFO]: ekkeke[/127.39.177.41:59405] logged in with entity id 12590 at ([world_nether]-1.437203420431712, 37.0, -88.16234592421827)
+[16:29:13] [Craft Scheduler Thread - 87 - AuthMe/INFO]: [AuthMe] ekkeke logged in 127.39.177.41
