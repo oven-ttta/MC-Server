@@ -35,3 +35,7 @@ Direct Download: https://get.discordsrv.com
 [15:03:34] [Server thread/INFO]: oven issued server command: /time set day
 [15:13:55] [Server thread/INFO]: oven issued server command: /time set day
 [15:14:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5797ms or 115 ticks behind
+[15:14:57] [User Authenticator #2/INFO]: UUID of player ekkeke is 077a7bba-4549-3bf9-bd0a-83817cd79fb8
+[15:15:03] [Server thread/INFO]: ekkeke joined the game
+[15:15:03] [Server thread/INFO]: ekkeke[/127.39.177.41:42075] logged in with entity id 11634 at ([world]97.5, 64.0, -355.5)
+[15:15:03] [Server thread/INFO]: ekkeke has made the advancement [Getting an Upgrade]

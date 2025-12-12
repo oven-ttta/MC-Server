@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.39.177.41
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 0
+  login: 1765552503486
+money: '0'
+last-account-name: ekkeke
+lastlocation:
+  world: c6f6579c-eac5-4288-a6ae-500388f97d11
+  world-name: world
+  x: 96.0
+  y: 64.0
+  z: -352.0
+  yaw: 0.0
+  pitch: 0.0
