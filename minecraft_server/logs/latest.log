@@ -1787,3 +1787,4 @@ Direct Download: https://get.discordsrv.com
 [15:46:58] [Craft Scheduler Thread - 18 - AuthMe/INFO]: [AuthMe] ekkeke logged in 127.39.177.41
 [15:47:03] [Server thread/INFO]: ekkeke suffocated in a wall
 [15:47:04] [Server thread/INFO]: (mcMMO) oven has reached a Power level of 100!
+[15:48:04] [Server thread/INFO]: oven issued server command: /teleport ekkeke oven
