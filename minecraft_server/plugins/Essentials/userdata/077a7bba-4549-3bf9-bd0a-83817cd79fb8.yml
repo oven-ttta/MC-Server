@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1765553173705
-  login: 1765554398937
+  logout: 1765554753248
+  login: 1765554758047
 money: '0'
 last-account-name: ekkeke
 lastlocation:
@@ -31,8 +31,8 @@ lastlocation:
 logoutlocation:
   world: c6f6579c-eac5-4288-a6ae-500388f97d11
   world-name: world
-  x: 213.69180848227418
-  y: 76.0
-  z: -625.5273870717768
-  yaw: 115.99700927734375
-  pitch: 52.577842712402344
+  x: 225.69999998807907
+  y: 16.0
+  z: -650.8874999880791
+  yaw: -161.75726318359375
+  pitch: 62.511260986328125
