@@ -1921,3 +1921,12 @@ Direct Download: https://get.discordsrv.com
 [16:45:17] [User Authenticator #6/INFO]: UUID of player ekkeke is 077a7bba-4549-3bf9-bd0a-83817cd79fb8
 [16:45:17] [Server thread/INFO]: Disconnecting ekkeke (/127.126.15.45:51607): You must wait 13 seconds before logging-in again.
 [16:45:17] [Server thread/INFO]: ekkeke (/127.126.15.45:51607) lost connection: You must wait 13 seconds before logging-in again.
+[16:45:36] [User Authenticator #6/INFO]: UUID of player ekkeke is 077a7bba-4549-3bf9-bd0a-83817cd79fb8
+[16:45:37] [Server thread/INFO]: ekkeke joined the game
+[16:45:37] [Server thread/INFO]: ekkeke[/127.126.15.45:55135] logged in with entity id 17183 at ([world_nether]-212.95761117736737, 49.5625, 16.446606895016533)
+[16:45:44] [Craft Scheduler Thread - 126 - AuthMe/INFO]: [AuthMe] ekkeke used the wrong password
+[16:45:44] [Server thread/INFO]: ekkeke lost connection: Wrong password!
+[16:45:44] [Server thread/INFO]: ekkeke left the game
+[16:45:49] [User Authenticator #6/INFO]: UUID of player ekkeke is 077a7bba-4549-3bf9-bd0a-83817cd79fb8
+[16:45:49] [Server thread/INFO]: Disconnecting ekkeke (/127.126.15.45:38195): You must wait 49 seconds before logging-in again.
+[16:45:49] [Server thread/INFO]: ekkeke (/127.126.15.45:38195) lost connection: You must wait 49 seconds before logging-in again.
