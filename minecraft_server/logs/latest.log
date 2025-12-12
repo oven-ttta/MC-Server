@@ -1,7 +1,7 @@
-[15:43:54] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.9+10-Ubuntu-124.04; Ubuntu null) on Linux 6.8.0-88-generic (amd64)
-[15:43:54] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.4-6-master@71a367e (2024-12-08T06:14:29Z) for Minecraft 1.21.4
-[15:43:57] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[15:43:58] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/SuperiorSkyblock.jar' failed to update!
+[17:41:37] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.9+10-Ubuntu-124.04; Ubuntu null) on Linux 6.8.0-88-generic (amd64)
+[17:41:37] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.4-6-master@71a367e (2024-12-08T06:14:29Z) for Minecraft 1.21.4
+[17:41:40] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[17:41:41] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/SuperiorSkyblock.jar' failed to update!
 java.lang.RuntimeException: Directory 'plugins/SuperiorSkyblock.jar' failed to update!
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:62) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.lambda$prepareContext$1(DirectoryProviderSource.java:33) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
@@ -45,7 +45,7 @@ Caused by: java.util.zip.ZipException: zip END header not found
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.checkUpdate(FileProviderSource.java:112) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:60) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	... 22 more
-[15:43:58] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/WolfyUtilities.jar' failed to update!
+[17:41:41] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/WolfyUtilities.jar' failed to update!
 java.lang.RuntimeException: Directory 'plugins/WolfyUtilities.jar' failed to update!
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:62) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.lambda$prepareContext$1(DirectoryProviderSource.java:33) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
@@ -89,7 +89,7 @@ Caused by: java.util.zip.ZipException: zip END header not found
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.checkUpdate(FileProviderSource.java:112) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:60) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	... 22 more
-[15:43:58] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/MyPet.jar' failed to update!
+[17:41:41] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/MyPet.jar' failed to update!
 java.lang.RuntimeException: Directory 'plugins/MyPet.jar' failed to update!
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:62) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.lambda$prepareContext$1(DirectoryProviderSource.java:33) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
@@ -133,7 +133,7 @@ Caused by: java.util.zip.ZipException: zip END header not found
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.checkUpdate(FileProviderSource.java:112) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:60) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	... 22 more
-[15:43:58] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/DeluxeMenus.jar' failed to update!
+[17:41:41] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/DeluxeMenus.jar' failed to update!
 java.lang.RuntimeException: Directory 'plugins/DeluxeMenus.jar' failed to update!
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:62) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.lambda$prepareContext$1(DirectoryProviderSource.java:33) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
@@ -177,7 +177,7 @@ Caused by: java.util.zip.ZipException: zip END header not found
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.checkUpdate(FileProviderSource.java:112) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:60) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	... 22 more
-[15:43:58] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/Announcer.jar' failed to update!
+[17:41:41] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/Announcer.jar' failed to update!
 java.lang.RuntimeException: Directory 'plugins/Announcer.jar' failed to update!
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:62) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.lambda$prepareContext$1(DirectoryProviderSource.java:33) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
@@ -221,7 +221,7 @@ Caused by: java.util.zip.ZipException: zip END header not found
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.checkUpdate(FileProviderSource.java:112) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:60) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	... 22 more
-[15:43:58] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/HolographicDisplays.jar' failed to update!
+[17:41:41] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/HolographicDisplays.jar' failed to update!
 java.lang.RuntimeException: Directory 'plugins/HolographicDisplays.jar' failed to update!
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:62) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.lambda$prepareContext$1(DirectoryProviderSource.java:33) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
@@ -265,7 +265,7 @@ Caused by: java.util.zip.ZipException: zip END header not found
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.checkUpdate(FileProviderSource.java:112) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:60) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	... 22 more
-[15:43:58] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/AutoMessage.jar' failed to update!
+[17:41:41] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/AutoMessage.jar' failed to update!
 java.lang.RuntimeException: Directory 'plugins/AutoMessage.jar' failed to update!
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:62) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.lambda$prepareContext$1(DirectoryProviderSource.java:33) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
@@ -309,7 +309,7 @@ Caused by: java.util.zip.ZipException: zip END header not found
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.checkUpdate(FileProviderSource.java:112) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:60) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	... 22 more
-[15:43:58] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/SimpleClans.jar' failed to update!
+[17:41:41] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/SimpleClans.jar' failed to update!
 java.lang.RuntimeException: Directory 'plugins/SimpleClans.jar' failed to update!
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:62) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.lambda$prepareContext$1(DirectoryProviderSource.java:33) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
@@ -353,7 +353,7 @@ Caused by: java.util.zip.ZipException: zip END header not found
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.checkUpdate(FileProviderSource.java:112) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:60) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	... 22 more
-[15:43:58] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/MythicMobs.jar' failed to update!
+[17:41:41] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/MythicMobs.jar' failed to update!
 java.lang.RuntimeException: Directory 'plugins/MythicMobs.jar' failed to update!
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:62) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.lambda$prepareContext$1(DirectoryProviderSource.java:33) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
@@ -397,7 +397,7 @@ Caused by: java.util.zip.ZipException: zip END header not found
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.checkUpdate(FileProviderSource.java:112) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:60) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	... 22 more
-[15:43:58] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/CustomEnchants.jar' failed to update!
+[17:41:41] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/CustomEnchants.jar' failed to update!
 java.lang.RuntimeException: Directory 'plugins/CustomEnchants.jar' failed to update!
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:62) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.lambda$prepareContext$1(DirectoryProviderSource.java:33) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
@@ -441,7 +441,7 @@ Caused by: java.util.zip.ZipException: zip END header not found
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.checkUpdate(FileProviderSource.java:112) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:60) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	... 22 more
-[15:43:58] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/CratesPlus.jar' failed to update!
+[17:41:41] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/CratesPlus.jar' failed to update!
 java.lang.RuntimeException: Directory 'plugins/CratesPlus.jar' failed to update!
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:62) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.lambda$prepareContext$1(DirectoryProviderSource.java:33) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
@@ -485,7 +485,7 @@ Caused by: java.util.zip.ZipException: zip END header not found
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.checkUpdate(FileProviderSource.java:112) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:60) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	... 22 more
-[15:43:58] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/ViaBackwards.jar' failed to update!
+[17:41:41] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/ViaBackwards.jar' failed to update!
 java.lang.RuntimeException: Directory 'plugins/ViaBackwards.jar' failed to update!
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:62) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.lambda$prepareContext$1(DirectoryProviderSource.java:33) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
@@ -529,7 +529,7 @@ Caused by: java.util.zip.ZipException: zip END header not found
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.checkUpdate(FileProviderSource.java:112) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:60) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	... 22 more
-[15:43:58] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/AdvancedEnchantments.jar' failed to update!
+[17:41:41] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/AdvancedEnchantments.jar' failed to update!
 java.lang.RuntimeException: Directory 'plugins/AdvancedEnchantments.jar' failed to update!
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:62) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.lambda$prepareContext$1(DirectoryProviderSource.java:33) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
@@ -573,7 +573,7 @@ Caused by: java.util.zip.ZipException: zip END header not found
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.checkUpdate(FileProviderSource.java:112) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:60) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	... 22 more
-[15:43:58] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/ClearLag.jar' failed to update!
+[17:41:41] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/ClearLag.jar' failed to update!
 java.lang.RuntimeException: Directory 'plugins/ClearLag.jar' failed to update!
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:62) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.lambda$prepareContext$1(DirectoryProviderSource.java:33) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
@@ -617,7 +617,7 @@ Caused by: java.util.zip.ZipException: zip END header not found
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.checkUpdate(FileProviderSource.java:112) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:60) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	... 22 more
-[15:43:58] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/Citizens.jar' failed to update!
+[17:41:41] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/Citizens.jar' failed to update!
 java.lang.RuntimeException: Directory 'plugins/Citizens.jar' failed to update!
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:62) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.lambda$prepareContext$1(DirectoryProviderSource.java:33) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
@@ -661,7 +661,7 @@ Caused by: java.util.zip.ZipException: zip END header not found
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.checkUpdate(FileProviderSource.java:112) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:60) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	... 22 more
-[15:43:58] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/EpicSpawners.jar' failed to update!
+[17:41:41] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/EpicSpawners.jar' failed to update!
 java.lang.RuntimeException: Directory 'plugins/EpicSpawners.jar' failed to update!
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:62) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.lambda$prepareContext$1(DirectoryProviderSource.java:33) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
@@ -705,7 +705,7 @@ Caused by: java.util.zip.ZipException: zip END header not found
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.checkUpdate(FileProviderSource.java:112) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:60) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	... 22 more
-[15:43:58] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/PlayTime.jar' failed to update!
+[17:41:41] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/PlayTime.jar' failed to update!
 java.lang.RuntimeException: Directory 'plugins/PlayTime.jar' failed to update!
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:62) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.lambda$prepareContext$1(DirectoryProviderSource.java:33) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
@@ -749,7 +749,7 @@ Caused by: java.util.zip.ZipException: zip END header not found
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.checkUpdate(FileProviderSource.java:112) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:60) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	... 22 more
-[15:43:59] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/AnimatedScoreboard.jar' failed to update!
+[17:41:41] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/AnimatedScoreboard.jar' failed to update!
 java.lang.RuntimeException: Directory 'plugins/AnimatedScoreboard.jar' failed to update!
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:62) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.lambda$prepareContext$1(DirectoryProviderSource.java:33) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
@@ -793,7 +793,7 @@ Caused by: java.util.zip.ZipException: zip END header not found
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.checkUpdate(FileProviderSource.java:112) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:60) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	... 22 more
-[15:43:59] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/Dynmap.jar' failed to update!
+[17:41:41] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/Dynmap.jar' failed to update!
 java.lang.RuntimeException: Directory 'plugins/Dynmap.jar' failed to update!
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:62) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.lambda$prepareContext$1(DirectoryProviderSource.java:33) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
@@ -837,7 +837,7 @@ Caused by: java.util.zip.ZipException: zip END header not found
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.checkUpdate(FileProviderSource.java:112) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:60) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	... 22 more
-[15:43:59] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/LevelledMobs.jar' failed to update!
+[17:41:41] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/LevelledMobs.jar' failed to update!
 java.lang.RuntimeException: Directory 'plugins/LevelledMobs.jar' failed to update!
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:62) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.lambda$prepareContext$1(DirectoryProviderSource.java:33) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
@@ -881,7 +881,7 @@ Caused by: java.util.zip.ZipException: zip END header not found
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.checkUpdate(FileProviderSource.java:112) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:60) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	... 22 more
-[15:43:59] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/UltimateStacker.jar' failed to update!
+[17:41:41] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/UltimateStacker.jar' failed to update!
 java.lang.RuntimeException: Directory 'plugins/UltimateStacker.jar' failed to update!
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:62) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.lambda$prepareContext$1(DirectoryProviderSource.java:33) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
@@ -925,7 +925,7 @@ Caused by: java.util.zip.ZipException: zip END header not found
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.checkUpdate(FileProviderSource.java:112) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:60) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	... 22 more
-[15:43:59] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/ViaVersion.jar' failed to update!
+[17:41:41] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/ViaVersion.jar' failed to update!
 java.lang.RuntimeException: Directory 'plugins/ViaVersion.jar' failed to update!
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:62) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.lambda$prepareContext$1(DirectoryProviderSource.java:33) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
@@ -970,7 +970,7 @@ Caused by: java.util.zip.ZipException: zip file is empty
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.checkUpdate(FileProviderSource.java:112) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:60) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	... 22 more
-[15:43:59] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/CustomCrafting.jar' failed to update!
+[17:41:41] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/CustomCrafting.jar' failed to update!
 java.lang.RuntimeException: Directory 'plugins/CustomCrafting.jar' failed to update!
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:62) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.lambda$prepareContext$1(DirectoryProviderSource.java:33) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
@@ -1014,7 +1014,7 @@ Caused by: java.util.zip.ZipException: zip END header not found
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.checkUpdate(FileProviderSource.java:112) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:60) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	... 22 more
-[15:43:59] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/EconomyShopGUI.jar' failed to update!
+[17:41:41] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/EconomyShopGUI.jar' failed to update!
 java.lang.RuntimeException: Directory 'plugins/EconomyShopGUI.jar' failed to update!
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:62) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.lambda$prepareContext$1(DirectoryProviderSource.java:33) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
@@ -1058,7 +1058,7 @@ Caused by: java.util.zip.ZipException: zip END header not found
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.checkUpdate(FileProviderSource.java:112) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:60) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	... 22 more
-[15:43:59] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/ImageOnMap.jar' failed to update!
+[17:41:41] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/ImageOnMap.jar' failed to update!
 java.lang.RuntimeException: Directory 'plugins/ImageOnMap.jar' failed to update!
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:62) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.lambda$prepareContext$1(DirectoryProviderSource.java:33) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
@@ -1102,7 +1102,7 @@ Caused by: java.util.zip.ZipException: zip END header not found
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.checkUpdate(FileProviderSource.java:112) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:60) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	... 22 more
-[15:43:59] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/PlaceholderAPI.jar' failed to update!
+[17:41:41] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/PlaceholderAPI.jar' failed to update!
 java.lang.RuntimeException: Directory 'plugins/PlaceholderAPI.jar' failed to update!
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:62) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.lambda$prepareContext$1(DirectoryProviderSource.java:33) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
@@ -1146,7 +1146,7 @@ Caused by: java.util.zip.ZipException: zip END header not found
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.checkUpdate(FileProviderSource.java:112) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:60) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	... 22 more
-[15:43:59] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/BetterRTP.jar' failed to update!
+[17:41:41] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/BetterRTP.jar' failed to update!
 java.lang.RuntimeException: Directory 'plugins/BetterRTP.jar' failed to update!
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:62) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.lambda$prepareContext$1(DirectoryProviderSource.java:33) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
@@ -1190,7 +1190,7 @@ Caused by: java.util.zip.ZipException: zip END header not found
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.checkUpdate(FileProviderSource.java:112) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:60) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	... 22 more
-[15:43:59] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/CoreProtect.jar' failed to update!
+[17:41:41] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/CoreProtect.jar' failed to update!
 java.lang.RuntimeException: Directory 'plugins/CoreProtect.jar' failed to update!
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:62) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.lambda$prepareContext$1(DirectoryProviderSource.java:33) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
@@ -1234,7 +1234,7 @@ Caused by: java.util.zip.ZipException: zip END header not found
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.checkUpdate(FileProviderSource.java:112) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:60) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	... 22 more
-[15:43:59] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/QuickShop.jar' failed to update!
+[17:41:41] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/QuickShop.jar' failed to update!
 java.lang.RuntimeException: Directory 'plugins/QuickShop.jar' failed to update!
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:62) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.lambda$prepareContext$1(DirectoryProviderSource.java:33) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
@@ -1278,7 +1278,7 @@ Caused by: java.util.zip.ZipException: zip END header not found
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.checkUpdate(FileProviderSource.java:112) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:60) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	... 22 more
-[15:43:59] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/HeadDatabase.jar' failed to update!
+[17:41:41] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/HeadDatabase.jar' failed to update!
 java.lang.RuntimeException: Directory 'plugins/HeadDatabase.jar' failed to update!
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:62) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.lambda$prepareContext$1(DirectoryProviderSource.java:33) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
@@ -1322,7 +1322,7 @@ Caused by: java.util.zip.ZipException: zip END header not found
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.checkUpdate(FileProviderSource.java:112) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:60) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	... 22 more
-[15:43:59] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/LuckPermsGUI.jar' failed to update!
+[17:41:42] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/LuckPermsGUI.jar' failed to update!
 java.lang.RuntimeException: Directory 'plugins/LuckPermsGUI.jar' failed to update!
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:62) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.lambda$prepareContext$1(DirectoryProviderSource.java:33) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
@@ -1366,7 +1366,7 @@ Caused by: java.util.zip.ZipException: zip END header not found
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.checkUpdate(FileProviderSource.java:112) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:60) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	... 22 more
-[15:43:59] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/BetterTeams.jar' failed to update!
+[17:41:42] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/BetterTeams.jar' failed to update!
 java.lang.RuntimeException: Directory 'plugins/BetterTeams.jar' failed to update!
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:62) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.lambda$prepareContext$1(DirectoryProviderSource.java:33) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
@@ -1410,7 +1410,7 @@ Caused by: java.util.zip.ZipException: zip END header not found
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.checkUpdate(FileProviderSource.java:112) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:60) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	... 22 more
-[15:43:59] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/Quests.jar' failed to update!
+[17:41:42] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/Quests.jar' failed to update!
 java.lang.RuntimeException: Directory 'plugins/Quests.jar' failed to update!
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:62) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.lambda$prepareContext$1(DirectoryProviderSource.java:33) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
@@ -1454,35 +1454,60 @@ Caused by: java.util.zip.ZipException: zip END header not found
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.checkUpdate(FileProviderSource.java:112) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:60) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	... 22 more
-[15:44:03] [ServerMain/INFO]: [PluginInitializerManager] Initialized 25 plugins
-[15:44:03] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (25):
+[17:41:43] [ServerMain/INFO]: [PluginInitializerManager] Initialized 25 plugins
+[17:41:43] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (25):
  - AuctionHouse (1.3.9), AuthMe (5.6.0-beta2-b2453), CMILib (1.5.7.5), ChestShop (3.12.3-SNAPSHOT (build 446)), DecentHolograms (2.8.11), DiscordSRV (1.28.0), Essentials (2.21.0), Essentials (2.21.2), EssentialsChat (2.21.0), EssentialsSpawn (2.21.0), Geyser-Spigot (2.9.1-SNAPSHOT), GriefPrevention (16.18.5), Jobs (5.2.6.5), LuckPerms (5.5.0), Multiverse-Core (4.3.12), SkinsRestorer (15.9.0), TAB (5.0.3), Vault (1.7.3-b131), VeinMiner (2.3.0), ViaRewind (4.0.3), ViaVersion (5.5.0), WorldEdit (7.4.0-beta-01+ae062ca), WorldGuard (7.0.15-beta-01+445a1d7), floodgate (2.2.5-SNAPSHOT (b121-55a85ec)), mcMMO (2.2.046-SNAPSHOT)
-[15:44:14] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[15:44:20] [ServerMain/INFO]: Loaded 1370 recipes
-[15:44:20] [ServerMain/INFO]: Loaded 1481 advancements
-[15:44:20] [ServerMain/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
-[15:44:20] [ServerMain/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 396.4ms
-[15:44:21] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[15:44:21] [Server thread/WARN]: ****************************
-[15:44:21] [Server thread/WARN]: YOU ARE RUNNING THIS SERVER AS AN ADMINISTRATIVE OR ROOT USER. THIS IS NOT ADVISED.
-[15:44:21] [Server thread/WARN]: YOU ARE OPENING YOURSELF UP TO POTENTIAL RISKS WHEN DOING THIS.
-[15:44:21] [Server thread/WARN]: FOR MORE INFORMATION, SEE https://madelinemiller.dev/blog/root-minecraft-server/
-[15:44:21] [Server thread/WARN]: ****************************
-[15:44:21] [Server thread/INFO]: Loading properties
-[15:44:21] [Server thread/INFO]: This server is running Paper version 1.21.4-6-master@71a367e (2024-12-08T06:14:29Z) (Implementing API version 1.21.4-R0.1-SNAPSHOT)
-[15:44:22] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[15:44:23] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[15:44:23] [Server thread/INFO]: Using 4 threads for Netty based IO
-[15:44:24] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[15:44:24] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[15:44:24] [Server thread/INFO]: Default game type: SURVIVAL
-[15:44:24] [Server thread/INFO]: Generating keypair
-[15:44:25] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:44:25] [Server thread/INFO]: Using epoll channel type
-[15:44:25] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[15:44:25] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
-[15:44:25] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Ambiguous plugin name 'Essentials' for files 'plugins/EssentialsX-new.jar' and 'plugins/EssentialsX.jar' in 'plugins'
-[15:44:25] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load 'plugins/ViaRewind.jar' in 'plugins'
+[17:41:51] [ServerMain/WARN]: Failed to parse resource pack prompt '§6§lOvenx Shop Server §r§e- ดาวน์โหลด Faithful 64x Resource Pack เพื่อประสบการณ์ที่ดีที่สุด!'
+com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setStrictness(Strictness.LENIENT) to accept malformed JSON at line 1 column 12 path $
+See https://github.com/google/gson/blob/main/Troubleshooting.md#malformed-json
+	at com.google.gson.JsonParser.parseReader(JsonParser.java:116) ~[gson-2.11.0.jar:?]
+	at com.google.gson.JsonParser.parseString(JsonParser.java:92) ~[gson-2.11.0.jar:?]
+	at net.minecraft.network.chat.Component$Serializer.fromJson(Component.java:315) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at net.minecraft.server.dedicated.DedicatedServerProperties.parseResourcePackPrompt(DedicatedServerProperties.java:198) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at net.minecraft.server.dedicated.DedicatedServerProperties.getServerPackInfo(DedicatedServerProperties.java:231) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at net.minecraft.server.dedicated.DedicatedServerProperties.<init>(DedicatedServerProperties.java:175) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at net.minecraft.server.dedicated.DedicatedServerProperties.fromFile(DedicatedServerProperties.java:185) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at net.minecraft.server.dedicated.DedicatedServerSettings.<init>(DedicatedServerSettings.java:19) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at net.minecraft.server.Main.main(Main.java:130) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at io.papermc.paper.PaperBootstrap.boot(PaperBootstrap.java:21) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at org.bukkit.craftbukkit.Main.main(Main.java:281) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at io.papermc.paperclip.Paperclip.lambda$main$0(Paperclip.java:42) ~[app:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setStrictness(Strictness.LENIENT) to accept malformed JSON at line 1 column 12 path $
+See https://github.com/google/gson/blob/main/Troubleshooting.md#malformed-json
+	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1754) ~[gson-2.11.0.jar:?]
+	at com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1550) ~[gson-2.11.0.jar:?]
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:625) ~[gson-2.11.0.jar:?]
+	at com.google.gson.stream.JsonReader.peek(JsonReader.java:507) ~[gson-2.11.0.jar:?]
+	at com.google.gson.JsonParser.parseReader(JsonParser.java:111) ~[gson-2.11.0.jar:?]
+	... 12 more
+[17:41:51] [ServerMain/WARN]: resource-pack-id missing, using default of 0dd6cae4-4a97-344a-924d-3ae2a975ed31
+[17:41:51] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17:41:54] [ServerMain/INFO]: Loaded 1370 recipes
+[17:41:54] [ServerMain/INFO]: Loaded 1481 advancements
+[17:41:54] [ServerMain/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
+[17:41:54] [ServerMain/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 389.5ms
+[17:41:55] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[17:41:55] [Server thread/WARN]: ****************************
+[17:41:55] [Server thread/WARN]: YOU ARE RUNNING THIS SERVER AS AN ADMINISTRATIVE OR ROOT USER. THIS IS NOT ADVISED.
+[17:41:55] [Server thread/WARN]: YOU ARE OPENING YOURSELF UP TO POTENTIAL RISKS WHEN DOING THIS.
+[17:41:55] [Server thread/WARN]: FOR MORE INFORMATION, SEE https://madelinemiller.dev/blog/root-minecraft-server/
+[17:41:55] [Server thread/WARN]: ****************************
+[17:41:55] [Server thread/INFO]: Loading properties
+[17:41:55] [Server thread/INFO]: This server is running Paper version 1.21.4-6-master@71a367e (2024-12-08T06:14:29Z) (Implementing API version 1.21.4-R0.1-SNAPSHOT)
+[17:41:56] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[17:41:56] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[17:41:56] [Server thread/INFO]: Using 6 threads for Netty based IO
+[17:41:57] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[17:41:57] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[17:41:58] [Server thread/INFO]: Default game type: SURVIVAL
+[17:41:58] [Server thread/INFO]: Generating keypair
+[17:41:58] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:41:58] [Server thread/INFO]: Using epoll channel type
+[17:41:58] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[17:41:58] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[17:41:58] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Ambiguous plugin name 'Essentials' for files 'plugins/EssentialsX-new.jar' and 'plugins/EssentialsX.jar' in 'plugins'
+[17:41:58] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load 'plugins/ViaRewind.jar' in 'plugins'
 org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins: [ViaBackwards]. Please download and install these plugins to run 'ViaRewind'.
 	at io.papermc.paper.plugin.entrypoint.strategy.modern.ModernPluginLoadingStrategy.loadProviders(ModernPluginLoadingStrategy.java:82) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:38) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
@@ -1492,7 +1517,7 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1236) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:341) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[15:44:27] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load plugin 'WorldGuard.jar' in folder 'plugins/.paper-remapped'
+[17:41:59] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load plugin 'WorldGuard.jar' in folder 'plugins/.paper-remapped'
 org.bukkit.plugin.InvalidPluginException: Unsupported API version 1.21.10
 	at org.bukkit.craftbukkit.util.CraftMagicNumbers.checkSupported(CraftMagicNumbers.java:370) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProvider.createInstance(SpigotPluginProvider.java:121) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
@@ -1505,488 +1530,3 @@ org.bukkit.plugin.InvalidPluginException: Unsupported API version 1.21.10
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1236) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:341) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[15:44:30] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.5.0
-[15:44:30] [Server thread/INFO]: [ViaVersion] ViaVersion 5.5.0 is now loaded. Registering protocol transformers and injecting...
-[15:44:32] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[15:44:32] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[15:44:33] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.5.0
-[15:44:34] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
-[15:44:34] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.4.0-beta-01+ae062ca
-[15:44:35] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@3e1f11b3]
-[15:44:35] [Server thread/INFO]: [Multiverse-Core] Loading server plugin Multiverse-Core v4.3.12
-[15:44:35] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.2
-[15:44:35] [Server thread/INFO]: [mcMMO] Loading server plugin mcMMO v2.2.046-SNAPSHOT
-[15:44:35] [Server thread/INFO]: [GriefPrevention] Loading server plugin GriefPrevention v16.18.5
-[15:44:35] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.5-SNAPSHOT (b121-55a85ec)
-[15:44:37] [Server thread/INFO]: [floodgate] Took 2,075ms to boot Floodgate
-[15:44:37] [Server thread/INFO]: [EssentialsSpawn] Loading server plugin EssentialsSpawn v2.21.0
-[15:44:37] [Server thread/INFO]: [CMILib] Loading server plugin CMILib v1.5.7.5
-[15:44:37] [Server thread/INFO]: [DiscordSRV] Loading server plugin DiscordSRV v1.28.0
-[15:44:37] [Server thread/INFO]: [ChestShop] Loading server plugin ChestShop v3.12.3-SNAPSHOT (build 446)
-[15:44:37] [Server thread/INFO]: [ChestShop] GriefPrevention version 16.18.5 loaded.
-[15:44:37] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.9.0
-[15:44:37] [Server thread/INFO]: [AuthMe] Loading server plugin AuthMe v5.6.0-beta2-b2453
-[15:44:37] [Server thread/INFO]: [VeinMiner] Loading server plugin VeinMiner v2.3.0
-[15:44:37] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.9.1-SNAPSHOT
-[15:44:38] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[15:44:38] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[15:44:38] [Server thread/INFO]: [Jobs] Loading server plugin Jobs v5.2.6.5
-[15:44:38] [Server thread/INFO]: [DecentHolograms] Loading server plugin DecentHolograms v2.8.11
-[15:44:38] [Server thread/INFO]: [EssentialsChat] Loading server plugin EssentialsChat v2.21.0
-[15:44:38] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.0.3
-[15:44:38] [Server thread/INFO]: [AuctionHouse] Loading server plugin AuctionHouse v1.3.9
-[15:44:38] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[15:44:38] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.5.0
-[15:44:39] [Server thread/INFO]:         __    
-[15:44:39] [Server thread/INFO]:   |    |__)   LuckPerms v5.5.0
-[15:44:39] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[15:44:39] [Server thread/INFO]: 
-[15:44:39] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[15:44:40] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[15:44:41] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[15:44:41] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[15:44:41] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 2849ms)
-[15:44:41] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
-[15:44:41] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
-[15:44:41] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
-[15:44:41] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
-[15:44:41] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
-[15:44:41] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.4.0-beta-01+ae062ca
-[15:44:41] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
-[15:44:42] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
-[15:44:42] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_21_4.PaperweightAdapter as the Bukkit adapter
-[15:44:46] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.9.0
-[15:44:48] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.4.
-[15:44:48] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
-[15:44:49] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[15:44:49] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[15:44:49] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[15:44:49] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[15:44:49] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[15:44:49] [Server thread/INFO]: Preparing level "world"
-[15:44:49] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[15:44:49] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[15:44:49] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[15:44:49] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[15:44:49] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[15:44:49] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[15:44:49] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[15:44:49] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.9.0
-[15:44:49] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 1565b8f
-[15:44:49] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[15:44:49] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[15:44:49] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[15:44:49] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[15:44:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:44:51] [Server thread/INFO]: Preparing spawn area: 0%
-[15:44:51] [Server thread/INFO]: Preparing spawn area: 2%
-[15:44:53] [Server thread/INFO]: Preparing spawn area: 4%
-[15:44:53] [Server thread/INFO]: Preparing spawn area: 4%
-[15:44:53] [Server thread/INFO]: Time elapsed: 1967 ms
-[15:44:53] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[15:44:53] [Server thread/INFO]: Preparing spawn area: 0%
-[15:44:54] [Server thread/INFO]: Preparing spawn area: 24%
-[15:44:54] [Server thread/INFO]: Time elapsed: 857 ms
-[15:44:54] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[15:44:54] [Server thread/INFO]: Preparing spawn area: 0%
-[15:44:54] [Server thread/INFO]: Time elapsed: 202 ms
-[15:44:54] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.5.0
-[15:44:54] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.4 (769)
-[15:44:54] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.3.12
-[15:44:54] [Server thread/WARN]: [Multiverse-Core] "Multiverse-Core v4.3.12" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
-[15:44:54] [Server thread/INFO]: [Multiverse-Core] §aWe are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
-[15:44:54] [Server thread/INFO]: [Multiverse-Core] 3 - World(s) loaded.
-[15:44:54] [Server thread/WARN]: [Multiverse-Core] Buscript failed to load! The script command will be disabled! If you would like not to see this message, use `/mv conf enablebuscript false` to disable Buscript from loading.
-[15:44:54] [Server thread/INFO]: [Multiverse-Core] Version 4.3.12 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
-[15:44:54] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.2
-[15:44:55] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
-[15:44:55] [Server thread/WARN]: [Essentials] Version mismatch! Please update EssentialsSpawn to the same version.
-[15:44:55] [Server thread/WARN]: [Essentials] Version mismatch! Please update EssentialsChat to the same version.
-[15:44:55] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
-[15:44:55] [Server thread/INFO]: [Essentials] No kits found to migrate.
-[15:44:55] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
-[15:44:55] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
-[15:44:55] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
-[15:44:55] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
-[15:44:55] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
-[15:44:55] [Server thread/INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
-[15:44:55] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
-[15:44:55] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
-[15:44:55] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
-[15:44:55] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
-[15:44:55] [Server thread/INFO]: [Essentials] Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
-[15:44:55] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
-[15:44:56] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
-[15:44:56] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
-[15:44:56] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
-[15:44:56] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
-[15:44:56] [Server thread/INFO]: [Essentials] Selected 1.21.4+ Sync Commands Provider as the provider for SyncCommandsProvider
-[15:44:56] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
-[15:44:56] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
-[15:44:56] [Server thread/INFO]: [Essentials] Selected Legacy Biome Name Provider as the provider for BiomeNameProvider
-[15:44:56] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
-[15:44:56] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
-[15:44:56] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
-[15:44:56] [Server thread/INFO]: [Essentials] Loaded 43880 items from items.json.
-[15:44:56] [Server thread/INFO]: [Essentials] Using locale en_US
-[15:44:56] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[15:44:57] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[15:44:57] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
-[15:44:57] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
-[15:44:57] [Server thread/INFO]: [mcMMO] Enabling mcMMO v2.2.046-SNAPSHOT
-[15:44:59] [Server thread/INFO]: [mcMMO] Loaded 232 of 232 Alchemy potions.
-[15:45:03] [Server thread/INFO]: [GriefPrevention] Enabling GriefPrevention v16.18.5
-[15:45:03] [Server thread/INFO]: [GriefPrevention] Finished loading configuration.
-[15:45:03] [Server thread/INFO]: [GriefPrevention] 1 total claims loaded.
-[15:45:03] [Server thread/INFO]: [GriefPrevention] Customizable messages loaded.
-[15:45:03] [Server thread/INFO]: [GriefPrevention] Finished loading data (File Mode).
-[15:45:03] [Server thread/INFO]: [GriefPrevention] Boot finished.
-[15:45:03] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.5-SNAPSHOT (b121-55a85ec)
-[15:45:04] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.21.0
-[15:45:04] [Server thread/WARN]: [EssentialsSpawn] Version mismatch! Please update all Essentials jars to the same version.
-[15:45:04] [Server thread/INFO]: [EssentialsSpawn] Starting Metrics. Opt-out using the global bStats config.
-[15:45:04] [Server thread/INFO]: [CMILib] Enabling CMILib v1.5.7.5
-[15:45:06] [Server thread/INFO]: Server version: v1_21_R3 - 1.21.4 - paper  1.21.4-6-71a367e (MC: 1.21.4)
-[15:45:06] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[15:45:06] [Server thread/INFO]: Updated (EN) language file. Took 71ms
-[15:45:06] [Server thread/INFO]: [DiscordSRV] Enabling DiscordSRV v1.28.0
-[15:45:06] [Server thread/INFO]: [ChestShop] Enabling ChestShop v3.12.3-SNAPSHOT (build 446)
-[15:45:07] [DiscordSRV - Initialization/ERROR]: [DiscordSRV] No bot token has been set in the config; a bot token is required to connect to Discord.
-[15:45:08] [Server thread/INFO]: [ChestShop] Found locales ru, lb, pt_br, vi, he, uk, ku, de, no, ja, fr, el, ro, bg, ko, fi, pl, sr, cs, ga, zh, ca, is, sv, it, zh_tw, cy, th, pt, es_mx, hu, af, kk, en_pt, es, sk, sl, nl, da, tr, la, lt, lol, ar, en
-[15:45:08] [pool-34-thread-1/WARN]: [DiscordSRV] 
-
-The current build of DiscordSRV is outdated by 82 commits! Get the latest build at your favorite distribution center.
-
-Spigot: https://www.spigotmc.org/resources/discordsrv.18494/
-Github: https://github.com/DiscordSRV/DiscordSRV/releases
-Direct Download: https://get.discordsrv.com
-
-[15:45:08] [Server thread/INFO]: [ChestShop] Using EssentialsX Economy as the Economy provider now.
-[15:45:08] [Server thread/INFO]: [ChestShop] Vault loaded!
-[15:45:08] [Server thread/INFO]: [ChestShop] Auto-updater is disabled. If you want the plugin to automatically download new releases then set 'TURN_OFF_UPDATES' to 'false' in your config.yml!
-[15:45:08] [Server thread/INFO]: [AuthMe] Enabling AuthMe v5.6.0-beta2-b2453
-[15:45:09] [Server thread/INFO]: [AuthMe] SQLite Setup finished
-[15:45:09] [Server thread/INFO]: [AuthMe] Hooked into LuckPerms!
-[15:45:09] [Server thread/INFO]: [AuthMe] Hooked successfully into Essentials
-[15:45:09] [Server thread/INFO]: [AuthMe] Hooked successfully into Multiverse-Core
-[15:45:09] [Server thread/INFO]: [AuthMe] Essentials spawn file not found: '/root/MC-Server/minecraft_server/plugins/Essentials/spawn.yml'
-[15:45:09] [Server thread/WARN]: [AuthMe] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
-[15:45:09] [Server thread/INFO]: [AuthMe] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
-[15:45:09] [Server thread/INFO]: [VeinMiner] Enabling VeinMiner v2.3.0
-[15:45:09] [Server thread/INFO]: [VeinMiner] Using "sqlite" for persistent data storage.
-[15:45:09] [Server thread/INFO]: [VeinMiner] Loading configuration options to local memory
-[15:45:09] [Server thread/INFO]: [VeinMiner] Added 14 aliases.
-[15:45:09] [Server thread/INFO]: [VeinMiner] Registered category with id "Axe" holding 6 unique items and 28 unique blocks.
-[15:45:09] [Server thread/INFO]: [VeinMiner] Registered category with id "Hoe" holding 6 unique items and 12 unique blocks.
-[15:45:09] [Server thread/INFO]: [VeinMiner] Registered category with id "Pickaxe" holding 6 unique items and 14 unique blocks.
-[15:45:09] [Server thread/INFO]: [VeinMiner] Registered category with id "Shears" holding 1 unique items and 4 unique blocks.
-[15:45:09] [Server thread/INFO]: [VeinMiner] Registered category with id "Shovel" holding 6 unique items and 10 unique blocks.
-[15:45:09] [Server thread/WARN]: [VeinMiner] No block list configured for category with id "Hand"! Is this intentional?
-[15:45:09] [Server thread/INFO]: [VeinMiner] Registered category with id "Hand" holding 0 unique items and 0 unique blocks.
-[15:45:09] [Server thread/INFO]: [VeinMiner] Performing an update check!
-[15:45:09] [Server thread/INFO]: [VeinMiner] Registering commands
-[15:45:09] [Server thread/INFO]: [VeinMiner] Registering events
-[15:45:09] [Server thread/INFO]: [VeinMiner] Vault found. Attempting to enable economy support...
-[15:45:09] [Server thread/INFO]: [VeinMiner] Enabling Plugin Metrics
-[15:45:09] [Server thread/INFO]: [VeinMiner] Thanks for enabling Metrics! The anonymous stats are appreciated
-[15:45:09] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.9.1-SNAPSHOT
-[15:45:09] [ForkJoinPool.commonPool-worker-1/INFO]: [VeinMiner] You are on the latest version of VeinMiner!
-[15:45:12] [Server thread/INFO]: [Jobs] Enabling Jobs v5.2.6.5
-[15:45:12] [Server thread/INFO]: ------------- Jobs -------------
-[15:45:12] [Server thread/INFO]: Connected to database (SqLite)
-[15:45:12] [Server thread/INFO]: Loaded 8 titles
-[15:45:12] [Server thread/INFO]: Loaded 2 restricted areas!
-[15:45:12] [Server thread/INFO]: Loaded 53 protected blocks timers
-[15:45:12] [Server thread/INFO]: Loaded 1538 custom item names
-[15:45:12] [Server thread/INFO]: Loaded 85 custom entity names
-[15:45:12] [Server thread/INFO]: Loaded 2 custom MythicMobs names
-[15:45:12] [Server thread/INFO]: Loaded 42 custom enchant names
-[15:45:12] [Server thread/INFO]: Loaded 46 custom enchant names
-[15:45:12] [Server thread/INFO]: Loaded 16 custom color names
-[15:45:12] [Server thread/INFO]: Update shops items icon section and use 'ItemStack' instead
-[15:45:12] [Server thread/INFO]: Loaded 4 shop items
-[15:45:13] [Server thread/INFO]: Loaded 1 quests for Miner
-[15:45:13] [Server thread/INFO]: Loaded 1 quests for Fisherman
-[15:45:13] [Server thread/INFO]: Loaded 1 quests for Weaponsmith
-[15:45:13] [Server thread/INFO]: Loaded 1 quests for Hunter
-[15:45:13] [Server thread/INFO]: Loaded 1 quests for Woodcutter
-[15:45:13] [Server thread/INFO]: Loaded 1 quests for Builder
-[15:45:13] [Server thread/INFO]: Loaded 1 quests for Explorer
-[15:45:13] [Server thread/INFO]: Loaded 1 quests for Enchanter
-[15:45:13] [Server thread/INFO]: Loaded 1 quests for Farmer
-[15:45:13] [Server thread/INFO]: Loaded 1 quests for Crafter
-[15:45:13] [Server thread/INFO]: Loaded 1 quests for Digger
-[15:45:13] [Server thread/INFO]: Loaded 1 quests for Brewer
-[15:45:13] [Server thread/INFO]: Loaded 12 jobs
-[15:45:13] [Server thread/INFO]: Loaded 0 boosted items
-[15:45:13] [Server thread/INFO]: Loaded 5 furnace for reassigning.
-[15:45:13] [Jobs-DatabaseSaveTask/INFO]: Started database save task.
-[15:45:13] [Jobs-BufferedPaymentThread/INFO]: Started buffered payment thread.
-[15:45:13] [Server thread/INFO]: Preloaded 3 players data in 0.02
-[15:45:13] [Server thread/INFO]: mcMMO detected.
-[15:45:13] [Server thread/INFO]: Registering listeners...
-[15:45:13] [Server thread/INFO]: Registered mcMMO 2.x listener.
-[15:45:13] [Server thread/INFO]: Listeners registered successfully
-[15:45:13] [Server thread/INFO]: Plugin has been enabled successfully.
-[15:45:13] [Server thread/INFO]: ------------------------------------
-[15:45:13] [Server thread/INFO]: [DecentHolograms] Enabling DecentHolograms v2.8.11
-[15:45:13] [Server thread/ERROR]: [DecentHolograms] Unsupported server version detected: 1.21.4-6-71a367e (MC: 1.21.4)
-[15:45:13] [Server thread/ERROR]: [DecentHolograms] Plugin will now be disabled.
-[15:45:13] [Server thread/INFO]: [DecentHolograms] Disabling DecentHolograms v2.8.11
-[15:45:13] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.21.0
-[15:45:13] [Server thread/WARN]: [EssentialsChat] Version mismatch! Please update all Essentials jars to the same version.
-[15:45:13] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
-[15:45:13] [Server thread/INFO]: [TAB] Enabling TAB v5.0.3
-[15:45:13] [Server thread/INFO]: [TAB] Loaded NMS hook in 98ms
-[15:45:14] [Server thread/INFO]: [TAB] Enabled in 1090ms
-[15:45:14] [Server thread/INFO]: [AuctionHouse] Enabling AuctionHouse v1.3.9
-[15:45:15] [Server thread/INFO]: [AuctionHouse] AuctionHouse enabled in 209ms
-[15:45:16] [Server thread/INFO]: [spark] Starting background profiler...
-[15:45:17] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[15:45:17] [Server thread/INFO]: [Geyser-Spigot] 
-[15:45:17] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.9.1-b1002 (git-master-0cdd31e)
-[15:45:17] [Server thread/INFO]: [Geyser-Spigot] 
-[15:45:17] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[15:45:36] [GeyserServer-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
-[15:45:36] [Server thread/INFO]: [Geyser-Spigot] Done (19.091s)! Run /geyser help for help!
-[15:45:37] [Server thread/INFO]: Done preparing level "world" (48.230s)
-[15:45:37] [Server thread/INFO]: Starting remote control listener
-[15:45:37] [Server thread/WARN]: No rcon password set in server.properties, rcon disabled!
-[15:45:37] [Server thread/INFO]: Running delayed init tasks
-[15:45:37] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
-[15:45:37] [Craft Scheduler Thread - 5 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[15:45:37] [Craft Scheduler Thread - 6 - Essentials/INFO]: [Essentials] Fetching version information...
-[15:45:37] [Craft Scheduler Thread - 5 - AuthMe/INFO]: [AuthMe] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
-[15:45:37] [Craft Scheduler Thread - 5 - AuthMe/WARN]: [AuthMe] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
-[15:45:37] [Craft Scheduler Thread - 5 - AuthMe/INFO]: [AuthMe] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
-[15:45:37] [Craft Scheduler Thread - 5 - AuthMe/WARN]: [AuthMe] Could not download GeoLiteAPI database [FileNotFoundException]: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
-[15:45:37] [Craft Scheduler Thread - 10 - Vault/INFO]: [Vault] Checking for Updates ... 
-[15:45:37] [Server thread/INFO]: [DiscordSRV] Disabling DiscordSRV v1.28.0
-[15:45:37] [Craft Scheduler Thread - 10 - Vault/INFO]: [Vault] No new version available
-[15:45:38] [Server thread/INFO]: [Jobs] Successfully linked with Vault. (Essentials)
-[15:45:38] [Server thread/INFO]: [Jobs] Successfully linked with Vault. (LuckPerms)
-[15:45:38] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.5.1, you're on: 5.5.0
-[15:45:38] [Server thread/INFO]: Done (105.927s)! For help, type "help"
-[15:45:38] [Server thread/INFO]: S4NTAZANG (/127.51.72.87:58797) lost connection: Disconnected
-[15:45:38] [User Authenticator #0/INFO]: UUID of player oven is 46e44b98-3f62-3483-a9ea-5b246b676a26
-[15:45:38] [User Authenticator #1/INFO]: UUID of player S4NTAZANG is c4f9e38d-5c7d-3749-bdde-45bce4978d13
-[15:45:41] [Server thread/INFO]: oven joined the game
-[15:45:41] [Server thread/INFO]: oven[/127.212.166.221:35901] logged in with entity id 32 at ([world]232.06007908104786, 69.25220334025373, -798.9163997495003)
-[15:45:42] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 5af0a787-27b9-4069-a8a1-5ab017fe0a1f, mapped to Bat['Bat'/59, uuid='5af0a787-27b9-4069-a8a1-5ab017fe0a1f', l='ServerLevel[world]', x=300.61, y=2.04, z=-799.32, cpos=[18, -50], tl=113, v=true], can't add Bat['Bat'/65, uuid='5af0a787-27b9-4069-a8a1-5ab017fe0a1f', l='ServerLevel[world]', x=298.25, y=3.11, z=-801.51, cpos=[18, -51], tl=164, v=false]
-[15:45:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2683ms or 53 ticks behind
-[15:45:51] [Craft Scheduler Thread - 10 - AuthMe/INFO]: [AuthMe] oven logged in 127.212.166.221
-[15:46:01] [User Authenticator #1/INFO]: UUID of player S4NTAZANG is c4f9e38d-5c7d-3749-bdde-45bce4978d13
-[15:46:02] [Server thread/INFO]: S4NTAZANG joined the game
-[15:46:02] [Server thread/INFO]: S4NTAZANG[/127.51.72.87:46385] logged in with entity id 319 at ([world]231.95656488598746, 88.0, -475.30000001192093)
-[15:46:03] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 988b7cae-25a5-4f96-8b81-151f8965bd08, mapped to Bat['Bat'/327, uuid='988b7cae-25a5-4f96-8b81-151f8965bd08', l='ServerLevel[world]', x=243.40, y=20.57, z=-523.56, cpos=[15, -33], tl=783, v=true], can't add Bat['Bat'/342, uuid='988b7cae-25a5-4f96-8b81-151f8965bd08', l='ServerLevel[world]', x=241.85, y=20.39, z=-529.64, cpos=[15, -34], tl=718, v=false]
-[15:46:12] [Server thread/INFO]: oven issued server command: /time set day
-[15:46:12] [Craft Scheduler Thread - 14 - AuthMe/INFO]: [AuthMe] S4NTAZANG logged in 127.51.72.87
-[15:46:34] [User Authenticator #1/INFO]: UUID of player ekkeke is 077a7bba-4549-3bf9-bd0a-83817cd79fb8
-[15:46:38] [Server thread/INFO]: ekkeke joined the game
-[15:46:38] [Server thread/INFO]: ekkeke[/127.39.177.41:53607] logged in with entity id 595 at ([world]226.69999998807907, 14.0, -651.5134988920145)
-[15:46:58] [Craft Scheduler Thread - 18 - AuthMe/INFO]: [AuthMe] ekkeke logged in 127.39.177.41
-[15:47:03] [Server thread/INFO]: ekkeke suffocated in a wall
-[15:47:04] [Server thread/INFO]: (mcMMO) oven has reached a Power level of 100!
-[15:48:04] [Server thread/INFO]: oven issued server command: /teleport ekkeke oven
-[15:48:47] [Server thread/INFO]: oven issued server command: /gamerule keepInventory true
-[15:48:47] [Server thread/INFO]: [oven: Gamerule keepInventory is now set to: true]
-[15:49:37] [Server thread/INFO]: oven drowned
-[15:50:38] [Server thread/INFO]: oven issued server command: /gamerule doTileDrops false
-[15:50:38] [Server thread/INFO]: [oven: Gamerule doTileDrops is now set to: false]
-[15:51:16] [Server thread/INFO]: oven issued server command: /teleport oven ekkeke
-[15:52:10] [Server thread/INFO]: oven fell from a high place
-[15:52:17] [Async Chat Thread - #0/INFO]: [Not Secure] <S4NTAZANG> 5555
-[15:52:33] [Server thread/INFO]: ekkeke lost connection: Disconnected
-[15:52:33] [Server thread/INFO]: ekkeke left the game
-[15:52:36] [User Authenticator #2/INFO]: UUID of player ekkeke is 077a7bba-4549-3bf9-bd0a-83817cd79fb8
-[15:52:38] [Server thread/INFO]: ekkeke joined the game
-[15:52:38] [Server thread/INFO]: ekkeke[/127.39.177.41:54409] logged in with entity id 2465 at ([world]225.69999998807907, 16.0, -650.8874999880791)
-[15:52:48] [Craft Scheduler Thread - 26 - AuthMe/INFO]: [AuthMe] ekkeke logged in 127.39.177.41
-[15:53:17] [Server thread/INFO]: oven issued server command: /execute as @e[type=item] run data merge entity @s {Age:0}
-[15:53:17] [Server thread/INFO]: [Glow Ink Sac: Modified entity data of Glow Ink Sac]
-[15:53:17] [Server thread/INFO]: [Oak Sapling: Modified entity data of Oak Sapling]
-[15:53:17] [Server thread/INFO]: [Oak Sapling: Modified entity data of Oak Sapling]
-[15:53:17] [Server thread/INFO]: [Stick: Modified entity data of Stick]
-[15:53:17] [Server thread/INFO]: [Oak Sapling: Modified entity data of Oak Sapling]
-[15:53:17] [Server thread/INFO]: [Oak Sapling: Modified entity data of Oak Sapling]
-[15:53:17] [Server thread/INFO]: [Egg: Modified entity data of Egg]
-[15:53:17] [Server thread/INFO]: [Stick: Modified entity data of Stick]
-[15:53:17] [Server thread/INFO]: [Weeping Vines: Modified entity data of Weeping Vines]
-[15:53:47] [Server thread/INFO]: oven issued server command: /gamerule doTileDrops true
-[15:53:47] [Server thread/INFO]: [oven: Gamerule doTileDrops is now set to: true]
-[15:54:05] [Server thread/INFO]: oven issued server command: /teleport ekkeke oven
-[15:54:18] [Server thread/INFO]: oven issued server command: /kill
-[15:54:22] [Server thread/INFO]: oven issued server command: /kill ekkeke
-[15:54:22] [Server thread/INFO]: ekkeke died
-[15:57:00] [Server thread/INFO]: oven issued server command: /save-all
-[15:57:01] [Server thread/INFO]: [oven: Saved the game]
-[15:57:09] [Server thread/INFO]: oven issued server command: /time set day
-[15:57:36] [Server thread/INFO]: ekkeke fell from a high place
-[15:57:48] [Server thread/INFO]: oven issued server command: /teleport ekkeke oven
-[15:58:14] [Server thread/INFO]: oven issued server command: /teleport ekkeke oven
-[15:59:40] [Server thread/INFO]: oven issued server command: /weather sun
-[16:01:16] [Server thread/INFO]: (mcMMO) ekkeke has reached a Power level of 100!
-[16:02:35] [Server thread/INFO]: oven issued server command: /teleport oven ekkeke
-[16:05:55] [Server thread/INFO]: oven issued server command: /spawnpoint
-[16:05:55] [Server thread/INFO]: [oven: Set spawn point to 330, -32, -600 [0.0] in minecraft:overworld for oven]
-[16:06:00] [Server thread/INFO]: oven issued server command: /spawnpoint @a 218 74 -628
-[16:06:00] [Server thread/INFO]: [oven: Set spawn point to 218, 74, -628 [0.0] in minecraft:overworld for 3 players]
-[16:06:05] [Server thread/INFO]: S4NTAZANG has made the advancement [Acquire Hardware]
-[16:06:27] [Server thread/INFO]: oven issued server command: /teleport 218 74 -628
-[16:06:27] [Server thread/INFO]: S4NTAZANG has made the advancement [Isn't It Iron Pick]
-[16:07:02] [Server thread/INFO]: (mcMMO) ekkeke has reached level 100 in MINING!
-[16:07:53] [Server thread/INFO]: S4NTAZANG has made the advancement [Diamonds!]
-[16:07:54] [Server thread/INFO]: oven issued server command: /time set day
-[16:09:27] [Server thread/INFO]: oven issued server command: /teleport oven ekkeke
-[16:09:47] [Server thread/INFO]: ekkeke has made the advancement [Isn't It Iron Pick]
-[16:10:05] [Server thread/INFO]: ekkeke has made the advancement [Diamonds!]
-[16:11:28] [Server thread/INFO]: oven has made the advancement [Diamonds!]
-[16:11:52] [Server thread/INFO]: S4NTAZANG was blown up by Creeper
-[16:12:13] [Server thread/INFO]: ekkeke has made the advancement [Ice Bucket Challenge]
-[16:12:13] [Async Chat Thread - #2/INFO]: [Not Secure] <S4NTAZANG> ดึงหน่อยค่ะ หนูตาย
-[16:13:31] [Server thread/INFO]: oven issued server command: /teleport 218 74 -628
-[16:14:36] [Server thread/INFO]: oven issued server command: /teleport oven S4NTAZANG
-[16:14:54] [Server thread/INFO]: oven issued server command: /teleport 218 74 -628
-[16:14:56] [Async Chat Thread - #3/INFO]: [Not Secure] <S4NTAZANG> บ้านเราสวยมั้ย
-[16:16:07] [Server thread/INFO]: oven issued server command: /memory oven
-[16:16:46] [Async Chat Thread - #5/INFO]: [Not Secure] <S4NTAZANG> ทองบ้านเรามาจากไหนอ่ะ
-[16:17:26] [Async Chat Thread - #5/INFO]: [Not Secure] <S4NTAZANG> เกรมเค้า 700ฃ
-[16:17:31] [Async Chat Thread - #5/INFO]: [Not Secure] <S4NTAZANG> เฟรม
-[16:18:55] [Server thread/INFO]: oven issued server command: /time set day
-[16:19:03] [Server thread/INFO]: oven issued server command: /teleport ekkeke 218 74 -628
-[16:20:28] [Server thread/INFO]: ekkeke has made the advancement [Acquire Hardware]
-[16:21:07] [Server thread/INFO]: oven issued server command: /teleport ekkeke 218 74 -628
-[16:21:31] [Server thread/INFO]: ekkeke has made the advancement [Suit Up]
-[16:21:49] [Server thread/INFO]: oven has made the advancement [We Need to Go Deeper]
-[16:21:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2716ms or 54 ticks behind
-[16:22:50] [Server thread/INFO]: oven tried to swim in lava
-[16:22:55] [Server thread/INFO]: ekkeke fell from a high place
-[16:22:59] [Server thread/INFO]: oven issued server command: /teleport 218 74 -628
-[16:23:20] [Server thread/INFO]: oven issued server command: /gamerule keepInventory true
-[16:23:20] [Server thread/INFO]: [oven: Gamerule keepInventory is now set to: true]
-[16:25:10] [Server thread/INFO]: (mcMMO) S4NTAZANG has reached a Power level of 100!
-[16:26:03] [Server thread/INFO]: oven issued server command: /teleport ekkeke 218 74 -628
-[16:26:59] [Server thread/INFO]: ekkeke lost connection: Timed out
-[16:26:59] [Server thread/INFO]: ekkeke left the game
-[16:27:03] [User Authenticator #3/INFO]: UUID of player ekkeke is 077a7bba-4549-3bf9-bd0a-83817cd79fb8
-[16:27:05] [Server thread/INFO]: ekkeke joined the game
-[16:27:05] [Server thread/INFO]: ekkeke[/127.39.177.41:33619] logged in with entity id 12152 at ([world]212.68620588574694, 75.0, -621.6999999880791)
-[16:27:21] [Craft Scheduler Thread - 81 - AuthMe/INFO]: [AuthMe] ekkeke logged in 127.39.177.41
-[16:27:42] [Server thread/INFO]: ekkeke has made the advancement [We Need to Go Deeper]
-[16:28:51] [Server thread/INFO]: ekkeke lost connection: Timed out
-[16:28:51] [Server thread/INFO]: ekkeke left the game
-[16:28:59] [User Authenticator #4/INFO]: UUID of player ekkeke is 077a7bba-4549-3bf9-bd0a-83817cd79fb8
-[16:29:02] [Server thread/INFO]: ekkeke joined the game
-[16:29:02] [Server thread/INFO]: ekkeke[/127.39.177.41:59405] logged in with entity id 12590 at ([world_nether]-1.437203420431712, 37.0, -88.16234592421827)
-[16:29:13] [Craft Scheduler Thread - 87 - AuthMe/INFO]: [AuthMe] ekkeke logged in 127.39.177.41
-[16:29:40] [Server thread/INFO]: ekkeke has made the advancement [Those Were the Days]
-[16:29:44] [Server thread/INFO]: oven issued server command: /time set day
-[16:29:56] [Server thread/INFO]: ekkeke has made the advancement [War Pigs]
-[16:29:59] [Server thread/INFO]: ekkeke was slain by Piglin Brute
-[16:30:13] [Server thread/INFO]: oven issued server command: /teleport ekkeke 218 74 -628
-[16:31:37] [Server thread/INFO]: ekkeke lost connection: Disconnected
-[16:31:37] [Server thread/INFO]: ekkeke left the game
-[16:31:47] [User Authenticator #5/INFO]: UUID of player ekkeke is 077a7bba-4549-3bf9-bd0a-83817cd79fb8
-[16:31:49] [Server thread/INFO]: ekkeke joined the game
-[16:31:49] [Server thread/INFO]: ekkeke[/127.126.15.45:35957] logged in with entity id 13615 at ([world]100.6265662580004, 66.0, -404.1507635806363)
-[16:32:09] [Craft Scheduler Thread - 97 - AuthMe/INFO]: [AuthMe] ekkeke logged in 127.126.15.45
-[16:34:00] [Server thread/INFO]: ekkeke tried to swim in lava
-[16:34:37] [Server thread/INFO]: S4NTAZANG lost connection: Disconnected
-[16:34:37] [Server thread/INFO]: S4NTAZANG left the game
-[16:36:48] [Server thread/INFO]: oven issued server command: /teleport oven ekkeke
-[16:36:49] [Server thread/INFO]: oven has made the advancement [Those Were the Days]
-[16:36:56] [Server thread/INFO]: ekkeke fell from a high place
-[16:37:13] [Server thread/INFO]: oven issued server command: /teleport ekkeke oven
-[16:39:14] [Server thread/INFO]: oven was slain by Hoglin
-[16:39:35] [Server thread/INFO]: oven issued server command: /teleport oven ekkeke
-[16:39:59] [Server thread/INFO]: oven issued server command: /time set day
-[16:42:28] [Server thread/WARN]: oven moved too quickly! -2.564091887535426,-7.535840625044557,-10.473462788566849
-[16:43:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3844ms or 76 ticks behind
-[16:43:37] [Server thread/INFO]: (mcMMO) ekkeke has reached a Power level of 200!
-[16:44:06] [Server thread/WARN]: ekkeke was kicked for floating a vehicle too long!
-[16:44:06] [Server thread/INFO]: ekkeke lost connection: Flying is not enabled on this server
-[16:44:06] [Server thread/INFO]: ekkeke left the game
-[16:44:13] [Server thread/INFO]: ekkeke (/127.126.15.45:33121) lost connection: Disconnected
-[16:44:13] [User Authenticator #6/INFO]: UUID of player ekkeke is 077a7bba-4549-3bf9-bd0a-83817cd79fb8
-[16:44:21] [Server thread/WARN]: Oak Boat (vehicle of oven) moved wrongly! 0.3165437011556378
-[16:44:21] [Server thread/WARN]: Oak Boat (vehicle of oven) moved wrongly! 0.3938935885398678
-[16:44:28] [User Authenticator #6/INFO]: UUID of player ekkeke is 077a7bba-4549-3bf9-bd0a-83817cd79fb8
-[16:44:29] [Server thread/INFO]: ekkeke joined the game
-[16:44:29] [Server thread/INFO]: ekkeke[/127.126.15.45:50653] logged in with entity id 16941 at ([world_nether]-212.7553555390582, 49.692499999999455, 16.728105803998474)
-[16:44:59] [Server thread/INFO]: ekkeke lost connection: Login timeout exceeded, you have been kicked from the server, please try again!
-[16:44:59] [Server thread/INFO]: ekkeke left the game
-[16:45:03] [User Authenticator #6/INFO]: UUID of player ekkeke is 077a7bba-4549-3bf9-bd0a-83817cd79fb8
-[16:45:03] [Server thread/INFO]: Disconnecting ekkeke (/127.126.15.45:54589): You must wait 27 seconds before logging-in again.
-[16:45:03] [Server thread/INFO]: ekkeke (/127.126.15.45:54589) lost connection: You must wait 27 seconds before logging-in again.
-[16:45:17] [User Authenticator #6/INFO]: UUID of player ekkeke is 077a7bba-4549-3bf9-bd0a-83817cd79fb8
-[16:45:17] [Server thread/INFO]: Disconnecting ekkeke (/127.126.15.45:51607): You must wait 13 seconds before logging-in again.
-[16:45:17] [Server thread/INFO]: ekkeke (/127.126.15.45:51607) lost connection: You must wait 13 seconds before logging-in again.
-[16:45:36] [User Authenticator #6/INFO]: UUID of player ekkeke is 077a7bba-4549-3bf9-bd0a-83817cd79fb8
-[16:45:37] [Server thread/INFO]: ekkeke joined the game
-[16:45:37] [Server thread/INFO]: ekkeke[/127.126.15.45:55135] logged in with entity id 17183 at ([world_nether]-212.95761117736737, 49.5625, 16.446606895016533)
-[16:45:44] [Craft Scheduler Thread - 126 - AuthMe/INFO]: [AuthMe] ekkeke used the wrong password
-[16:45:44] [Server thread/INFO]: ekkeke lost connection: Wrong password!
-[16:45:44] [Server thread/INFO]: ekkeke left the game
-[16:45:49] [User Authenticator #6/INFO]: UUID of player ekkeke is 077a7bba-4549-3bf9-bd0a-83817cd79fb8
-[16:45:49] [Server thread/INFO]: Disconnecting ekkeke (/127.126.15.45:38195): You must wait 49 seconds before logging-in again.
-[16:45:49] [Server thread/INFO]: ekkeke (/127.126.15.45:38195) lost connection: You must wait 49 seconds before logging-in again.
-[16:48:15] [Server thread/INFO]: Villager Villager['Villager'/438, uuid='b5d12434-20b5-499d-9094-580f94a09a88', l='ServerLevel[world]', x=188.95, y=77.00, z=-558.30, cpos=[11, -35], tl=279713, v=true] died, message: 'Villager was slain by oven'
-[16:48:43] [User Authenticator #7/INFO]: UUID of player ekkeke is 077a7bba-4549-3bf9-bd0a-83817cd79fb8
-[16:48:50] [Server thread/INFO]: ekkeke joined the game
-[16:48:50] [Server thread/INFO]: ekkeke[/127.126.15.45:47651] logged in with entity id 17621 at ([world_nether]-212.95761117736737, 49.5625, 16.446606895016533)
-[16:49:07] [Craft Scheduler Thread - 131 - AuthMe/INFO]: [AuthMe] ekkeke logged in 127.126.15.45
-[16:49:26] [Server thread/INFO]: oven lost connection: Disconnected
-[16:49:26] [Server thread/INFO]: oven left the game
-[16:54:26] [Server thread/WARN]: Oak Boat (vehicle of ekkeke) moved too quickly! 18.6958296616923,-0.12499999999988631,-10.032877465862697
-[16:54:26] [Server thread/WARN]: Oak Boat (vehicle of ekkeke) moved too quickly! 18.6958296616923,-0.12999999999988177,-10.032877465862697
-[16:54:26] [Server thread/WARN]: Oak Boat (vehicle of ekkeke) moved too quickly! 18.6958296616923,-0.13499999999987722,-10.032877465862697
-[16:54:26] [Server thread/WARN]: Oak Boat (vehicle of ekkeke) moved too quickly! 18.6958296616923,-0.13999999999987267,-10.032877465862697
-[16:54:26] [Server thread/WARN]: Oak Boat (vehicle of ekkeke) moved too quickly! 18.6958296616923,-0.14499999999986812,-10.032877465862697
-[16:54:26] [Server thread/WARN]: Oak Boat (vehicle of ekkeke) moved too quickly! 18.6958296616923,-0.14999999999986358,-10.032877465862697
-[16:54:26] [Server thread/WARN]: Oak Boat (vehicle of ekkeke) moved too quickly! 16.859307738150278,-0.15499999999985903,-11.729104807753032
-[16:54:26] [Server thread/WARN]: Oak Boat (vehicle of ekkeke) moved too quickly! 15.081232639158884,-0.15999999999985448,-13.486503204483455
-[16:54:26] [Server thread/WARN]: Oak Boat (vehicle of ekkeke) moved too quickly! 13.422142865265528,-0.16499999999984993,-15.356642594713634
-[16:54:26] [Server thread/WARN]: Oak Boat (vehicle of ekkeke) moved too quickly! 13.571377480144122,-0.16999999999984539,-17.852184469026724
-[16:54:26] [Server thread/WARN]: Oak Boat (vehicle of ekkeke) moved too quickly! 13.720612095022716,-0.17499999999984084,-20.347726343339815
-[16:54:26] [Server thread/WARN]: Oak Boat (vehicle of ekkeke) moved too quickly! 14.095260489057864,-0.1799999999998363,-22.8194946555476
-[16:54:26] [Server thread/WARN]: Oak Boat (vehicle of ekkeke) moved too quickly! 14.504942607980752,-0.18499999999983174,-25.285698319346494
-[16:54:26] [Server thread/WARN]: Oak Boat (vehicle of ekkeke) moved too quickly! 14.91462472690364,-0.1899999999998272,-25.44942941861109
-[16:54:26] [Server thread/WARN]: Oak Boat (vehicle of ekkeke) moved too quickly! 15.332580166822083,-0.19499999999982265,-26.44942941861109
-[16:54:26] [Server thread/WARN]: Oak Boat (vehicle of ekkeke) moved too quickly! 15.753134802888212,-0.1999999999998181,-26.44942941861109
-[16:54:26] [Server thread/WARN]: Oak Boat (vehicle of ekkeke) moved too quickly! 17.793086633990583,-0.20499999999981355,-27.894627179669897
-[16:54:26] [Server thread/WARN]: Oak Boat (vehicle of ekkeke) moved too quickly! 19.833038465092955,-0.209999999999809,-29.339824940728704
-[16:54:26] [Server thread/WARN]: Oak Boat (vehicle of ekkeke) moved too quickly! 21.872990296195326,-0.21499999999980446,-30.78502270178751
-[16:54:26] [Server thread/WARN]: Oak Boat (vehicle of ekkeke) moved too quickly! 23.912942127297697,-0.2199999999997999,-32.23022046284632
-[16:54:26] [Server thread/WARN]: Oak Boat (vehicle of ekkeke) moved too quickly! 25.928927675793943,-0.22499999999979536,-33.7086664398189
-[16:54:26] [Server thread/WARN]: Oak Boat (vehicle of ekkeke) moved too quickly! 25.928927675793943,-0.22999999999979082,-33.7086664398189
-[16:54:26] [Server thread/WARN]: Oak Boat (vehicle of ekkeke) moved too quickly! 25.928927675793943,-0.529999999999788,-33.7086664398189
-[16:54:26] [Server thread/WARN]: Oak Boat (vehicle of ekkeke) moved too quickly! 25.928927675793943,-0.8299999999997851,-33.7086664398189
-[16:54:26] [Server thread/WARN]: Oak Boat (vehicle of ekkeke) moved too quickly! 25.928927675793943,-1.1299999999997823,-33.7086664398189
-[16:54:26] [Server thread/WARN]: Oak Boat (vehicle of ekkeke) moved too quickly! 8.801040812239307,-1.3099999999998886,-25.622980629592035
-[16:54:26] [Server thread/WARN]: Oak Boat (vehicle of ekkeke) moved too quickly! 8.801040812239307,-1.6099999999998857,-25.622980629592035
-[16:54:26] [Server thread/WARN]: Oak Boat (vehicle of ekkeke) moved too quickly! 8.801040812239307,-1.909999999999883,-25.622980629592035
-[16:54:26] [Server thread/WARN]: Oak Boat (vehicle of ekkeke) moved too quickly! 8.801040812239307,-2.20999999999988,-25.622980629592035
-[16:54:26] [Server thread/WARN]: Oak Boat (vehicle of ekkeke) moved too quickly! 8.801040812239307,-2.509999999999877,-25.622980629592035
-[16:54:47] [Server thread/INFO]: ekkeke was slain by Piglin Brute
-[16:55:09] [Server thread/INFO]: ekkeke has made the advancement [Sweet Dreams]
-[16:56:40] [Server thread/WARN]: Oak Boat (vehicle of ekkeke) moved wrongly! 0.5868585191951468
-[16:56:40] [Server thread/WARN]: Oak Boat (vehicle of ekkeke) moved wrongly! 6.506435378966483
-[16:56:40] [Server thread/WARN]: Oak Boat (vehicle of ekkeke) moved wrongly! 4.80280374783356
-[16:56:40] [Server thread/WARN]: Oak Boat (vehicle of ekkeke) moved wrongly! 3.207537464024
-[16:56:40] [Server thread/WARN]: Oak Boat (vehicle of ekkeke) moved wrongly! 1.6269334472431467
-[16:56:40] [Server thread/WARN]: Oak Boat (vehicle of ekkeke) moved wrongly! 0.4380718171596527
-[16:58:33] [Server thread/INFO]: ekkeke has made the advancement [Minecraft: Trial(s) Edition]
-[17:02:10] [Server thread/INFO]: ekkeke has made the advancement [Under Lock and Key]
-[17:07:00] [Server thread/INFO]: ekkeke has made the advancement [Cover Me with Diamonds]
-[17:08:40] [Server thread/INFO]: Named entity Bogged['Bogged'/22908, uuid='9a3913a3-d69f-4382-ac63-f67309817a1c', l='ServerLevel[world]', x=121.20, y=-8.50, z=-409.94, cpos=[7, -26], tl=119, v=true] died: Bogged was shot by Bogged
-[17:10:21] [Server thread/INFO]: ekkeke has made the advancement [Who Needs Rockets?]
-[17:10:44] [Server thread/INFO]: ekkeke suffocated in a wall
-[17:10:45] [Server thread/INFO]: Attempt to teleport removed player ekkeke restricted
-[17:16:39] [Server thread/INFO]: ekkeke suffocated in a wall
-[17:16:40] [Server thread/INFO]: Attempt to teleport removed player ekkeke restricted
-[17:21:55] [Server thread/INFO]: (mcMMO) ekkeke has reached a Power level of 300!
-[17:23:55] [Server thread/INFO]: ekkeke was doomed to fall by Zombie
-[17:27:50] [Server thread/INFO]: ekkeke lost connection: Disconnected
-[17:27:50] [Server thread/INFO]: ekkeke left the game
-[17:41:27] [Server thread/INFO]: Stopping server
-[17:41:28] [Server thread/INFO]: [AuctionHouse] Disabling AuctionHouse v1.3.9
