@@ -1930,3 +1930,4 @@ Direct Download: https://get.discordsrv.com
 [16:45:49] [User Authenticator #6/INFO]: UUID of player ekkeke is 077a7bba-4549-3bf9-bd0a-83817cd79fb8
 [16:45:49] [Server thread/INFO]: Disconnecting ekkeke (/127.126.15.45:38195): You must wait 49 seconds before logging-in again.
 [16:45:49] [Server thread/INFO]: ekkeke (/127.126.15.45:38195) lost connection: You must wait 49 seconds before logging-in again.
+[16:48:15] [Server thread/INFO]: Villager Villager['Villager'/438, uuid='b5d12434-20b5-499d-9094-580f94a09a88', l='ServerLevel[world]', x=188.95, y=77.00, z=-558.30, cpos=[11, -35], tl=279713, v=true] died, message: 'Villager was slain by oven'
