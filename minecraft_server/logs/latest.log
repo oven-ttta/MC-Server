@@ -68,3 +68,8 @@ Direct Download: https://get.discordsrv.com
 [15:26:13] [Server thread/INFO]: ekkeke lost connection: Disconnected
 [15:26:13] [Server thread/INFO]: ekkeke left the game
 [15:26:16] [User Authenticator #4/INFO]: UUID of player ekkeke is 077a7bba-4549-3bf9-bd0a-83817cd79fb8
+[15:26:21] [Server thread/INFO]: ekkeke joined the game
+[15:26:21] [Server thread/INFO]: ekkeke[/127.39.177.41:45211] logged in with entity id 14583 at ([world]213.69180848227418, 76.0, -625.5273870717768)
+[15:26:35] [Craft Scheduler Thread - 620 - AuthMe/INFO]: [AuthMe] ekkeke logged in 127.39.177.41
+[15:26:47] [Async Chat Thread - #3/INFO]: [Not Secure] <oven> เดี๋ยวพี่อัพ server ใหม่
+[15:26:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3688ms or 73 ticks behind
