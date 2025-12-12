@@ -1903,3 +1903,8 @@ Direct Download: https://get.discordsrv.com
 [16:42:28] [Server thread/WARN]: oven moved too quickly! -2.564091887535426,-7.535840625044557,-10.473462788566849
 [16:43:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3844ms or 76 ticks behind
 [16:43:37] [Server thread/INFO]: (mcMMO) ekkeke has reached a Power level of 200!
+[16:44:06] [Server thread/WARN]: ekkeke was kicked for floating a vehicle too long!
+[16:44:06] [Server thread/INFO]: ekkeke lost connection: Flying is not enabled on this server
+[16:44:06] [Server thread/INFO]: ekkeke left the game
+[16:44:13] [Server thread/INFO]: ekkeke (/127.126.15.45:33121) lost connection: Disconnected
+[16:44:13] [User Authenticator #6/INFO]: UUID of player ekkeke is 077a7bba-4549-3bf9-bd0a-83817cd79fb8

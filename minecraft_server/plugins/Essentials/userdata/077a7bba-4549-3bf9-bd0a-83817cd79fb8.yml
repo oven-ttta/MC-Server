@@ -16,7 +16,7 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1765557097643
+  logout: 1765557846307
   login: 1765557109050
 money: '0'
 last-account-name: ekkeke
@@ -29,10 +29,10 @@ lastlocation:
   yaw: -175.15597534179688
   pitch: 22.166240692138672
 logoutlocation:
-  world: c6f6579c-eac5-4288-a6ae-500388f97d11
-  world-name: world
-  x: 100.6265662580004
-  y: 66.0
-  z: -404.1507635806363
-  yaw: -146.35235595703125
-  pitch: 38.34135437011719
+  world: 7d1bf543-5075-4127-876b-2ae5022fa1d6
+  world-name: world_nether
+  x: -212.7553555390582
+  y: 49.692499999999455
+  z: 16.728105803998474
+  yaw: 125.4708023071289
+  pitch: 18.722272872924805
