@@ -1827,3 +1827,7 @@ Direct Download: https://get.discordsrv.com
 [15:59:40] [Server thread/INFO]: oven issued server command: /weather sun
 [16:01:16] [Server thread/INFO]: (mcMMO) ekkeke has reached a Power level of 100!
 [16:02:35] [Server thread/INFO]: oven issued server command: /teleport oven ekkeke
+[16:05:55] [Server thread/INFO]: oven issued server command: /spawnpoint
+[16:05:55] [Server thread/INFO]: [oven: Set spawn point to 330, -32, -600 [0.0] in minecraft:overworld for oven]
+[16:06:00] [Server thread/INFO]: oven issued server command: /spawnpoint @a 218 74 -628
+[16:06:00] [Server thread/INFO]: [oven: Set spawn point to 218, 74, -628 [0.0] in minecraft:overworld for 3 players]
