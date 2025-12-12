@@ -1831,3 +1831,6 @@ Direct Download: https://get.discordsrv.com
 [16:05:55] [Server thread/INFO]: [oven: Set spawn point to 330, -32, -600 [0.0] in minecraft:overworld for oven]
 [16:06:00] [Server thread/INFO]: oven issued server command: /spawnpoint @a 218 74 -628
 [16:06:00] [Server thread/INFO]: [oven: Set spawn point to 218, 74, -628 [0.0] in minecraft:overworld for 3 players]
+[16:06:05] [Server thread/INFO]: S4NTAZANG has made the advancement [Acquire Hardware]
+[16:06:27] [Server thread/INFO]: oven issued server command: /teleport 218 74 -628
+[16:06:27] [Server thread/INFO]: S4NTAZANG has made the advancement [Isn't It Iron Pick]
