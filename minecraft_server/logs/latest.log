@@ -1866,3 +1866,8 @@ Direct Download: https://get.discordsrv.com
 [16:23:20] [Server thread/INFO]: [oven: Gamerule keepInventory is now set to: true]
 [16:25:10] [Server thread/INFO]: (mcMMO) S4NTAZANG has reached a Power level of 100!
 [16:26:03] [Server thread/INFO]: oven issued server command: /teleport ekkeke 218 74 -628
+[16:26:59] [Server thread/INFO]: ekkeke lost connection: Timed out
+[16:26:59] [Server thread/INFO]: ekkeke left the game
+[16:27:03] [User Authenticator #3/INFO]: UUID of player ekkeke is 077a7bba-4549-3bf9-bd0a-83817cd79fb8
+[16:27:05] [Server thread/INFO]: ekkeke joined the game
+[16:27:05] [Server thread/INFO]: ekkeke[/127.39.177.41:33619] logged in with entity id 12152 at ([world]212.68620588574694, 75.0, -621.6999999880791)
