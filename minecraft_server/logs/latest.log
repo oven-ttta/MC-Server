@@ -1884,3 +1884,8 @@ Direct Download: https://get.discordsrv.com
 [16:29:56] [Server thread/INFO]: ekkeke has made the advancement [War Pigs]
 [16:29:59] [Server thread/INFO]: ekkeke was slain by Piglin Brute
 [16:30:13] [Server thread/INFO]: oven issued server command: /teleport ekkeke 218 74 -628
+[16:31:37] [Server thread/INFO]: ekkeke lost connection: Disconnected
+[16:31:37] [Server thread/INFO]: ekkeke left the game
+[16:31:47] [User Authenticator #5/INFO]: UUID of player ekkeke is 077a7bba-4549-3bf9-bd0a-83817cd79fb8
+[16:31:49] [Server thread/INFO]: ekkeke joined the game
+[16:31:49] [Server thread/INFO]: ekkeke[/127.126.15.45:35957] logged in with entity id 13615 at ([world]100.6265662580004, 66.0, -404.1507635806363)
