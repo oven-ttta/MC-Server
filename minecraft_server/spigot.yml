@@ -23,7 +23,7 @@ settings:
   user-cache-size: 1000
   moved-wrongly-threshold: 0.0625
   moved-too-quickly-multiplier: 10.0
-  netty-threads: 4
+  netty-threads: 6
   attribute:
     maxAbsorption:
       max: 2048.0
@@ -46,17 +46,17 @@ commands:
   send-namespaced: true
   log: true
   spam-exclusions:
-  - /skill
+    - /skill
   silent-commandblock-console: false
   replace-commands:
-  - setblock
-  - summon
-  - testforblock
-  - tellraw
+    - setblock
+    - summon
+    - testforblock
+    - tellraw
 advancements:
   disable-saving: false
   disabled:
-  - minecraft:story/disabled
+    - minecraft:story/disabled
 world-settings:
   default:
     below-zero-generation-in-existing-chunks: true
@@ -64,12 +64,12 @@ world-settings:
     simulation-distance: default
     thunder-chance: 100000
     merge-radius:
-      item: 0.5
-      exp: -1.0
-    mob-spawn-range: 8
-    item-despawn-rate: 6000
-    arrow-despawn-rate: 1200
-    trident-despawn-rate: 1200
+      item: 3.0
+      exp: 4.0
+    mob-spawn-range: 6
+    item-despawn-rate: 3000
+    arrow-despawn-rate: 600
+    trident-despawn-rate: 600
     zombie-aggressive-towards-villager: true
     nerf-spawner-mobs: false
     enable-zombie-pigmen-portal-spawns: true
@@ -101,13 +101,13 @@ world-settings:
       glowberry-modifier: 100
       pitcherplant-modifier: 100
     entity-activation-range:
-      animals: 32
-      monsters: 32
-      raiders: 64
-      misc: 16
-      water: 16
-      villagers: 32
-      flying-monsters: 32
+      animals: 24
+      monsters: 24
+      raiders: 48
+      misc: 12
+      water: 12
+      villagers: 24
+      flying-monsters: 24
       wake-up-inactive:
         animals-max-per-tick: 4
         animals-every: 1200
@@ -135,7 +135,7 @@ world-settings:
       other: 64
     ticks-per:
       hopper-transfer: 8
-      hopper-check: 1
+      hopper-check: 8
     hopper-amount: 1
     hopper-can-load-chunks: false
     dragon-death-sound-radius: 0
