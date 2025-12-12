@@ -1781,3 +1781,6 @@ Direct Download: https://get.discordsrv.com
 [15:46:03] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 988b7cae-25a5-4f96-8b81-151f8965bd08, mapped to Bat['Bat'/327, uuid='988b7cae-25a5-4f96-8b81-151f8965bd08', l='ServerLevel[world]', x=243.40, y=20.57, z=-523.56, cpos=[15, -33], tl=783, v=true], can't add Bat['Bat'/342, uuid='988b7cae-25a5-4f96-8b81-151f8965bd08', l='ServerLevel[world]', x=241.85, y=20.39, z=-529.64, cpos=[15, -34], tl=718, v=false]
 [15:46:12] [Server thread/INFO]: oven issued server command: /time set day
 [15:46:12] [Craft Scheduler Thread - 14 - AuthMe/INFO]: [AuthMe] S4NTAZANG logged in 127.51.72.87
+[15:46:34] [User Authenticator #1/INFO]: UUID of player ekkeke is 077a7bba-4549-3bf9-bd0a-83817cd79fb8
+[15:46:38] [Server thread/INFO]: ekkeke joined the game
+[15:46:38] [Server thread/INFO]: ekkeke[/127.39.177.41:53607] logged in with entity id 595 at ([world]226.69999998807907, 14.0, -651.5134988920145)
