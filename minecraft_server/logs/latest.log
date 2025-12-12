@@ -1790,3 +1790,4 @@ Direct Download: https://get.discordsrv.com
 [15:48:04] [Server thread/INFO]: oven issued server command: /teleport ekkeke oven
 [15:48:47] [Server thread/INFO]: oven issued server command: /gamerule keepInventory true
 [15:48:47] [Server thread/INFO]: [oven: Gamerule keepInventory is now set to: true]
+[15:49:37] [Server thread/INFO]: oven drowned
