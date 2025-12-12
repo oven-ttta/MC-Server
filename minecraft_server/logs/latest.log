@@ -1741,3 +1741,36 @@ Direct Download: https://get.discordsrv.com
 [15:45:14] [Server thread/INFO]: [TAB] Enabled in 1090ms
 [15:45:14] [Server thread/INFO]: [AuctionHouse] Enabling AuctionHouse v1.3.9
 [15:45:15] [Server thread/INFO]: [AuctionHouse] AuctionHouse enabled in 209ms
+[15:45:16] [Server thread/INFO]: [spark] Starting background profiler...
+[15:45:17] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[15:45:17] [Server thread/INFO]: [Geyser-Spigot] 
+[15:45:17] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.9.1-b1002 (git-master-0cdd31e)
+[15:45:17] [Server thread/INFO]: [Geyser-Spigot] 
+[15:45:17] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[15:45:36] [GeyserServer-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
+[15:45:36] [Server thread/INFO]: [Geyser-Spigot] Done (19.091s)! Run /geyser help for help!
+[15:45:37] [Server thread/INFO]: Done preparing level "world" (48.230s)
+[15:45:37] [Server thread/INFO]: Starting remote control listener
+[15:45:37] [Server thread/WARN]: No rcon password set in server.properties, rcon disabled!
+[15:45:37] [Server thread/INFO]: Running delayed init tasks
+[15:45:37] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[15:45:37] [Craft Scheduler Thread - 5 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[15:45:37] [Craft Scheduler Thread - 6 - Essentials/INFO]: [Essentials] Fetching version information...
+[15:45:37] [Craft Scheduler Thread - 5 - AuthMe/INFO]: [AuthMe] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[15:45:37] [Craft Scheduler Thread - 5 - AuthMe/WARN]: [AuthMe] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[15:45:37] [Craft Scheduler Thread - 5 - AuthMe/INFO]: [AuthMe] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[15:45:37] [Craft Scheduler Thread - 5 - AuthMe/WARN]: [AuthMe] Could not download GeoLiteAPI database [FileNotFoundException]: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+[15:45:37] [Craft Scheduler Thread - 10 - Vault/INFO]: [Vault] Checking for Updates ... 
+[15:45:37] [Server thread/INFO]: [DiscordSRV] Disabling DiscordSRV v1.28.0
+[15:45:37] [Craft Scheduler Thread - 10 - Vault/INFO]: [Vault] No new version available
+[15:45:38] [Server thread/INFO]: [Jobs] Successfully linked with Vault. (Essentials)
+[15:45:38] [Server thread/INFO]: [Jobs] Successfully linked with Vault. (LuckPerms)
+[15:45:38] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.5.1, you're on: 5.5.0
+[15:45:38] [Server thread/INFO]: Done (105.927s)! For help, type "help"
+[15:45:38] [Server thread/INFO]: S4NTAZANG (/127.51.72.87:58797) lost connection: Disconnected
+[15:45:38] [User Authenticator #0/INFO]: UUID of player oven is 46e44b98-3f62-3483-a9ea-5b246b676a26
+[15:45:38] [User Authenticator #1/INFO]: UUID of player S4NTAZANG is c4f9e38d-5c7d-3749-bdde-45bce4978d13
+[15:45:41] [Server thread/INFO]: oven joined the game
+[15:45:41] [Server thread/INFO]: oven[/127.212.166.221:35901] logged in with entity id 32 at ([world]232.06007908104786, 69.25220334025373, -798.9163997495003)
+[15:45:42] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 5af0a787-27b9-4069-a8a1-5ab017fe0a1f, mapped to Bat['Bat'/59, uuid='5af0a787-27b9-4069-a8a1-5ab017fe0a1f', l='ServerLevel[world]', x=300.61, y=2.04, z=-799.32, cpos=[18, -50], tl=113, v=true], can't add Bat['Bat'/65, uuid='5af0a787-27b9-4069-a8a1-5ab017fe0a1f', l='ServerLevel[world]', x=298.25, y=3.11, z=-801.51, cpos=[18, -51], tl=164, v=false]
+[15:45:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2683ms or 53 ticks behind
