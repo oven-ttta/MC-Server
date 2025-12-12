@@ -1859,3 +1859,6 @@ Direct Download: https://get.discordsrv.com
 [16:21:31] [Server thread/INFO]: ekkeke has made the advancement [Suit Up]
 [16:21:49] [Server thread/INFO]: oven has made the advancement [We Need to Go Deeper]
 [16:21:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2716ms or 54 ticks behind
+[16:22:50] [Server thread/INFO]: oven tried to swim in lava
+[16:22:55] [Server thread/INFO]: ekkeke fell from a high place
+[16:22:59] [Server thread/INFO]: oven issued server command: /teleport 218 74 -628
