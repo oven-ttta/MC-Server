@@ -11,3 +11,6 @@ Direct Download: https://get.discordsrv.com
 
 [05:43:45] [Craft Scheduler Thread - 842 - Vault/INFO]: [Vault] Checking for Updates ... 
 [05:43:45] [Craft Scheduler Thread - 842 - Vault/INFO]: [Vault] No new version available
+[09:16:29] [User Authenticator #0/WARN]: [LuckPerms] Processing login for S4NTAZANG took 1403ms.
+[09:16:31] [User Authenticator #0/INFO]: UUID of player S4NTAZANG is c4f9e38d-5c7d-3749-bdde-45bce4978d13
+[09:16:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3298ms or 65 ticks behind
