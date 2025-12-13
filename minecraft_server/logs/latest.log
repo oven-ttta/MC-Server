@@ -58,3 +58,5 @@ Direct Download: https://get.discordsrv.com
 [10:31:47] [User Authenticator #3/INFO]: UUID of player S4NTAZANG is c4f9e38d-5c7d-3749-bdde-45bce4978d13
 [10:32:10] [Server thread/INFO]: S4NTAZANG joined the game
 [10:32:10] [Server thread/INFO]: S4NTAZANG[/127.226.189.124:40775] logged in with entity id 4631 at ([world]238.96481129333196, 88.0, -485.2184935028753)
+[10:32:19] [Server thread/INFO]: S4NTAZANG issued server command: /login
+[10:32:29] [Craft Scheduler Thread - 1193 - AuthMe/INFO]: [AuthMe] S4NTAZANG logged in 127.226.189.124
