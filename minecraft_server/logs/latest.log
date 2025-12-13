@@ -64,3 +64,9 @@ Direct Download: https://get.discordsrv.com
 [10:40:14] [Server thread/INFO]: S4NTAZANG has made the advancement [Best Friends Forever]
 [10:47:53] [Server thread/WARN]: S4NTAZANG moved too quickly! -0.9699444694742851,1.0554624345250403,9.920148457418236
 [10:47:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2654ms or 53 ticks behind
+[10:49:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15323ms or 306 ticks behind
+[10:49:28] [Server thread/INFO]: S4NTAZANG lost connection: Disconnected
+[10:49:29] [Server thread/INFO]: S4NTAZANG left the game
+[10:49:37] [User Authenticator #4/INFO]: UUID of player S4NTAZANG is c4f9e38d-5c7d-3749-bdde-45bce4978d13
+[10:49:51] [Server thread/INFO]: Disconnecting /127.226.189.124:35319: Took too long to log in
+[10:49:51] [Server thread/INFO]: /127.226.189.124:35319 lost connection: Took too long to log in
