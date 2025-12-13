@@ -16,7 +16,7 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1765623267115
+  logout: 1765623585783
   login: 1765623297474
 money: '0'
 last-account-name: S4NTAZANG
@@ -31,8 +31,8 @@ lastlocation:
 logoutlocation:
   world: c6f6579c-eac5-4288-a6ae-500388f97d11
   world-name: world
-  x: -646.3447311210275
-  y: 84.0625
-  z: -771.8596608025928
-  yaw: -170.72625732421875
-  pitch: 5.884139537811279
+  x: -1151.1267385535766
+  y: 87.0
+  z: -404.63021728610187
+  yaw: 115.31304931640625
+  pitch: 45.163360595703125
