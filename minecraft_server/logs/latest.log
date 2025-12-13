@@ -155,3 +155,21 @@ Direct Download: https://get.discordsrv.com
 [11:09:58] [Server thread/INFO]: S4NTAZANG[/127.226.189.124:56623] logged in with entity id 15000 at ([world]-1238.0611590694818, 69.0, -718.6999999880791)
 [11:10:04] [Craft Scheduler Thread - 1254 - AuthMe/INFO]: [AuthMe] S4NTAZANG logged in 127.226.189.124
 [11:11:10] [Server thread/INFO]: S4NTAZANG was slain by Spider
+[11:27:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3551ms or 71 ticks behind
+[11:27:21] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
+[11:27:21] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     +==================+
+[11:27:21] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[11:27:21] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |------------------|
+[11:27:21] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[11:27:21] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     +==================+
+[11:27:21] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
+[11:27:21] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     Version: 15.9.0
+[11:27:21] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     Commit: 1565b8f
+[11:27:21] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     A new version (15.9.1) is available! Downloading update...
+[11:27:21] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
+[11:27:21] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[11:27:21] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[11:27:21] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] [GitHubUpdate] Downloading update...
+[11:27:22] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] [GitHubUpdate] Downloaded update in 1182ms
+[11:27:22] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] [GitHubUpdate] Update saved as SkinsRestorer.jar
+[11:27:22] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] [GitHubUpdate] The update will be loaded on the next server restart
