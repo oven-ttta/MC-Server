@@ -14,3 +14,7 @@ Direct Download: https://get.discordsrv.com
 [09:16:29] [User Authenticator #0/WARN]: [LuckPerms] Processing login for S4NTAZANG took 1403ms.
 [09:16:31] [User Authenticator #0/INFO]: UUID of player S4NTAZANG is c4f9e38d-5c7d-3749-bdde-45bce4978d13
 [09:16:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3298ms or 65 ticks behind
+[09:17:04] [Server thread/INFO]: S4NTAZANG joined the game
+[09:17:04] [Server thread/INFO]: S4NTAZANG[/127.51.72.87:47633] logged in with entity id 14 at ([world]217.0019837603006, 84.0, -471.50386769780783)
+[09:17:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2651ms or 53 ticks behind
+[09:17:20] [Craft Scheduler Thread - 1090 - AuthMe/INFO]: [AuthMe] S4NTAZANG logged in 127.51.72.87
