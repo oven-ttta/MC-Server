@@ -70,3 +70,7 @@ Direct Download: https://get.discordsrv.com
 [10:49:37] [User Authenticator #4/INFO]: UUID of player S4NTAZANG is c4f9e38d-5c7d-3749-bdde-45bce4978d13
 [10:49:51] [Server thread/INFO]: Disconnecting /127.226.189.124:35319: Took too long to log in
 [10:49:51] [Server thread/INFO]: /127.226.189.124:35319 lost connection: Took too long to log in
+[10:50:00] [Server thread/INFO]: S4NTAZANG joined the game
+[10:50:00] [Server thread/INFO]: S4NTAZANG[/127.226.189.124:44303] logged in with entity id 9361 at ([world]-92.70922691987944, 64.67479997899532, -679.206030021935)
+[10:50:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3440ms or 68 ticks behind
+[10:50:07] [Craft Scheduler Thread - 1215 - AuthMe/INFO]: [AuthMe] S4NTAZANG logged in 127.226.189.124
