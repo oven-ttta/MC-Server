@@ -173,3 +173,11 @@ Direct Download: https://get.discordsrv.com
 [11:27:22] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] [GitHubUpdate] Downloaded update in 1182ms
 [11:27:22] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] [GitHubUpdate] Update saved as SkinsRestorer.jar
 [11:27:22] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] [GitHubUpdate] The update will be loaded on the next server restart
+[11:42:36] [pool-34-thread-1/WARN]: [DiscordSRV] 
+
+The current build of DiscordSRV is outdated by 82 commits! Get the latest build at your favorite distribution center.
+
+Spigot: https://www.spigotmc.org/resources/discordsrv.18494/
+Github: https://github.com/DiscordSRV/DiscordSRV/releases
+Direct Download: https://get.discordsrv.com
+
