@@ -1500,3 +1500,58 @@ See https://github.com/google/gson/blob/main/Troubleshooting.md#malformed-json
 [00:14:19] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
 [00:14:20] [Server thread/INFO]: Server Ping Player Sample Count: 12
 [00:14:21] [Server thread/INFO]: Using 6 threads for Netty based IO
+[00:14:25] [Server thread/INFO]: [MoonriseCommon] Paper is using 2 worker threads, 1 I/O threads
+[00:14:25] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[00:14:26] [Server thread/INFO]: Default game type: SURVIVAL
+[00:14:26] [Server thread/INFO]: Generating keypair
+[00:14:26] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:14:27] [Server thread/INFO]: Using epoll channel type
+[00:14:27] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[00:14:27] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[00:14:27] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Ambiguous plugin name 'Essentials' for files 'plugins/EssentialsX-new.jar' and 'plugins/EssentialsX.jar' in 'plugins'
+[00:14:27] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load 'plugins/ViaRewind.jar' in 'plugins'
+org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins: [ViaBackwards]. Please download and install these plugins to run 'ViaRewind'.
+	at io.papermc.paper.plugin.entrypoint.strategy.modern.ModernPluginLoadingStrategy.loadProviders(ModernPluginLoadingStrategy.java:82) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:38) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at io.papermc.paper.plugin.entrypoint.LaunchEntryPointHandler.enter(LaunchEntryPointHandler.java:40) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at org.bukkit.craftbukkit.CraftServer.loadPlugins(CraftServer.java:561) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:289) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1236) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:341) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[00:14:39] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load plugin 'WorldGuard.jar' in folder 'plugins/.paper-remapped'
+org.bukkit.plugin.InvalidPluginException: Unsupported API version 1.21.10
+	at org.bukkit.craftbukkit.util.CraftMagicNumbers.checkSupported(CraftMagicNumbers.java:370) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProvider.createInstance(SpigotPluginProvider.java:121) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProvider.createInstance(SpigotPluginProvider.java:35) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at io.papermc.paper.plugin.entrypoint.strategy.modern.ModernPluginLoadingStrategy.loadProviders(ModernPluginLoadingStrategy.java:116) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:38) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at io.papermc.paper.plugin.entrypoint.LaunchEntryPointHandler.enter(LaunchEntryPointHandler.java:40) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at org.bukkit.craftbukkit.CraftServer.loadPlugins(CraftServer.java:561) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:289) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1236) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:341) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[00:14:46] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.5.0
+[00:14:46] [Server thread/INFO]: [ViaVersion] ViaVersion 5.5.0 is now loaded. Registering protocol transformers and injecting...
+[00:14:47] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[00:14:48] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[00:14:49] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.5.0
+[00:14:50] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[00:14:50] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.4.0-beta-01+ae062ca
+[00:14:52] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@4c0e7961]
+[00:14:52] [Server thread/INFO]: [Multiverse-Core] Loading server plugin Multiverse-Core v4.3.12
+[00:14:53] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.2
+[00:14:53] [Server thread/INFO]: [mcMMO] Loading server plugin mcMMO v2.2.046-SNAPSHOT
+[00:14:53] [Server thread/INFO]: [GriefPrevention] Loading server plugin GriefPrevention v16.18.5
+[00:14:53] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.5-SNAPSHOT (b121-55a85ec)
+[00:14:55] [Server thread/INFO]: [floodgate] Took 2,062ms to boot Floodgate
+[00:14:55] [Server thread/INFO]: [EssentialsSpawn] Loading server plugin EssentialsSpawn v2.21.0
+[00:14:55] [Server thread/INFO]: [CMILib] Loading server plugin CMILib v1.5.7.5
+[00:14:55] [Server thread/INFO]: [DiscordSRV] Loading server plugin DiscordSRV v1.28.0
+[00:14:55] [Server thread/INFO]: [ChestShop] Loading server plugin ChestShop v3.12.3-SNAPSHOT (build 446)
+[00:14:55] [Server thread/INFO]: [ChestShop] GriefPrevention version 16.18.5 loaded.
+[00:14:55] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.9.1
+[00:14:55] [Server thread/INFO]: [AuthMe] Loading server plugin AuthMe v5.6.0-beta2-b2453
+[00:14:55] [Server thread/INFO]: [VeinMiner] Loading server plugin VeinMiner v2.3.0
+[00:14:55] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.9.1-SNAPSHOT
