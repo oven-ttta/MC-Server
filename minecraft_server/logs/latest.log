@@ -1806,3 +1806,10 @@ Direct Download: https://get.discordsrv.com
 [00:59:44] [localSession-7-3/INFO]: [Geyser-Spigot] FawnHurdle3884 has disconnected from the Java server because of §r§4Your username contains illegal characters. Allowed chars: [a-zA-Z0-9_]*
 [00:59:44] [Server thread/INFO]: /192.168.1.12:0 lost connection: Disconnected
 [00:59:44] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .FawnHurdle3884 disconnected
+[01:04:50] [GeyserServerChild-4-3/INFO]: [Geyser-Spigot] Player connected with username Oven4191 (827)
+[01:04:50] [localSession-7-4/INFO]: [Geyser-Spigot] Oven4191 (logged in as: Oven4191) has connected to the Java server
+[01:04:50] [Geyser Spigot connection thread-6-5/INFO]: [LuckPerms] Another plugin has cancelled the connection for 00000000-0000-0000-0009-01f0570def82 - .Oven4191. No permissions data will be loaded.
+[01:04:50] [Geyser Spigot connection thread-6-5/INFO]: Disconnecting /192.168.1.12:0: Your username contains illegal characters. Allowed chars: [a-zA-Z0-9_]*
+[01:04:50] [Geyser Spigot connection thread-6-5/INFO]: [floodgate] Floodgate player logged in as .Oven4191 disconnected
+[01:04:50] [localSession-7-4/INFO]: [Geyser-Spigot] Oven4191 has disconnected from the Java server because of §r§4Your username contains illegal characters. Allowed chars: [a-zA-Z0-9_]*
+[01:04:50] [Server thread/INFO]: /192.168.1.12:0 lost connection: Your username contains illegal characters. Allowed chars: [a-zA-Z0-9_]*
