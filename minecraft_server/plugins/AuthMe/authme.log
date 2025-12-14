@@ -414,3 +414,10 @@
 [12-13 11:01:17]: [FINE] S4NTAZANG used the wrong password
 [12-13 11:03:39]: [FINE] S4NTAZANG logged in 127.226.189.124
 [12-13 11:10:04]: [FINE] S4NTAZANG logged in 127.226.189.124
+[12-14 00:15:33]: [INFO] SQLite Setup finished
+[12-14 00:15:33]: [INFO] Hooked into LuckPerms!
+[12-14 00:15:33]: [INFO] Hooked successfully into Essentials
+[12-14 00:15:33]: [INFO] Hooked successfully into Multiverse-Core
+[12-14 00:15:33]: [INFO] Essentials spawn file not found: '/root/MC-Server/minecraft_server/plugins/Essentials/spawn.yml'
+[12-14 00:15:34]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[12-14 00:15:34]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
