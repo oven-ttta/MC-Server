@@ -1775,3 +1775,23 @@ Direct Download: https://get.discordsrv.com
 [01:22:02] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.9.1-b1002 (git-master-0cdd31e)
 [01:22:02] [Server thread/INFO]: [Geyser-Spigot] 
 [01:22:02] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[01:22:14] [GeyserServer-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
+[01:22:14] [Server thread/INFO]: [Geyser-Spigot] Done (11.613s)! Run /geyser help for help!
+[01:22:14] [Server thread/INFO]: Done preparing level "world" (38.180s)
+[01:22:14] [Server thread/INFO]: Starting remote control listener
+[01:22:14] [Server thread/WARN]: No rcon password set in server.properties, rcon disabled!
+[01:22:14] [Server thread/INFO]: Running delayed init tasks
+[01:22:14] [Craft Scheduler Thread - 6 - Essentials/INFO]: [Essentials] Fetching version information...
+[01:22:14] [Craft Scheduler Thread - 5 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[01:22:14] [Craft Scheduler Thread - 10 - AuthMe/INFO]: [AuthMe] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[01:22:14] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[01:22:14] [Craft Scheduler Thread - 10 - AuthMe/WARN]: [AuthMe] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[01:22:14] [Craft Scheduler Thread - 10 - AuthMe/INFO]: [AuthMe] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[01:22:14] [Craft Scheduler Thread - 10 - AuthMe/WARN]: [AuthMe] Could not download GeoLiteAPI database [FileNotFoundException]: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+[01:22:14] [Craft Scheduler Thread - 11 - Vault/INFO]: [Vault] Checking for Updates ... 
+[01:22:14] [Craft Scheduler Thread - 11 - Vault/INFO]: [Vault] No new version available
+[01:22:14] [Server thread/INFO]: [DiscordSRV] Disabling DiscordSRV v1.28.0
+[01:22:15] [Server thread/INFO]: [Jobs] Successfully linked with Vault. (Essentials)
+[01:22:15] [Server thread/INFO]: [Jobs] Successfully linked with Vault. (LuckPerms)
+[01:22:15] [Server thread/INFO]: Done (137.283s)! For help, type "help"
+[01:22:15] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.6.0, you're on: 5.5.0
