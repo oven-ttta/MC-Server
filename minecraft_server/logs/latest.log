@@ -1799,3 +1799,7 @@ Direct Download: https://get.discordsrv.com
 [01:14:44] [Server thread/INFO]: .Oven4191[/192.168.1.12:0] logged in with entity id 16 at ([world]96.5, 64.0, -357.5)
 [01:14:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6581ms or 131 ticks behind
 [01:14:50] [Server thread/INFO]: .Oven4191 has made the advancement [Getting an Upgrade]
+[01:15:19] [localSession-7-2/INFO]: [Geyser-Spigot] Oven4191 has disconnected from the Java server because of §r§4Login timeout exceeded, you have been kicked from the server, please try again!
+[01:15:19] [Server thread/INFO]: .Oven4191 lost connection: Login timeout exceeded, you have been kicked from the server, please try again!
+[01:15:19] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .Oven4191 disconnected
+[01:15:19] [Server thread/INFO]: .Oven4191 left the game
