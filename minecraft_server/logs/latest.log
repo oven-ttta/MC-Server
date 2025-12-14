@@ -1802,3 +1802,5 @@ Direct Download: https://get.discordsrv.com
 [01:28:07] [WebSocketConnectReadThread-171/INFO]: [Geyser-Spigot] Got disconnected from the skin uploader: invalid chain and/or client data
 [01:28:07] [Server thread/INFO]: .Oven4191[/192.168.1.12:0] logged in with entity id 68 at ([world]96.5, 64.0, -351.5)
 [01:28:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2538ms or 50 ticks behind
+[01:28:56] [Server thread/INFO]: [AuthMe] .Oven4191 registered 192.168.1.12
+[01:28:56] [Craft Scheduler Thread - 24 - AuthMe/INFO]: [AuthMe] .Oven4191 logged in 192.168.1.12

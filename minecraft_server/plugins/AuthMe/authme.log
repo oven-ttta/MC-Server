@@ -524,3 +524,5 @@
 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
 	at java.base/java.lang.Thread.run(Thread.java:1583)
 
+[12-14 01:28:56]: [FINE] .Oven4191 registered 192.168.1.12
+[12-14 01:28:56]: [FINE] .Oven4191 logged in 192.168.1.12
