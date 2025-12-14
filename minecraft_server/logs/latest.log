@@ -1791,3 +1791,4 @@ Direct Download: https://get.discordsrv.com
 [00:24:46] [Server thread/INFO]: Done (89.140s)! For help, type "help"
 [00:24:46] [Craft Scheduler Thread - 15 - Vault/INFO]: [Vault] No new version available
 [00:24:46] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.6.0, you're on: 5.5.0
+[00:30:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5496ms or 109 ticks behind
