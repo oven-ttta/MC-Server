@@ -1791,3 +1791,11 @@ Direct Download: https://get.discordsrv.com
 [01:12:18] [Server thread/INFO]: [Jobs] Successfully linked with Vault. (LuckPerms)
 [01:12:18] [Server thread/INFO]: Done (101.932s)! For help, type "help"
 [01:12:19] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.6.0, you're on: 5.5.0
+[01:14:36] [GeyserServerChild-4-1/INFO]: [Geyser-Spigot] Player connected with username Oven4191 (827)
+[01:14:36] [localSession-7-2/INFO]: [Geyser-Spigot] Oven4191 (logged in as: Oven4191) has connected to the Java server
+[01:14:41] [WebSocketConnectReadThread-170/INFO]: [Geyser-Spigot] Got disconnected from the skin uploader: invalid chain and/or client data
+[01:14:44] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Oven4191 joined (UUID: 00000000-0000-0000-0009-01f0570def82)
+[01:14:44] [Server thread/INFO]: .Oven4191 joined the game
+[01:14:44] [Server thread/INFO]: .Oven4191[/192.168.1.12:0] logged in with entity id 16 at ([world]96.5, 64.0, -357.5)
+[01:14:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6581ms or 131 ticks behind
+[01:14:50] [Server thread/INFO]: .Oven4191 has made the advancement [Getting an Upgrade]
