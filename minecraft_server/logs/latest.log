@@ -1815,3 +1815,7 @@ Direct Download: https://get.discordsrv.com
 [01:16:01] [Server thread/INFO]: .Oven4191 joined the game
 [01:16:01] [Server thread/INFO]: .Oven4191[/192.168.1.12:0] logged in with entity id 164 at ([world]96.5, 64.0, -351.5)
 [01:16:02] [WebSocketConnectReadThread-229/INFO]: [Geyser-Spigot] Got disconnected from the skin uploader: invalid chain and/or client data
+[01:16:31] [Server thread/INFO]: .Oven4191 lost connection: Login timeout exceeded, you have been kicked from the server, please try again!
+[01:16:31] [localSession-7-4/INFO]: [Geyser-Spigot] Oven4191 has disconnected from the Java server because of §r§4Login timeout exceeded, you have been kicked from the server, please try again!
+[01:16:31] [Geyser Spigot connection thread-6-5/INFO]: [floodgate] Floodgate player logged in as .Oven4191 disconnected
+[01:16:31] [Server thread/INFO]: .Oven4191 left the game
