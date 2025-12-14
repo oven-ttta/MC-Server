@@ -1834,3 +1834,11 @@ Direct Download: https://get.discordsrv.com
 [07:10:12] [Server thread/INFO]: AsT00N lost connection: Disconnected
 [07:10:12] [Server thread/INFO]: AsT00N left the game
 [07:17:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8438ms or 168 ticks behind
+[07:21:53] [pool-34-thread-1/WARN]: [DiscordSRV] 
+
+The current build of DiscordSRV is outdated by 82 commits! Get the latest build at your favorite distribution center.
+
+Spigot: https://www.spigotmc.org/resources/discordsrv.18494/
+Github: https://github.com/DiscordSRV/DiscordSRV/releases
+Direct Download: https://get.discordsrv.com
+
