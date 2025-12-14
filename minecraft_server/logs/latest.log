@@ -1792,3 +1792,10 @@ Direct Download: https://get.discordsrv.com
 [00:24:46] [Craft Scheduler Thread - 15 - Vault/INFO]: [Vault] No new version available
 [00:24:46] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.6.0, you're on: 5.5.0
 [00:30:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5496ms or 109 ticks behind
+[00:37:20] [GeyserServerChild-4-1/INFO]: [Geyser-Spigot] Player connected with username FawnHurdle3884 (827)
+[00:37:20] [localSession-7-2/INFO]: [Geyser-Spigot] FawnHurdle3884 (logged in as: FawnHurdle3884) has connected to the Java server
+[00:37:21] [Geyser Spigot connection thread-6-3/INFO]: [LuckPerms] Another plugin has cancelled the connection for 00000000-0000-0000-0009-01f0570def82 - .FawnHurdle3884. No permissions data will be loaded.
+[00:37:21] [Geyser Spigot connection thread-6-3/INFO]: Disconnecting /192.168.1.12:0: Your username contains illegal characters. Allowed chars: [a-zA-Z0-9_]*
+[00:37:21] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .FawnHurdle3884 disconnected
+[00:37:21] [localSession-7-2/INFO]: [Geyser-Spigot] FawnHurdle3884 has disconnected from the Java server because of §r§4Your username contains illegal characters. Allowed chars: [a-zA-Z0-9_]*
+[00:37:21] [Server thread/INFO]: /192.168.1.12:0 lost connection: Your username contains illegal characters. Allowed chars: [a-zA-Z0-9_]*
