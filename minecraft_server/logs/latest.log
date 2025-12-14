@@ -1537,3 +1537,47 @@ org.bukkit.plugin.InvalidPluginException: Unsupported API version 1.21.10
 [01:20:51] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.5.0
 [01:20:52] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
 [01:20:52] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.4.0-beta-01+ae062ca
+[01:21:04] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@40631c10]
+[01:21:04] [Server thread/INFO]: [Multiverse-Core] Loading server plugin Multiverse-Core v4.3.12
+[01:21:04] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.2
+[01:21:04] [Server thread/INFO]: [mcMMO] Loading server plugin mcMMO v2.2.046-SNAPSHOT
+[01:21:04] [Server thread/INFO]: [GriefPrevention] Loading server plugin GriefPrevention v16.18.5
+[01:21:04] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.5-SNAPSHOT (b121-55a85ec)
+[01:21:15] [Server thread/INFO]: [floodgate] Took 11,162ms to boot Floodgate
+[01:21:15] [Server thread/INFO]: [EssentialsSpawn] Loading server plugin EssentialsSpawn v2.21.0
+[01:21:15] [Server thread/INFO]: [CMILib] Loading server plugin CMILib v1.5.7.5
+[01:21:15] [Server thread/INFO]: [DiscordSRV] Loading server plugin DiscordSRV v1.28.0
+[01:21:15] [Server thread/INFO]: [ChestShop] Loading server plugin ChestShop v3.12.3-SNAPSHOT (build 446)
+[01:21:15] [Server thread/INFO]: [ChestShop] GriefPrevention version 16.18.5 loaded.
+[01:21:15] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.9.1
+[01:21:15] [Server thread/INFO]: [AuthMe] Loading server plugin AuthMe v5.6.0-beta2-b2453
+[01:21:15] [Server thread/INFO]: [VeinMiner] Loading server plugin VeinMiner v2.3.0
+[01:21:15] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.9.1-SNAPSHOT
+[01:21:19] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[01:21:19] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[01:21:19] [Server thread/INFO]: [Jobs] Loading server plugin Jobs v5.2.6.5
+[01:21:19] [Server thread/INFO]: [DecentHolograms] Loading server plugin DecentHolograms v2.8.11
+[01:21:19] [Server thread/INFO]: [EssentialsChat] Loading server plugin EssentialsChat v2.21.0
+[01:21:19] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.0.3
+[01:21:19] [Server thread/INFO]: [AuctionHouse] Loading server plugin AuctionHouse v1.3.9
+[01:21:19] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[01:21:19] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.5.0
+[01:21:21] [Server thread/INFO]:         __    
+[01:21:21] [Server thread/INFO]:   |    |__)   LuckPerms v5.5.0
+[01:21:21] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[01:21:21] [Server thread/INFO]: 
+[01:21:21] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[01:21:22] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[01:21:27] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[01:21:27] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[01:21:27] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 8399ms)
+[01:21:27] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[01:21:27] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[01:21:27] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[01:21:27] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[01:21:27] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[01:21:27] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.4.0-beta-01+ae062ca
+[01:21:27] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[01:21:28] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[01:21:28] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_21_4.PaperweightAdapter as the Bukkit adapter
+[01:21:32] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.9.1
