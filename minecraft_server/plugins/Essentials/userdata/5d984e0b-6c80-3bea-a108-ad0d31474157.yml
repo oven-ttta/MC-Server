@@ -16,7 +16,7 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 0
+  logout: 1765696212753
   login: 1765695908272
 money: '0'
 last-account-name: AsT00N
@@ -28,3 +28,11 @@ lastlocation:
   z: -352.0
   yaw: 0.0
   pitch: 0.0
+logoutlocation:
+  world: c6f6579c-eac5-4288-a6ae-500388f97d11
+  world-name: world
+  x: 261.77923951573564
+  y: 67.0
+  z: -736.2480875361006
+  yaw: -87.6024169921875
+  pitch: 5.8500566482543945
