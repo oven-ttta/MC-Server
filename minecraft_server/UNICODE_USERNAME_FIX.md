@@ -8,7 +8,7 @@ Your username contains illegal characters. Allowed chars: [a-zN-Z0-9_]
 
 ## ✅ การแก้ไขที่ทำไปแล้ว
 
-### 1. แก้ไขการตั้งค่า AuthMe
+### 1. แก้ไขการตั้งค่า AuthMe - รองรับ Unicode
 ไฟล์: `/root/MC-Server/minecraft_server/plugins/AuthMe/config.yml`
 
 **เปลี่ยนจาก:**
@@ -27,7 +27,26 @@ allowedNicknameCharacters: '.*'
 - ✅ รองรับอักขระพิเศษ (emoji, สัญลักษณ์ต่างๆ)
 - ✅ ยังคงรองรับชื่อภาษาอังกฤษแบบเดิม
 
-### 2. Restart Server
+### 2. ปิดการนับเวลา Timeout
+ไฟล์: `/root/MC-Server/minecraft_server/plugins/AuthMe/config.yml`
+
+**เปลี่ยนจาก:**
+```yaml
+timeout: 30  # kick ผู้เล่นหลัง 30 วินาที
+```
+
+**เป็น:**
+```yaml
+timeout: 0  # ไม่ kick ผู้เล่น ให้เวลาไม่จำกัด
+```
+
+การเปลี่ยนแปลงนี้จะ:
+- ✅ ผู้เล่นมีเวลาไม่จำกัดในการพิมพ์ `/register` หรือ `/login`
+- ✅ ไม่ถูก kick ออกจาก server ขณะกำลังพิมพ์รหัสผ่าน
+- ✅ เหมาะสำหรับผู้เล่นที่พิมพ์ช้าหรือใช้ชื่อภาษาไทยที่ต้องสลับภาษา
+- ⚠️ ผู้เล่นจะยังคงได้รับข้อความเตือนให้ login/register ทุกๆ 5 วินาที
+
+### 3. Restart Server
 ใช้คำสั่ง PM2 เพื่อ restart server:
 ```bash
 pm2 restart minecraft
