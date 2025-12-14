@@ -1809,3 +1809,9 @@ Direct Download: https://get.discordsrv.com
 [01:15:39] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .Oven4191 disconnected
 [01:15:39] [Server thread/INFO]: /192.168.1.12:0 lost connection: You must wait 4 seconds before logging-in again.
 [01:15:40] [localSession-7-3/INFO]: [Geyser-Spigot] Oven4191 has disconnected from the Java server because of You must wait 4 seconds before logging-in again.
+[01:16:00] [GeyserServerChild-4-3/INFO]: [Geyser-Spigot] Player connected with username Oven4191 (827)
+[01:16:00] [localSession-7-4/INFO]: [Geyser-Spigot] Oven4191 (logged in as: Oven4191) has connected to the Java server
+[01:16:01] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Oven4191 joined (UUID: 00000000-0000-0000-0009-01f0570def82)
+[01:16:01] [Server thread/INFO]: .Oven4191 joined the game
+[01:16:01] [Server thread/INFO]: .Oven4191[/192.168.1.12:0] logged in with entity id 164 at ([world]96.5, 64.0, -351.5)
+[01:16:02] [WebSocketConnectReadThread-229/INFO]: [Geyser-Spigot] Got disconnected from the skin uploader: invalid chain and/or client data
