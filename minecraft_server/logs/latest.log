@@ -1483,3 +1483,123 @@ See https://github.com/google/gson/blob/main/Troubleshooting.md#malformed-json
 	... 12 more
 [00:23:38] [ServerMain/WARN]: resource-pack-id missing, using default of 0dd6cae4-4a97-344a-924d-3ae2a975ed31
 [00:23:39] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:23:42] [ServerMain/INFO]: Loaded 1370 recipes
+[00:23:42] [ServerMain/INFO]: Loaded 1481 advancements
+[00:23:42] [ServerMain/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
+[00:23:43] [ServerMain/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 406.3ms
+[00:23:43] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[00:23:43] [Server thread/WARN]: ****************************
+[00:23:43] [Server thread/WARN]: YOU ARE RUNNING THIS SERVER AS AN ADMINISTRATIVE OR ROOT USER. THIS IS NOT ADVISED.
+[00:23:43] [Server thread/WARN]: YOU ARE OPENING YOURSELF UP TO POTENTIAL RISKS WHEN DOING THIS.
+[00:23:43] [Server thread/WARN]: FOR MORE INFORMATION, SEE https://madelinemiller.dev/blog/root-minecraft-server/
+[00:23:43] [Server thread/WARN]: ****************************
+[00:23:43] [Server thread/INFO]: Loading properties
+[00:23:43] [Server thread/INFO]: This server is running Paper version 1.21.4-6-master@71a367e (2024-12-08T06:14:29Z) (Implementing API version 1.21.4-R0.1-SNAPSHOT)
+[00:23:44] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[00:23:44] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[00:23:44] [Server thread/INFO]: Using 6 threads for Netty based IO
+[00:23:46] [Server thread/INFO]: [MoonriseCommon] Paper is using 2 worker threads, 1 I/O threads
+[00:23:46] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[00:23:46] [Server thread/INFO]: Default game type: SURVIVAL
+[00:23:46] [Server thread/INFO]: Generating keypair
+[00:23:46] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:23:46] [Server thread/INFO]: Using epoll channel type
+[00:23:46] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[00:23:46] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[00:23:46] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Ambiguous plugin name 'Essentials' for files 'plugins/EssentialsX-new.jar' and 'plugins/EssentialsX.jar' in 'plugins'
+[00:23:46] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load 'plugins/ViaRewind.jar' in 'plugins'
+org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins: [ViaBackwards]. Please download and install these plugins to run 'ViaRewind'.
+	at io.papermc.paper.plugin.entrypoint.strategy.modern.ModernPluginLoadingStrategy.loadProviders(ModernPluginLoadingStrategy.java:82) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:38) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at io.papermc.paper.plugin.entrypoint.LaunchEntryPointHandler.enter(LaunchEntryPointHandler.java:40) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at org.bukkit.craftbukkit.CraftServer.loadPlugins(CraftServer.java:561) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:289) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1236) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:341) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[00:23:50] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load plugin 'WorldGuard.jar' in folder 'plugins/.paper-remapped'
+org.bukkit.plugin.InvalidPluginException: Unsupported API version 1.21.10
+	at org.bukkit.craftbukkit.util.CraftMagicNumbers.checkSupported(CraftMagicNumbers.java:370) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProvider.createInstance(SpigotPluginProvider.java:121) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProvider.createInstance(SpigotPluginProvider.java:35) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at io.papermc.paper.plugin.entrypoint.strategy.modern.ModernPluginLoadingStrategy.loadProviders(ModernPluginLoadingStrategy.java:116) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:38) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at io.papermc.paper.plugin.entrypoint.LaunchEntryPointHandler.enter(LaunchEntryPointHandler.java:40) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at org.bukkit.craftbukkit.CraftServer.loadPlugins(CraftServer.java:561) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:289) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1236) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:341) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[00:23:52] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.5.0
+[00:23:52] [Server thread/INFO]: [ViaVersion] ViaVersion 5.5.0 is now loaded. Registering protocol transformers and injecting...
+[00:23:53] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[00:23:54] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[00:23:55] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.5.0
+[00:23:56] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[00:23:56] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.4.0-beta-01+ae062ca
+[00:23:59] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@e90859d]
+[00:23:59] [Server thread/INFO]: [Multiverse-Core] Loading server plugin Multiverse-Core v4.3.12
+[00:23:59] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.2
+[00:23:59] [Server thread/INFO]: [mcMMO] Loading server plugin mcMMO v2.2.046-SNAPSHOT
+[00:23:59] [Server thread/INFO]: [GriefPrevention] Loading server plugin GriefPrevention v16.18.5
+[00:23:59] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.5-SNAPSHOT (b121-55a85ec)
+[00:24:01] [Server thread/INFO]: [floodgate] Took 2,234ms to boot Floodgate
+[00:24:01] [Server thread/INFO]: [EssentialsSpawn] Loading server plugin EssentialsSpawn v2.21.0
+[00:24:01] [Server thread/INFO]: [CMILib] Loading server plugin CMILib v1.5.7.5
+[00:24:01] [Server thread/INFO]: [DiscordSRV] Loading server plugin DiscordSRV v1.28.0
+[00:24:01] [Server thread/INFO]: [ChestShop] Loading server plugin ChestShop v3.12.3-SNAPSHOT (build 446)
+[00:24:01] [Server thread/INFO]: [ChestShop] GriefPrevention version 16.18.5 loaded.
+[00:24:01] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.9.1
+[00:24:01] [Server thread/INFO]: [AuthMe] Loading server plugin AuthMe v5.6.0-beta2-b2453
+[00:24:01] [Server thread/INFO]: [VeinMiner] Loading server plugin VeinMiner v2.3.0
+[00:24:01] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.9.1-SNAPSHOT
+[00:24:02] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[00:24:03] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[00:24:03] [Server thread/INFO]: [Jobs] Loading server plugin Jobs v5.2.6.5
+[00:24:03] [Server thread/INFO]: [DecentHolograms] Loading server plugin DecentHolograms v2.8.11
+[00:24:03] [Server thread/INFO]: [EssentialsChat] Loading server plugin EssentialsChat v2.21.0
+[00:24:03] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.0.3
+[00:24:03] [Server thread/INFO]: [AuctionHouse] Loading server plugin AuctionHouse v1.3.9
+[00:24:03] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:24:03] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.5.0
+[00:24:04] [Server thread/INFO]:         __    
+[00:24:04] [Server thread/INFO]:   |    |__)   LuckPerms v5.5.0
+[00:24:04] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[00:24:04] [Server thread/INFO]: 
+[00:24:04] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[00:24:04] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[00:24:06] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[00:24:06] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[00:24:06] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 3463ms)
+[00:24:06] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[00:24:06] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[00:24:06] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[00:24:06] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[00:24:06] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[00:24:06] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.4.0-beta-01+ae062ca
+[00:24:06] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[00:24:06] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[00:24:07] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_21_4.PaperweightAdapter as the Bukkit adapter
+[00:24:09] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.9.1
+[00:24:11] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.4.
+[00:24:11] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
+[00:24:12] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[00:24:12] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:24:12] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:24:12] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:24:12] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:24:12] [Server thread/INFO]: Preparing level "world"
+[00:24:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[00:24:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[00:24:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[00:24:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[00:24:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[00:24:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[00:24:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[00:24:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.9.1
+[00:24:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: ee713cb
+[00:24:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[00:24:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[00:24:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[00:24:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[00:24:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
