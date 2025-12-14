@@ -16,7 +16,7 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1765674991455
+  logout: 1765675924253
   login: 1765675687573
 money: '0'
 last-account-name: .Oven4191
@@ -31,8 +31,8 @@ lastlocation:
 logoutlocation:
   world: c6f6579c-eac5-4288-a6ae-500388f97d11
   world-name: world
-  x: 96.5
-  y: 64.0
-  z: -351.5
-  yaw: -70.2630844116211
-  pitch: 14.733001708984375
+  x: 93.709625
+  y: 63.0
+  z: -533.3149
+  yaw: -169.48699951171875
+  pitch: 61.143646240234375

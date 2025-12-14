@@ -1804,3 +1804,7 @@ Direct Download: https://get.discordsrv.com
 [01:28:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2538ms or 50 ticks behind
 [01:28:56] [Server thread/INFO]: [AuthMe] .Oven4191 registered 192.168.1.12
 [01:28:56] [Craft Scheduler Thread - 24 - AuthMe/INFO]: [AuthMe] .Oven4191 logged in 192.168.1.12
+[01:32:04] [GeyserServerChild-4-1/INFO]: [Geyser-Spigot] Oven4191 has disconnected from the Java server because of Bedrock client disconnected
+[01:32:04] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .Oven4191 disconnected
+[01:32:04] [Server thread/INFO]: .Oven4191 lost connection: Disconnected
+[01:32:04] [Server thread/INFO]: .Oven4191 left the game
