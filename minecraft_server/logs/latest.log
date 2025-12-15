@@ -58,3 +58,40 @@ Direct Download: https://get.discordsrv.com
 [05:34:05] [Server thread/INFO]: S4NTAZANG left the game
 [05:34:20] [Server thread/INFO]: oven lost connection: Timed out
 [05:34:20] [Server thread/INFO]: oven left the game
+[07:11:48] [Server thread/INFO]: Stopping server
+[07:11:48] [Server thread/INFO]: [AuctionHouse] Disabling AuctionHouse v1.3.9
+[07:11:48] [Server thread/INFO]: [TAB] Disabling TAB v5.0.3
+[07:11:48] [Server thread/INFO]: [TAB] Disabled in 7ms
+[07:11:48] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.21.0
+[07:11:48] [Server thread/INFO]: [Jobs] Disabling Jobs v5.2.6.5
+[07:11:48] [Server thread/INFO]: ------------- Jobs -------------
+[07:11:48] [Server thread/INFO]: Cleared boss bar cache
+[07:11:48] [Server thread/INFO]: Saved player data
+[07:11:48] [Jobs-DatabaseSaveTask/INFO]: Database save task shutdown!
+[07:11:48] [Jobs-BufferedPaymentThread/INFO]: Buffered payment thread shutdown.
+[07:11:48] [Server thread/INFO]: Closed database connection
+[07:11:48] [Server thread/INFO]: ------------------------------------
+[07:11:48] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.9.1-SNAPSHOT
+[07:11:48] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[07:11:48] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[07:11:49] [Server thread/INFO]: [VeinMiner] Disabling VeinMiner v2.3.0
+[07:11:49] [Server thread/INFO]: [VeinMiner] Clearing localized data
+[07:11:49] [Server thread/INFO]: [AuthMe] Disabling AuthMe v5.6.0-beta2-b2453
+[07:11:49] [WebSocketConnectReadThread-4948/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[07:11:49] [Server thread/INFO]: [AuthMe] Waiting for 0 tasks to finish
+[07:11:49] [Server thread/INFO]: [AuthMe] AuthMe 5.6.0-beta2-b2453 disabled!
+[07:11:49] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.9.1
+[07:11:49] [Server thread/INFO]: [ChestShop] Disabling ChestShop v3.12.3-SNAPSHOT (build 446)
+[07:11:49] [Server thread/INFO]: [CMILib] Disabling CMILib v1.5.7.5
+[07:11:49] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.21.0
+[07:11:49] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.5-SNAPSHOT (b121-55a85ec)
+[07:11:49] [Server thread/INFO]: [GriefPrevention] Disabling GriefPrevention v16.18.5
+[07:11:49] [Server thread/INFO]: [GriefPrevention] GriefPrevention disabled.
+[07:11:49] [Server thread/INFO]: [mcMMO] Disabling mcMMO v2.2.046-SNAPSHOT
+[07:11:49] [Server thread/INFO]: [mcMMO] Server shutdown has been executed, saving and cleaning up data...
+[07:11:49] [Server thread/INFO]: [mcMMO] Saving mmoPlayers... (0)
+[07:11:49] [Server thread/INFO]: [mcMMO] Finished save operation for 0 players!
+[07:11:49] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.2
+[07:11:49] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[07:11:49] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v4.3.12
+[07:11:49] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.4.0-beta-01+ae062ca
