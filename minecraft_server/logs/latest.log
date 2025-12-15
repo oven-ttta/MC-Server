@@ -1771,3 +1771,4 @@ Direct Download: https://get.discordsrv.com
 [07:13:59] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.9.1-b1002 (git-master-0cdd31e)
 [07:13:59] [Server thread/INFO]: [Geyser-Spigot] 
 [07:13:59] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[07:15:03] [spark-async-sampler-worker-thread/WARN]: [spark] Timed out waiting for world statistics
