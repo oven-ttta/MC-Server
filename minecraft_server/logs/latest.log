@@ -1793,3 +1793,6 @@ Direct Download: https://get.discordsrv.com
 [07:15:46] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.6.0, you're on: 5.5.0
 [07:15:46] [Server thread/INFO]: Done (189.557s)! For help, type "help"
 [07:19:15] [User Authenticator #0/INFO]: UUID of player oven is 46e44b98-3f62-3483-a9ea-5b246b676a26
+[07:19:39] [Server thread/INFO]: oven joined the game
+[07:19:40] [Server thread/INFO]: oven[/127.46.71.101:56061] logged in with entity id 17 at ([world]204.7112710902308, 79.0, -594.8922090431236)
+[07:19:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3104ms or 62 ticks behind
