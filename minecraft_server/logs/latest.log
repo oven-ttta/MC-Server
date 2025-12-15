@@ -47,3 +47,10 @@ Direct Download: https://get.discordsrv.com
 [05:32:44] [Server thread/INFO]: Disconnecting S4NTAZANG (/127.31.227.183:55195): You must wait 8 seconds before logging-in again.
 [05:32:44] [Server thread/INFO]: S4NTAZANG (/127.31.227.183:55195) lost connection: You must wait 8 seconds before logging-in again.
 [05:33:09] [User Authenticator #6/INFO]: UUID of player S4NTAZANG is c4f9e38d-5c7d-3749-bdde-45bce4978d13
+[05:33:35] [Server thread/INFO]: S4NTAZANG joined the game
+[05:33:35] [Server thread/INFO]: S4NTAZANG[/127.31.227.183:50325] logged in with entity id 3044 at ([world]247.58648359500603, 75.0, -614.5941360635816)
+[05:33:50] [Server thread/INFO]: oven joined the game
+[05:33:50] [Server thread/INFO]: oven[/127.46.71.101:32939] logged in with entity id 3042 at ([world]204.7112710902308, 79.0, -594.8922090431236)
+[05:33:59] [User Authenticator #6/INFO]: UUID of player S4NTAZANG is c4f9e38d-5c7d-3749-bdde-45bce4978d13
+[05:33:59] [Server thread/INFO]: Disconnecting S4NTAZANG (/127.31.227.183:52229): The same username is already playing on the server!
+[05:33:59] [Server thread/INFO]: S4NTAZANG (/127.31.227.183:52229) lost connection: The same username is already playing on the server!
