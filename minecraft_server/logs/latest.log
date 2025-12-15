@@ -1796,3 +1796,6 @@ Direct Download: https://get.discordsrv.com
 [07:19:39] [Server thread/INFO]: oven joined the game
 [07:19:40] [Server thread/INFO]: oven[/127.46.71.101:56061] logged in with entity id 17 at ([world]204.7112710902308, 79.0, -594.8922090431236)
 [07:19:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3104ms or 62 ticks behind
+[07:20:09] [Server thread/INFO]: oven lost connection: Timed out
+[07:20:10] [Server thread/INFO]: oven left the game
+[07:20:26] [User Authenticator #1/INFO]: UUID of player oven is 46e44b98-3f62-3483-a9ea-5b246b676a26
