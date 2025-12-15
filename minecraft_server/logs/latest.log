@@ -1799,3 +1799,5 @@ Direct Download: https://get.discordsrv.com
 [07:20:09] [Server thread/INFO]: oven lost connection: Timed out
 [07:20:10] [Server thread/INFO]: oven left the game
 [07:20:26] [User Authenticator #1/INFO]: UUID of player oven is 46e44b98-3f62-3483-a9ea-5b246b676a26
+[07:20:48] [Server thread/INFO]: oven joined the game
+[07:20:48] [Server thread/INFO]: oven[/127.46.71.101:58151] logged in with entity id 226 at ([world]204.7112710902308, 79.0, -594.8922090431236)
