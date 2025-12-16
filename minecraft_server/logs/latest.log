@@ -21,3 +21,11 @@ Direct Download: https://get.discordsrv.com
 [07:16:35] [Craft Scheduler Thread - 1687 - Vault/INFO]: [Vault] Checking for Updates ... 
 [07:16:35] [Craft Scheduler Thread - 1687 - Vault/INFO]: [Vault] No new version available
 [08:51:59] [WebSocketConnectReadThread-4719/WARN]: [Geyser-Spigot] Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org: Temporary failure in name resolution
+[13:13:45] [pool-34-thread-1/WARN]: [DiscordSRV] 
+
+The current build of DiscordSRV is outdated by 82 commits! Get the latest build at your favorite distribution center.
+
+Spigot: https://www.spigotmc.org/resources/discordsrv.18494/
+Github: https://github.com/DiscordSRV/DiscordSRV/releases
+Direct Download: https://get.discordsrv.com
+
