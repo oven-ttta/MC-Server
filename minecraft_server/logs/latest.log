@@ -37,3 +37,12 @@ java.lang.IllegalArgumentException: Invalid JSON: api.geysermc.org
 [08:18:29] [WebSocketConnectReadThread-17060/WARN]: [Geyser-Spigot] Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org: Temporary failure in name resolution
 [08:18:41] [WebSocketConnectReadThread-17061/WARN]: [Geyser-Spigot] Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org: Temporary failure in name resolution
 [09:52:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7494ms or 149 ticks behind
+[13:13:45] [pool-34-thread-1/WARN]: [DiscordSRV] 
+
+The current build of DiscordSRV is outdated by 82 commits! Get the latest build at your favorite distribution center.
+
+Spigot: https://www.spigotmc.org/resources/discordsrv.18494/
+Github: https://github.com/DiscordSRV/DiscordSRV/releases
+Direct Download: https://get.discordsrv.com
+
+[13:13:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3432ms or 68 ticks behind
