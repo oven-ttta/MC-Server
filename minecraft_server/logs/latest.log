@@ -22,3 +22,5 @@ Direct Download: https://get.discordsrv.com
 
 [07:18:04] [Craft Scheduler Thread - 6670 - Vault/INFO]: [Vault] Checking for Updates ... 
 [07:18:04] [Craft Scheduler Thread - 6670 - Vault/INFO]: [Vault] No new version available
+[08:17:54] [WebSocketConnectReadThread-17053/WARN]: [Geyser-Spigot] Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org: Temporary failure in name resolution
+[08:18:08] [WebSocketConnectReadThread-17057/WARN]: [Geyser-Spigot] Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org: Temporary failure in name resolution
