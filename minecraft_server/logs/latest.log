@@ -1,5 +1,4 @@
-[00:19:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5170ms or 103 ticks behind
-[01:13:45] [pool-34-thread-1/WARN]: [DiscordSRV] 
+[01:13:44] [pool-34-thread-1/WARN]: [DiscordSRV] 
 
 The current build of DiscordSRV is outdated by 82 commits! Get the latest build at your favorite distribution center.
 
@@ -7,58 +6,3 @@ Spigot: https://www.spigotmc.org/resources/discordsrv.18494/
 Github: https://github.com/DiscordSRV/DiscordSRV/releases
 Direct Download: https://get.discordsrv.com
 
-[01:17:54] [Craft Scheduler Thread - 6254 - Vault/INFO]: [Vault] Checking for Updates ... 
-[01:17:54] [Craft Scheduler Thread - 6254 - Vault/INFO]: [Vault] No new version available
-[03:34:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3615ms or 72 ticks behind
-[05:02:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3097ms or 61 ticks behind
-[05:03:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3080ms or 61 ticks behind
-[07:13:46] [pool-34-thread-1/WARN]: [DiscordSRV] 
-
-The current build of DiscordSRV is outdated by 82 commits! Get the latest build at your favorite distribution center.
-
-Spigot: https://www.spigotmc.org/resources/discordsrv.18494/
-Github: https://github.com/DiscordSRV/DiscordSRV/releases
-Direct Download: https://get.discordsrv.com
-
-[07:18:04] [Craft Scheduler Thread - 6670 - Vault/INFO]: [Vault] Checking for Updates ... 
-[07:18:04] [Craft Scheduler Thread - 6670 - Vault/INFO]: [Vault] No new version available
-[08:17:54] [WebSocketConnectReadThread-17053/WARN]: [Geyser-Spigot] Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org: Temporary failure in name resolution
-[08:18:08] [WebSocketConnectReadThread-17057/WARN]: [Geyser-Spigot] Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org: Temporary failure in name resolution
-[08:18:17] [WebSocketConnectReadThread-17058/WARN]: [Geyser-Spigot] Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org
-[08:18:17] [WebSocketConnectReadThread-17058/WARN]: [Geyser-Spigot] Error while handling onClose
-java.lang.IllegalArgumentException: Invalid JSON: api.geysermc.org
-	at Geyser-Spigot.jar/org.geysermc.geyser.util.JsonUtils.parseJson(JsonUtils.java:56) ~[Geyser-Spigot.jar:?]
-	at Geyser-Spigot.jar/org.geysermc.geyser.skin.FloodgateSkinUploader$1.onClose(FloodgateSkinUploader.java:151) ~[Geyser-Spigot.jar:?]
-	at Geyser-Spigot.jar/org.java_websocket.client.WebSocketClient.onWebsocketClose(WebSocketClient.java:619) ~[Geyser-Spigot.jar:?]
-	at Geyser-Spigot.jar/org.java_websocket.WebSocketImpl.closeConnection(WebSocketImpl.java:522) ~[Geyser-Spigot.jar:?]
-	at Geyser-Spigot.jar/org.java_websocket.WebSocketImpl.closeConnection(WebSocketImpl.java:545) ~[Geyser-Spigot.jar:?]
-	at Geyser-Spigot.jar/org.java_websocket.client.WebSocketClient.run(WebSocketClient.java:485) ~[Geyser-Spigot.jar:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[08:18:29] [WebSocketConnectReadThread-17060/WARN]: [Geyser-Spigot] Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org: Temporary failure in name resolution
-[08:18:41] [WebSocketConnectReadThread-17061/WARN]: [Geyser-Spigot] Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org: Temporary failure in name resolution
-[09:52:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7494ms or 149 ticks behind
-[13:13:45] [pool-34-thread-1/WARN]: [DiscordSRV] 
-
-The current build of DiscordSRV is outdated by 82 commits! Get the latest build at your favorite distribution center.
-
-Spigot: https://www.spigotmc.org/resources/discordsrv.18494/
-Github: https://github.com/DiscordSRV/DiscordSRV/releases
-Direct Download: https://get.discordsrv.com
-
-[13:13:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3432ms or 68 ticks behind
-[13:18:15] [Craft Scheduler Thread - 7085 - Vault/INFO]: [Vault] Checking for Updates ... 
-[13:18:15] [Craft Scheduler Thread - 7085 - Vault/INFO]: [Vault] No new version available
-[17:08:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4461ms or 89 ticks behind
-[17:32:20] [Server thread/INFO]: [GriefPrevention]  ekkeke's new player claim expired.
-[19:13:45] [pool-34-thread-1/WARN]: [DiscordSRV] 
-
-The current build of DiscordSRV is outdated by 82 commits! Get the latest build at your favorite distribution center.
-
-Spigot: https://www.spigotmc.org/resources/discordsrv.18494/
-Github: https://github.com/DiscordSRV/DiscordSRV/releases
-Direct Download: https://get.discordsrv.com
-
-[19:18:19] [Craft Scheduler Thread - 7492 - Vault/INFO]: [Vault] Checking for Updates ... 
-[19:18:19] [Craft Scheduler Thread - 7492 - Vault/INFO]: [Vault] No new version available
-[21:15:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3519ms or 70 ticks behind
-[23:48:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3332ms or 66 ticks behind
