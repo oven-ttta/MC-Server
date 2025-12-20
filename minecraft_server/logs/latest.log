@@ -66,3 +66,11 @@ Direct Download: https://get.discordsrv.com
 [09:45:45] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
 [09:45:46] [Paper Watchdog Thread/ERROR]: ------------------------------
 [09:45:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11174ms or 223 ticks behind
+[13:13:44] [pool-34-thread-1/WARN]: [DiscordSRV] 
+
+The current build of DiscordSRV is outdated by 82 commits! Get the latest build at your favorite distribution center.
+
+Spigot: https://www.spigotmc.org/resources/discordsrv.18494/
+Github: https://github.com/DiscordSRV/DiscordSRV/releases
+Direct Download: https://get.discordsrv.com
+
