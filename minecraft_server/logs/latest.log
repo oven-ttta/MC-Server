@@ -11,3 +11,27 @@ Direct Download: https://get.discordsrv.com
 [01:19:45] [Craft Scheduler Thread - 9417 - Vault/INFO]: [Vault] No new version available
 [03:28:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6663ms or 133 ticks behind
 [03:32:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2613ms or 52 ticks behind
+[03:32:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9451ms or 189 ticks behind
+[03:33:02] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21.4-6-71a367e (MC: 1.21.4) ---
+[03:33:07] [Paper Watchdog Thread/ERROR]: The server has not responded for -3 seconds! Creating thread dump
+[03:33:11] [Paper Watchdog Thread/ERROR]: ------------------------------
+[03:33:15] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[03:33:28] [Paper Watchdog Thread/ERROR]: ------------------------------
+[03:33:30] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[03:33:31] [Paper Watchdog Thread/ERROR]: 	PID: 46 | Suspended: false | Native: false | State: RUNNABLE
+[03:33:31] [Paper Watchdog Thread/ERROR]: 	Stack:
+[03:33:31] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.lang.ref.Reference.clear0(Native Method)
+[03:33:31] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.lang.ref.Reference.clear(Reference.java:398)
+[03:33:31] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.lang.ThreadLocal$ThreadLocalMap.remove(ThreadLocal.java:580)
+[03:33:31] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.lang.ThreadLocal.remove(ThreadLocal.java:294)
+[03:33:31] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.lang.ThreadLocal.remove(ThreadLocal.java:283)
+[03:33:31] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.profiling.Profiler.stopUsing(Profiler.java:36)
+[03:33:31] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.profiling.Profiler$$Lambda/0x00007d199e56d200.close(Unknown Source)
+[03:33:31] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1367)
+[03:33:31] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:341)
+[03:33:31] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x00007d199cdceef8.run(Unknown Source)
+[03:33:31] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.lang.Thread.runWith(Thread.java:1596)
+[03:33:31] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.lang.Thread.run(Thread.java:1583)
+[03:33:33] [Paper Watchdog Thread/ERROR]: ------------------------------
+[03:33:35] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[03:33:36] [Paper Watchdog Thread/ERROR]: ------------------------------
