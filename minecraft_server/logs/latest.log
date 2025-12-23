@@ -24,3 +24,11 @@ Direct Download: https://get.discordsrv.com
 [13:20:47] [Craft Scheduler Thread - 12101 - Vault/INFO]: [Vault] No new version available
 [15:03:29] [Folia Async Scheduler Thread #3/WARN]: [SkinsRestorer] Failed to get release info from api.github.com. 
  If this message is repeated a lot, please see https://skinsrestorer.net/firewall
+[19:13:44] [pool-34-thread-1/WARN]: [DiscordSRV] 
+
+The current build of DiscordSRV is outdated by 82 commits! Get the latest build at your favorite distribution center.
+
+Spigot: https://www.spigotmc.org/resources/discordsrv.18494/
+Github: https://github.com/DiscordSRV/DiscordSRV/releases
+Direct Download: https://get.discordsrv.com
+
