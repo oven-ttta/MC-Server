@@ -22,3 +22,5 @@ Direct Download: https://get.discordsrv.com
 [13:13:54] [pool-34-thread-1/WARN]: [DiscordSRV] Update check failed: Expected a github.scarsz.discordsrv.dependencies.google.gson.JsonObject but was github.scarsz.discordsrv.dependencies.google.gson.JsonPrimitive
 [13:20:47] [Craft Scheduler Thread - 12101 - Vault/INFO]: [Vault] Checking for Updates ... 
 [13:20:47] [Craft Scheduler Thread - 12101 - Vault/INFO]: [Vault] No new version available
+[15:03:29] [Folia Async Scheduler Thread #3/WARN]: [SkinsRestorer] Failed to get release info from api.github.com. 
+ If this message is repeated a lot, please see https://skinsrestorer.net/firewall
