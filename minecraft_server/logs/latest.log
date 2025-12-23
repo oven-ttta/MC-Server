@@ -19,3 +19,4 @@ Direct Download: https://get.discordsrv.com
 
 [07:20:47] [Craft Scheduler Thread - 11956 - Vault/INFO]: [Vault] Checking for Updates ... 
 [07:20:47] [Craft Scheduler Thread - 11956 - Vault/INFO]: [Vault] No new version available
+[13:13:54] [pool-34-thread-1/WARN]: [DiscordSRV] Update check failed: Expected a github.scarsz.discordsrv.dependencies.google.gson.JsonObject but was github.scarsz.discordsrv.dependencies.google.gson.JsonPrimitive
