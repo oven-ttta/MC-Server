@@ -1,5 +1,4 @@
-[01:04:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7519ms or 150 ticks behind
-[01:13:45] [pool-34-thread-1/WARN]: [DiscordSRV] 
+[01:13:47] [pool-34-thread-1/WARN]: [DiscordSRV] 
 
 The current build of DiscordSRV is outdated by 82 commits! Get the latest build at your favorite distribution center.
 
@@ -7,42 +6,3 @@ Spigot: https://www.spigotmc.org/resources/discordsrv.18494/
 Github: https://github.com/DiscordSRV/DiscordSRV/releases
 Direct Download: https://get.discordsrv.com
 
-[01:20:28] [Craft Scheduler Thread - 10957 - Vault/INFO]: [Vault] Checking for Updates ... 
-[01:20:28] [Craft Scheduler Thread - 10957 - Vault/INFO]: [Vault] No new version available
-[05:34:28] [Server thread/INFO]: [GriefPrevention]  S4NTAZANG's new player claim expired.
-[05:51:49] [User Authenticator #3/INFO]: UUID of player LegitVocals is 5d87b337-b431-3b66-9458-16297ee16a9a
-[05:51:51] [Server thread/INFO]: com.mojang.authlib.GameProfile@3db0d430[id=5d87b337-b431-3b66-9458-16297ee16a9a,name=LegitVocals,properties={textures=[Property[name=textures, value=ewogICJ0aW1lc3RhbXAiIDogMTc2NjM4MjcwODg5MSwKICAicHJvZmlsZUlkIiA6ICJmMDk4YzQ3MjMzNTM0NWQxYmQwZWMxM2UyYzE4ZjRhMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJMZWdpdFZvY2FscyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80MjVkODliZWI4NWRiNTdkZjFjMDFkOWY1YTJlOTFkY2U3ODU0MDdkMDFlY2E2ODVjOWMyZGEwNzllZTY3MjUiCiAgICB9LAogICAgIkNBUEUiIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzIzNDBjMGUwM2RkMjRhMTFiMTVhOGIzM2MyYTdlOWUzMmFiYjIwNTFiMjQ4MWQwYmE3ZGVmZDYzNWNhN2E5MzMiCiAgICB9CiAgfQp9, signature=pfRsH0mZo1EFxaOJNcyBxp4KwEjiV+KuUTMJmIAkX61tJHhZgf4pfEto3xbVMTNgCT67K6ng7gGMlahxp4TJPeMPfnzDdLIdrJXGRiV6GbM0HWRucahYT5lX789LjvWX1Z3UwwenJ3oIds87lC5mDxgOKhhFHhhw+2jdFa3cu+UY5TAF1REz1KFF+aa2QSuYvSv+KuJczkBocfVIwSNBd1e4gGV3IHzN8ltP4Jad2hNRc8lo07QfArTbeSWeRhbtYdp2/Vki782chFXfUfw46ucrz+j3B0hIz+AgpohEXS+VUHKlP3ZlmJ9MNlUNf4VHLVBcOW8RqrfR0nMJIZ25+NVYaHBL8W1v42UdOeOI/K8X+ToSgwv+5w8gjpFi26hT455QuNdiHpGTM3XmSFkefTaLvM2uDUHf1AM84ynpQmE72CKu+2IP0uEN6VGXr7+cUP9EIrCNwrDDpbOjEZvPF4ZmPVoYhJzbuggs9b/AA+sUWsDXe+EVO4q/uSce/rtIH/+CvQTyVD11kR029N32xmG7ItzlSid1yySuh+378L3TGXRP4w5ufZvWbpFzgOupVwS5jC903v+6EZVaoSJTYdwwWlSAnsHn/eH1GUJuDq0vqP0JS/Sm/r2ptW6xnPfd5NyMp/zmdLweoIVIHic8d99PJh2b2+Rd+22WaRwOtUE=]]}] lost connection: Disconnected
-[07:13:45] [pool-34-thread-1/WARN]: [DiscordSRV] 
-
-The current build of DiscordSRV is outdated by 82 commits! Get the latest build at your favorite distribution center.
-
-Spigot: https://www.spigotmc.org/resources/discordsrv.18494/
-Github: https://github.com/DiscordSRV/DiscordSRV/releases
-Direct Download: https://get.discordsrv.com
-
-[07:20:28] [Craft Scheduler Thread - 11325 - Vault/INFO]: [Vault] Checking for Updates ... 
-[07:20:28] [Craft Scheduler Thread - 11325 - Vault/INFO]: [Vault] No new version available
-[08:59:29] [Server thread/INFO]: [GriefPrevention]  oven's new player claim expired.
-[13:13:45] [pool-34-thread-1/WARN]: [DiscordSRV] 
-
-The current build of DiscordSRV is outdated by 82 commits! Get the latest build at your favorite distribution center.
-
-Spigot: https://www.spigotmc.org/resources/discordsrv.18494/
-Github: https://github.com/DiscordSRV/DiscordSRV/releases
-Direct Download: https://get.discordsrv.com
-
-[13:14:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6562ms or 131 ticks behind
-[13:20:35] [Craft Scheduler Thread - 11520 - Vault/INFO]: [Vault] Checking for Updates ... 
-[13:20:35] [Craft Scheduler Thread - 11520 - Vault/INFO]: [Vault] No new version available
-[14:31:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3170ms or 63 ticks behind
-[18:51:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4686ms or 93 ticks behind
-[19:14:03] [pool-34-thread-1/WARN]: [DiscordSRV] 
-
-The current build of DiscordSRV is outdated by 82 commits! Get the latest build at your favorite distribution center.
-
-Spigot: https://www.spigotmc.org/resources/discordsrv.18494/
-Github: https://github.com/DiscordSRV/DiscordSRV/releases
-Direct Download: https://get.discordsrv.com
-
-[19:20:43] [Craft Scheduler Thread - 11665 - Vault/INFO]: [Vault] Checking for Updates ... 
-[19:20:43] [Craft Scheduler Thread - 11665 - Vault/INFO]: [Vault] No new version available
