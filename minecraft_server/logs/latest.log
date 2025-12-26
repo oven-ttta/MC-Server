@@ -66,3 +66,29 @@ Direct Download: https://get.discordsrv.com
 [03:35:41] [Paper Watchdog Thread/ERROR]: The server has not responded for 25 seconds! Creating thread dump
 [03:35:41] [Paper Watchdog Thread/ERROR]: ------------------------------
 [03:35:41] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[03:35:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13722ms or 274 ticks behind
+[03:35:41] [Paper Watchdog Thread/ERROR]: ------------------------------
+[03:35:41] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[03:35:41] [Paper Watchdog Thread/ERROR]: 	PID: 46 | Suspended: false | Native: false | State: RUNNABLE
+[03:35:41] [Paper Watchdog Thread/ERROR]: 	Stack:
+[03:35:41] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/jdk.internal.misc.Unsafe.unpark(Native Method)
+[03:35:41] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.util.concurrent.locks.LockSupport.unpark(LockSupport.java:181)
+[03:35:41] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.util.concurrent.locks.AbstractQueuedSynchronizer.signalNext(AbstractQueuedSynchronizer.java:645)
+[03:35:41] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.util.concurrent.locks.AbstractQueuedSynchronizer.release(AbstractQueuedSynchronizer.java:1094)
+[03:35:41] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.util.concurrent.locks.ReentrantLock.unlock(ReentrantLock.java:494)
+[03:35:41] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.util.concurrent.LinkedBlockingQueue.signalNotEmpty(LinkedBlockingQueue.java:179)
+[03:35:41] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.util.concurrent.LinkedBlockingQueue.offer(LinkedBlockingQueue.java:423)
+[03:35:41] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.util.concurrent.ThreadPoolExecutor.execute(ThreadPoolExecutor.java:1368)
+[03:35:41] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.util.concurrent.Executors$DelegatedExecutorService.execute(Executors.java:754)
+[03:35:41] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.scheduler.CraftAsyncScheduler.mainThreadHeartbeat(CraftAsyncScheduler.java:73)
+[03:35:41] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:457)
+[03:35:41] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1805)
+[03:35:41] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1666)
+[03:35:41] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1331)
+[03:35:41] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:341)
+[03:35:41] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x0000773530dceef8.run(Unknown Source)
+[03:35:41] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.lang.Thread.runWith(Thread.java:1596)
+[03:35:41] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.lang.Thread.run(Thread.java:1583)
+[03:35:41] [Paper Watchdog Thread/ERROR]: ------------------------------
+[03:35:41] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[03:35:41] [Paper Watchdog Thread/ERROR]: ------------------------------
