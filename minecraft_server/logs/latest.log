@@ -14,3 +14,21 @@ Direct Download: https://get.discordsrv.com
 [03:33:50] [Paper Watchdog Thread/ERROR]: The server has not responded for 0 seconds! Creating thread dump
 [03:33:50] [Paper Watchdog Thread/ERROR]: ------------------------------
 [03:33:50] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[03:33:50] [Paper Watchdog Thread/ERROR]: ------------------------------
+[03:33:50] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[03:33:50] [Paper Watchdog Thread/ERROR]: 	PID: 46 | Suspended: false | Native: false | State: TIMED_WAITING
+[03:33:50] [Paper Watchdog Thread/ERROR]: 	Stack:
+[03:33:50] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/jdk.internal.misc.Unsafe.park(Native Method)
+[03:33:50] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
+[03:33:50] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.waitForTasks(MinecraftServer.java:1525)
+[03:33:50] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:139)
+[03:33:50] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1500)
+[03:33:50] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1510)
+[03:33:50] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1346)
+[03:33:50] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:341)
+[03:33:50] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x0000773530dceef8.run(Unknown Source)
+[03:33:50] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.lang.Thread.runWith(Thread.java:1596)
+[03:33:50] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.lang.Thread.run(Thread.java:1583)
+[03:33:50] [Paper Watchdog Thread/ERROR]: ------------------------------
+[03:33:50] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[03:33:50] [Paper Watchdog Thread/ERROR]: ------------------------------
