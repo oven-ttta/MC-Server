@@ -7,3 +7,5 @@ Github: https://github.com/DiscordSRV/DiscordSRV/releases
 Direct Download: https://get.discordsrv.com
 
 [02:41:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6830ms or 136 ticks behind
+[02:43:40] [Craft Scheduler Thread - 1465 - Vault/INFO]: [Vault] Checking for Updates ... 
+[02:43:40] [Craft Scheduler Thread - 1465 - Vault/INFO]: [Vault] No new version available
