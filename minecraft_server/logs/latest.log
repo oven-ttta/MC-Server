@@ -80,3 +80,17 @@ Direct Download: https://get.discordsrv.com
 [17:59:41] [Paper Watchdog Thread/ERROR]: ------------------------------
 [17:59:41] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
 [17:59:41] [Paper Watchdog Thread/ERROR]: ------------------------------
+[18:00:22] [Server thread/INFO]: Stopping server
+[18:00:23] [Server thread/INFO]: [AuctionHouse] Disabling AuctionHouse v1.3.9
+[18:00:23] [Server thread/INFO]: [TAB] Disabling TAB v5.0.3
+[18:00:23] [Server thread/INFO]: [TAB] Disabled in 46ms
+[18:00:23] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.21.0
+[18:00:23] [Server thread/INFO]: [Jobs] Disabling Jobs v5.2.6.5
+[18:00:23] [Server thread/INFO]: ------------- Jobs -------------
+[18:00:23] [Jobs-DatabaseSaveTask/INFO]: Database save task shutdown!
+[18:00:23] [Server thread/INFO]: Cleared boss bar cache
+[18:00:23] [Jobs-BufferedPaymentThread/INFO]: Buffered payment thread shutdown.
+[18:00:23] [Server thread/INFO]: Saved player data
+[18:00:24] [Server thread/INFO]: Closed database connection
+[18:00:24] [Server thread/INFO]: ------------------------------------
+[18:00:24] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.9.1-SNAPSHOT
