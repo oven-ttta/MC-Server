@@ -1,7 +1,7 @@
 #!/bin/bash
-# Optimized for 6GB RAM, 6 CPU cores, 20+ players
+# Optimized for 2GB RAM (memory saving mode)
 # Using Aikar's flags for best performance
-java -Xms6G -Xmx6G \
+java -Xms1G -Xmx2G \
   -XX:+UseG1GC \
   -XX:+ParallelRefProcEnabled \
   -XX:MaxGCPauseMillis=200 \

@@ -1797,3 +1797,77 @@ Direct Download: https://get.discordsrv.com
 [16:50:06] [Craft Scheduler Thread - 8 - Vault/INFO]: [Vault] Checking for Updates ... 
 [16:50:06] [Craft Scheduler Thread - 8 - Vault/INFO]: [Vault] No new version available
 [16:50:06] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.7.0, you're on: 5.5.0
+[16:56:14] [Server thread/INFO]: Stopping server
+[16:56:14] [Server thread/INFO]: [AuctionHouse] Disabling AuctionHouse v1.3.9
+[16:56:14] [Server thread/INFO]: [TAB] Disabling TAB v5.0.3
+[16:56:14] [Server thread/INFO]: [TAB] Disabled in 2ms
+[16:56:14] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.21.0
+[16:56:14] [Server thread/INFO]: [Jobs] Disabling Jobs v5.2.6.5
+[16:56:14] [Server thread/INFO]: ------------- Jobs -------------
+[16:56:14] [Jobs-BufferedPaymentThread/INFO]: Buffered payment thread shutdown.
+[16:56:14] [Server thread/INFO]: Cleared boss bar cache
+[16:56:14] [Jobs-DatabaseSaveTask/INFO]: Database save task shutdown!
+[16:56:14] [Server thread/INFO]: Saved player data
+[16:56:14] [Server thread/INFO]: Closed database connection
+[16:56:14] [Server thread/INFO]: ------------------------------------
+[16:56:14] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.9.1-SNAPSHOT
+[16:56:14] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[16:56:14] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[16:56:14] [Server thread/INFO]: [VeinMiner] Disabling VeinMiner v2.3.0
+[16:56:14] [Server thread/INFO]: [VeinMiner] Clearing localized data
+[16:56:14] [Server thread/INFO]: [AuthMe] Disabling AuthMe v5.6.0-beta2-b2453
+[16:56:14] [Server thread/INFO]: [AuthMe] Waiting for 0 tasks to finish
+[16:56:14] [Server thread/INFO]: [AuthMe] AuthMe 5.6.0-beta2-b2453 disabled!
+[16:56:14] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.9.1
+[16:56:14] [Server thread/INFO]: [ChestShop] Disabling ChestShop v3.12.3-SNAPSHOT (build 446)
+[16:56:14] [Server thread/INFO]: [CMILib] Disabling CMILib v1.5.7.5
+[16:56:14] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.21.0
+[16:56:14] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.5-SNAPSHOT (b121-55a85ec)
+[16:56:14] [Server thread/INFO]: [GriefPrevention] Disabling GriefPrevention v16.18.5
+[16:56:14] [Server thread/INFO]: [GriefPrevention] GriefPrevention disabled.
+[16:56:14] [Server thread/INFO]: [mcMMO] Disabling mcMMO v2.2.046-SNAPSHOT
+[16:56:14] [Server thread/INFO]: [mcMMO] Server shutdown has been executed, saving and cleaning up data...
+[16:56:15] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.2
+[16:56:15] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[16:56:15] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v4.3.12
+[16:56:15] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.4.0-beta-01+ae062ca
+[16:56:15] [WebSocketConnectReadThread-169/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[16:56:22] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[16:56:22] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[16:56:22] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.5.0
+[16:56:22] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[16:56:22] [Server thread/INFO]: [LuckPerms] Closing storage...
+[16:56:22] [Server thread/INFO]: [LuckPerms] Goodbye!
+[16:56:22] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.5.0
+[16:56:22] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[16:56:22] [Server thread/INFO]: Saving players
+[16:56:22] [Server thread/INFO]: Saving worlds
+[16:56:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:56:22] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[16:56:22] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[16:56:22] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[16:56:22] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 5 entity chunks, 0 poi chunks in world 'world' in 0.02s
+[16:56:22] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[16:56:22] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[16:56:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[16:56:22] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[16:56:22] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[16:56:22] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[16:56:22] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[16:56:22] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[16:56:22] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[16:56:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[16:56:22] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[16:56:22] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[16:56:22] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[16:56:22] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.02s
+[16:56:22] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[16:56:22] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[16:56:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:56:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:56:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:56:22] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16:56:22] [Server thread/INFO]: Waiting for I/O tasks to complete...
+[16:56:22] [Server thread/INFO]: All I/O tasks to complete
+[16:56:22] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[16:56:22] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
