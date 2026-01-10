@@ -1602,3 +1602,174 @@ org.bukkit.plugin.InvalidPluginException: Unsupported API version 1.21.10
 [17:01:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
 [17:01:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
 [17:01:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[17:01:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:01:31] [Server thread/INFO]: Preparing spawn area: 0%
+[17:01:31] [Server thread/INFO]: Preparing spawn area: 0%
+[17:01:31] [Server thread/INFO]: Preparing spawn area: 20%
+[17:01:32] [Server thread/INFO]: Preparing spawn area: 24%
+[17:01:32] [Server thread/INFO]: Preparing spawn area: 24%
+[17:01:32] [Server thread/INFO]: Time elapsed: 2276 ms
+[17:01:32] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[17:01:32] [Server thread/INFO]: Preparing spawn area: 0%
+[17:01:33] [Server thread/INFO]: Preparing spawn area: 63%
+[17:01:33] [Server thread/INFO]: Time elapsed: 546 ms
+[17:01:33] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[17:01:33] [Server thread/INFO]: Preparing spawn area: 0%
+[17:01:33] [Server thread/INFO]: Time elapsed: 246 ms
+[17:01:33] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.5.0
+[17:01:33] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.4 (769)
+[17:01:33] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.3.12
+[17:01:33] [Server thread/WARN]: [Multiverse-Core] "Multiverse-Core v4.3.12" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
+[17:01:33] [Server thread/INFO]: [Multiverse-Core] §aWe are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
+[17:01:34] [Server thread/INFO]: [Multiverse-Core] 3 - World(s) loaded.
+[17:01:34] [Server thread/WARN]: [Multiverse-Core] Buscript failed to load! The script command will be disabled! If you would like not to see this message, use `/mv conf enablebuscript false` to disable Buscript from loading.
+[17:01:34] [Server thread/INFO]: [Multiverse-Core] Version 4.3.12 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
+[17:01:34] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.2
+[17:01:35] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[17:01:35] [Server thread/WARN]: [Essentials] Version mismatch! Please update EssentialsSpawn to the same version.
+[17:01:35] [Server thread/WARN]: [Essentials] Version mismatch! Please update EssentialsChat to the same version.
+[17:01:35] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[17:01:35] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[17:01:35] [Server thread/INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
+[17:01:35] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
+[17:01:35] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
+[17:01:35] [Server thread/INFO]: [Essentials] Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
+[17:01:35] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
+[17:01:35] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
+[17:01:35] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
+[17:01:35] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
+[17:01:35] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
+[17:01:35] [Server thread/INFO]: [Essentials] Selected 1.21.4+ Sync Commands Provider as the provider for SyncCommandsProvider
+[17:01:35] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
+[17:01:35] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
+[17:01:35] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
+[17:01:35] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
+[17:01:35] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
+[17:01:35] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
+[17:01:35] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
+[17:01:35] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
+[17:01:35] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
+[17:01:35] [Server thread/INFO]: [Essentials] Selected Legacy Biome Name Provider as the provider for BiomeNameProvider
+[17:01:35] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
+[17:01:35] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
+[17:01:35] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
+[17:01:36] [Server thread/INFO]: [Essentials] Loaded 43880 items from items.json.
+[17:01:36] [Server thread/INFO]: [Essentials] Using locale en_US
+[17:01:36] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[17:01:37] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[17:01:37] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[17:01:37] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[17:01:37] [Server thread/INFO]: [mcMMO] Enabling mcMMO v2.2.046-SNAPSHOT
+[17:01:38] [Server thread/INFO]: [mcMMO] Loaded 232 of 232 Alchemy potions.
+[17:01:40] [Server thread/INFO]: [GriefPrevention] Enabling GriefPrevention v16.18.5
+[17:01:40] [Server thread/INFO]: [GriefPrevention] Finished loading configuration.
+[17:01:40] [Server thread/INFO]: [GriefPrevention] 0 total claims loaded.
+[17:01:40] [Server thread/INFO]: [GriefPrevention] Customizable messages loaded.
+[17:01:40] [Server thread/INFO]: [GriefPrevention] Finished loading data (File Mode).
+[17:01:40] [Server thread/INFO]: [GriefPrevention] Boot finished.
+[17:01:40] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.5-SNAPSHOT (b121-55a85ec)
+[17:01:41] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.21.0
+[17:01:41] [Server thread/WARN]: [EssentialsSpawn] Version mismatch! Please update all Essentials jars to the same version.
+[17:01:41] [Server thread/INFO]: [EssentialsSpawn] Starting Metrics. Opt-out using the global bStats config.
+[17:01:41] [Server thread/INFO]: [CMILib] Enabling CMILib v1.5.7.5
+[17:01:43] [Server thread/INFO]: Server version: v1_21_R3 - 1.21.4 - paper  1.21.4-6-71a367e (MC: 1.21.4)
+[17:01:44] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17:01:44] [Server thread/INFO]: Updated (EN) language file. Took 97ms
+[17:01:44] [Server thread/INFO]: [DiscordSRV] Enabling DiscordSRV v1.28.0
+[17:01:44] [Server thread/INFO]: [ChestShop] Enabling ChestShop v3.12.3-SNAPSHOT (build 446)
+[17:01:45] [DiscordSRV - Initialization/ERROR]: [DiscordSRV] No bot token has been set in the config; a bot token is required to connect to Discord.
+[17:01:45] [Server thread/INFO]: [ChestShop] Found locales ru, lb, pt_br, vi, he, uk, ku, de, no, ja, fr, el, ro, bg, ko, fi, pl, sr, cs, ga, zh, ca, is, sv, it, zh_tw, cy, th, pt, es_mx, hu, af, kk, en_pt, es, sk, sl, nl, da, tr, la, lt, lol, ar, en
+[17:01:46] [pool-34-thread-1/WARN]: [DiscordSRV] 
+
+The current build of DiscordSRV is outdated by 82 commits! Get the latest build at your favorite distribution center.
+
+Spigot: https://www.spigotmc.org/resources/discordsrv.18494/
+Github: https://github.com/DiscordSRV/DiscordSRV/releases
+Direct Download: https://get.discordsrv.com
+
+[17:01:46] [Server thread/INFO]: [ChestShop] Using EssentialsX Economy as the Economy provider now.
+[17:01:46] [Server thread/INFO]: [ChestShop] Vault loaded!
+[17:01:47] [Server thread/INFO]: [ChestShop] Auto-updater is disabled. If you want the plugin to automatically download new releases then set 'TURN_OFF_UPDATES' to 'false' in your config.yml!
+[17:01:47] [Server thread/INFO]: [AuthMe] Enabling AuthMe v5.6.0-beta2-b2453
+[17:01:47] [Server thread/INFO]: [AuthMe] SQLite Setup finished
+[17:01:47] [Server thread/INFO]: [AuthMe] Hooked into LuckPerms!
+[17:01:47] [Server thread/INFO]: [AuthMe] Hooked successfully into Essentials
+[17:01:47] [Server thread/INFO]: [AuthMe] Hooked successfully into Multiverse-Core
+[17:01:47] [Server thread/INFO]: [AuthMe] Essentials spawn file not found: '/root/MC-Server/minecraft_server/plugins/Essentials/spawn.yml'
+[17:01:47] [Server thread/WARN]: [AuthMe] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[17:01:48] [Server thread/INFO]: [AuthMe] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[17:01:48] [Server thread/INFO]: [VeinMiner] Enabling VeinMiner v2.3.0
+[17:01:48] [Server thread/INFO]: [VeinMiner] Using "sqlite" for persistent data storage.
+[17:01:48] [Server thread/INFO]: [VeinMiner] Loading configuration options to local memory
+[17:01:48] [Server thread/INFO]: [VeinMiner] Added 14 aliases.
+[17:01:48] [Server thread/INFO]: [VeinMiner] Registered category with id "Axe" holding 6 unique items and 28 unique blocks.
+[17:01:48] [Server thread/INFO]: [VeinMiner] Registered category with id "Hoe" holding 6 unique items and 12 unique blocks.
+[17:01:48] [Server thread/INFO]: [VeinMiner] Registered category with id "Pickaxe" holding 6 unique items and 14 unique blocks.
+[17:01:48] [Server thread/INFO]: [VeinMiner] Registered category with id "Shears" holding 1 unique items and 4 unique blocks.
+[17:01:48] [Server thread/INFO]: [VeinMiner] Registered category with id "Shovel" holding 6 unique items and 10 unique blocks.
+[17:01:48] [Server thread/WARN]: [VeinMiner] No block list configured for category with id "Hand"! Is this intentional?
+[17:01:48] [Server thread/INFO]: [VeinMiner] Registered category with id "Hand" holding 0 unique items and 0 unique blocks.
+[17:01:48] [Server thread/INFO]: [VeinMiner] Performing an update check!
+[17:01:48] [Server thread/INFO]: [VeinMiner] Registering commands
+[17:01:48] [Server thread/INFO]: [VeinMiner] Registering events
+[17:01:48] [Server thread/INFO]: [VeinMiner] Vault found. Attempting to enable economy support...
+[17:01:48] [Server thread/INFO]: [VeinMiner] Enabling Plugin Metrics
+[17:01:48] [Server thread/INFO]: [VeinMiner] Thanks for enabling Metrics! The anonymous stats are appreciated
+[17:01:48] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.9.1-SNAPSHOT
+[17:01:48] [ForkJoinPool.commonPool-worker-1/INFO]: [VeinMiner] Your version of VeinMiner is out of date! Version 2.3.1 is available for download.
+[17:01:50] [Server thread/INFO]: [Jobs] Enabling Jobs v5.2.6.5
+[17:01:50] [Server thread/INFO]: ------------- Jobs -------------
+[17:01:51] [Server thread/INFO]: Connected to database (SqLite)
+[17:01:51] [Server thread/INFO]: Loaded 8 titles
+[17:01:51] [Server thread/INFO]: Loaded 2 restricted areas!
+[17:01:51] [Server thread/INFO]: Loaded 53 protected blocks timers
+[17:01:52] [Server thread/INFO]: Loaded 1538 custom item names
+[17:01:52] [Server thread/INFO]: Loaded 85 custom entity names
+[17:01:52] [Server thread/INFO]: Loaded 2 custom MythicMobs names
+[17:01:52] [Server thread/INFO]: Loaded 42 custom enchant names
+[17:01:52] [Server thread/INFO]: Loaded 46 custom enchant names
+[17:01:52] [Server thread/INFO]: Loaded 16 custom color names
+[17:01:52] [Server thread/INFO]: Update shops items icon section and use 'ItemStack' instead
+[17:01:52] [Server thread/INFO]: Loaded 4 shop items
+[17:01:52] [Server thread/INFO]: Loaded 1 quests for Fisherman
+[17:01:52] [Server thread/INFO]: Loaded 1 quests for Farmer
+[17:01:52] [Server thread/INFO]: Loaded 1 quests for Crafter
+[17:01:52] [Server thread/INFO]: Loaded 1 quests for Digger
+[17:01:52] [Server thread/INFO]: Loaded 1 quests for Builder
+[17:01:52] [Server thread/INFO]: Loaded 1 quests for Enchanter
+[17:01:52] [Server thread/INFO]: Loaded 1 quests for Weaponsmith
+[17:01:52] [Server thread/INFO]: Loaded 1 quests for Hunter
+[17:01:52] [Server thread/INFO]: Loaded 1 quests for Woodcutter
+[17:01:52] [Server thread/INFO]: Loaded 1 quests for Miner
+[17:01:52] [Server thread/INFO]: Loaded 1 quests for Brewer
+[17:01:52] [Server thread/INFO]: Loaded 1 quests for Explorer
+[17:01:52] [Server thread/INFO]: Loaded 12 jobs
+[17:01:52] [Server thread/INFO]: Loaded 0 boosted items
+[17:01:52] [Server thread/INFO]: Loaded 9 furnace for reassigning.
+[17:01:52] [Jobs-DatabaseSaveTask/INFO]: Started database save task.
+[17:01:52] [Jobs-BufferedPaymentThread/INFO]: Started buffered payment thread.
+[17:01:52] [Server thread/INFO]: Preloaded 5 players data in 0.04
+[17:01:52] [Server thread/INFO]: mcMMO detected.
+[17:01:52] [Server thread/INFO]: Registering listeners...
+[17:01:52] [Server thread/INFO]: Registered mcMMO 2.x listener.
+[17:01:52] [Server thread/INFO]: Listeners registered successfully
+[17:01:52] [Server thread/INFO]: Plugin has been enabled successfully.
+[17:01:52] [Server thread/INFO]: ------------------------------------
+[17:01:52] [Server thread/INFO]: [DecentHolograms] Enabling DecentHolograms v2.8.11
+[17:01:52] [Server thread/ERROR]: [DecentHolograms] Unsupported server version detected: 1.21.4-6-71a367e (MC: 1.21.4)
+[17:01:52] [Server thread/ERROR]: [DecentHolograms] Plugin will now be disabled.
+[17:01:52] [Server thread/INFO]: [DecentHolograms] Disabling DecentHolograms v2.8.11
+[17:01:52] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.21.0
+[17:01:52] [Server thread/WARN]: [EssentialsChat] Version mismatch! Please update all Essentials jars to the same version.
+[17:01:52] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
+[17:01:52] [Server thread/INFO]: [TAB] Enabling TAB v5.0.3
+[17:01:53] [Server thread/INFO]: [TAB] Loaded NMS hook in 89ms
+[17:01:53] [Server thread/INFO]: [TAB] Enabled in 477ms
+[17:01:53] [Server thread/INFO]: [AuctionHouse] Enabling AuctionHouse v1.3.9
+[17:01:53] [Server thread/INFO]: [AuctionHouse] AuctionHouse enabled in 93ms
+[17:01:54] [Server thread/INFO]: [spark] Starting background profiler...
+[17:01:55] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[17:01:55] [Server thread/INFO]: [Geyser-Spigot] 
+[17:01:55] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.9.1-b1002 (git-master-0cdd31e)
+[17:01:55] [Server thread/INFO]: [Geyser-Spigot] 
+[17:01:55] [Server thread/INFO]: [Geyser-Spigot] ******************************************

@@ -641,3 +641,10 @@
 	at java.base/java.lang.Thread.run(Thread.java:1583)
 
 [01-10 17:00:07]: [INFO] AuthMe 5.6.0-beta2-b2453 disabled!
+[01-10 17:01:47]: [INFO] SQLite Setup finished
+[01-10 17:01:47]: [INFO] Hooked into LuckPerms!
+[01-10 17:01:47]: [INFO] Hooked successfully into Essentials
+[01-10 17:01:47]: [INFO] Hooked successfully into Multiverse-Core
+[01-10 17:01:47]: [INFO] Essentials spawn file not found: '/root/MC-Server/minecraft_server/plugins/Essentials/spawn.yml'
+[01-10 17:01:47]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[01-10 17:01:48]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
