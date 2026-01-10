@@ -1,7 +1,7 @@
-[16:57:29] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.9+10-Ubuntu-124.04; Ubuntu null) on Linux 6.8.0-88-generic (amd64)
-[16:57:29] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.4-6-master@71a367e (2024-12-08T06:14:29Z) for Minecraft 1.21.4
-[16:57:34] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[16:57:35] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/SuperiorSkyblock.jar' failed to update!
+[16:58:19] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.9+10-Ubuntu-124.04; Ubuntu null) on Linux 6.8.0-88-generic (amd64)
+[16:58:19] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.4-6-master@71a367e (2024-12-08T06:14:29Z) for Minecraft 1.21.4
+[16:58:25] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[16:58:25] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/SuperiorSkyblock.jar' failed to update!
 java.lang.RuntimeException: Directory 'plugins/SuperiorSkyblock.jar' failed to update!
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:62) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.lambda$prepareContext$1(DirectoryProviderSource.java:33) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
@@ -45,7 +45,7 @@ Caused by: java.util.zip.ZipException: zip END header not found
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.checkUpdate(FileProviderSource.java:112) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:60) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	... 22 more
-[16:57:35] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/WolfyUtilities.jar' failed to update!
+[16:58:25] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/WolfyUtilities.jar' failed to update!
 java.lang.RuntimeException: Directory 'plugins/WolfyUtilities.jar' failed to update!
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:62) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.lambda$prepareContext$1(DirectoryProviderSource.java:33) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
@@ -89,7 +89,7 @@ Caused by: java.util.zip.ZipException: zip END header not found
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.checkUpdate(FileProviderSource.java:112) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:60) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	... 22 more
-[16:57:35] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/MyPet.jar' failed to update!
+[16:58:25] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/MyPet.jar' failed to update!
 java.lang.RuntimeException: Directory 'plugins/MyPet.jar' failed to update!
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:62) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.lambda$prepareContext$1(DirectoryProviderSource.java:33) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
@@ -133,7 +133,7 @@ Caused by: java.util.zip.ZipException: zip END header not found
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.checkUpdate(FileProviderSource.java:112) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:60) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	... 22 more
-[16:57:36] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/DeluxeMenus.jar' failed to update!
+[16:58:26] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/DeluxeMenus.jar' failed to update!
 java.lang.RuntimeException: Directory 'plugins/DeluxeMenus.jar' failed to update!
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:62) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.lambda$prepareContext$1(DirectoryProviderSource.java:33) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
@@ -177,7 +177,7 @@ Caused by: java.util.zip.ZipException: zip END header not found
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.checkUpdate(FileProviderSource.java:112) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:60) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	... 22 more
-[16:57:36] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/Announcer.jar' failed to update!
+[16:58:26] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/Announcer.jar' failed to update!
 java.lang.RuntimeException: Directory 'plugins/Announcer.jar' failed to update!
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:62) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.lambda$prepareContext$1(DirectoryProviderSource.java:33) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
@@ -221,7 +221,7 @@ Caused by: java.util.zip.ZipException: zip END header not found
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.checkUpdate(FileProviderSource.java:112) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:60) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	... 22 more
-[16:57:36] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/HolographicDisplays.jar' failed to update!
+[16:58:26] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/HolographicDisplays.jar' failed to update!
 java.lang.RuntimeException: Directory 'plugins/HolographicDisplays.jar' failed to update!
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:62) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.lambda$prepareContext$1(DirectoryProviderSource.java:33) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
@@ -265,7 +265,7 @@ Caused by: java.util.zip.ZipException: zip END header not found
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.checkUpdate(FileProviderSource.java:112) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:60) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	... 22 more
-[16:57:36] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/AutoMessage.jar' failed to update!
+[16:58:26] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/AutoMessage.jar' failed to update!
 java.lang.RuntimeException: Directory 'plugins/AutoMessage.jar' failed to update!
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:62) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.lambda$prepareContext$1(DirectoryProviderSource.java:33) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
@@ -309,7 +309,7 @@ Caused by: java.util.zip.ZipException: zip END header not found
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.checkUpdate(FileProviderSource.java:112) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:60) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	... 22 more
-[16:57:36] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/SimpleClans.jar' failed to update!
+[16:58:26] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/SimpleClans.jar' failed to update!
 java.lang.RuntimeException: Directory 'plugins/SimpleClans.jar' failed to update!
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:62) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.lambda$prepareContext$1(DirectoryProviderSource.java:33) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
@@ -353,7 +353,7 @@ Caused by: java.util.zip.ZipException: zip END header not found
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.checkUpdate(FileProviderSource.java:112) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:60) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	... 22 more
-[16:57:36] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/MythicMobs.jar' failed to update!
+[16:58:26] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/MythicMobs.jar' failed to update!
 java.lang.RuntimeException: Directory 'plugins/MythicMobs.jar' failed to update!
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:62) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.lambda$prepareContext$1(DirectoryProviderSource.java:33) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
@@ -397,7 +397,7 @@ Caused by: java.util.zip.ZipException: zip END header not found
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.checkUpdate(FileProviderSource.java:112) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:60) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	... 22 more
-[16:57:36] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/CustomEnchants.jar' failed to update!
+[16:58:26] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/CustomEnchants.jar' failed to update!
 java.lang.RuntimeException: Directory 'plugins/CustomEnchants.jar' failed to update!
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:62) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.lambda$prepareContext$1(DirectoryProviderSource.java:33) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
@@ -441,7 +441,7 @@ Caused by: java.util.zip.ZipException: zip END header not found
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.checkUpdate(FileProviderSource.java:112) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:60) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	... 22 more
-[16:57:37] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/CratesPlus.jar' failed to update!
+[16:58:26] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/CratesPlus.jar' failed to update!
 java.lang.RuntimeException: Directory 'plugins/CratesPlus.jar' failed to update!
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:62) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.lambda$prepareContext$1(DirectoryProviderSource.java:33) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
@@ -485,7 +485,7 @@ Caused by: java.util.zip.ZipException: zip END header not found
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.checkUpdate(FileProviderSource.java:112) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:60) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	... 22 more
-[16:57:37] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/ViaBackwards.jar' failed to update!
+[16:58:26] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/ViaBackwards.jar' failed to update!
 java.lang.RuntimeException: Directory 'plugins/ViaBackwards.jar' failed to update!
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:62) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.lambda$prepareContext$1(DirectoryProviderSource.java:33) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
@@ -529,7 +529,7 @@ Caused by: java.util.zip.ZipException: zip END header not found
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.checkUpdate(FileProviderSource.java:112) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:60) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	... 22 more
-[16:57:37] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/AdvancedEnchantments.jar' failed to update!
+[16:58:26] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/AdvancedEnchantments.jar' failed to update!
 java.lang.RuntimeException: Directory 'plugins/AdvancedEnchantments.jar' failed to update!
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:62) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.lambda$prepareContext$1(DirectoryProviderSource.java:33) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
@@ -573,7 +573,7 @@ Caused by: java.util.zip.ZipException: zip END header not found
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.checkUpdate(FileProviderSource.java:112) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:60) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	... 22 more
-[16:57:37] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/ClearLag.jar' failed to update!
+[16:58:26] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/ClearLag.jar' failed to update!
 java.lang.RuntimeException: Directory 'plugins/ClearLag.jar' failed to update!
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:62) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.lambda$prepareContext$1(DirectoryProviderSource.java:33) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
@@ -617,7 +617,7 @@ Caused by: java.util.zip.ZipException: zip END header not found
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.checkUpdate(FileProviderSource.java:112) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:60) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	... 22 more
-[16:57:37] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/Citizens.jar' failed to update!
+[16:58:26] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/Citizens.jar' failed to update!
 java.lang.RuntimeException: Directory 'plugins/Citizens.jar' failed to update!
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:62) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.lambda$prepareContext$1(DirectoryProviderSource.java:33) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
@@ -661,7 +661,7 @@ Caused by: java.util.zip.ZipException: zip END header not found
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.checkUpdate(FileProviderSource.java:112) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:60) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	... 22 more
-[16:57:37] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/EpicSpawners.jar' failed to update!
+[16:58:26] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/EpicSpawners.jar' failed to update!
 java.lang.RuntimeException: Directory 'plugins/EpicSpawners.jar' failed to update!
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:62) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.lambda$prepareContext$1(DirectoryProviderSource.java:33) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
@@ -705,7 +705,7 @@ Caused by: java.util.zip.ZipException: zip END header not found
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.checkUpdate(FileProviderSource.java:112) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:60) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	... 22 more
-[16:57:37] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/PlayTime.jar' failed to update!
+[16:58:26] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/PlayTime.jar' failed to update!
 java.lang.RuntimeException: Directory 'plugins/PlayTime.jar' failed to update!
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:62) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.lambda$prepareContext$1(DirectoryProviderSource.java:33) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
@@ -749,7 +749,7 @@ Caused by: java.util.zip.ZipException: zip END header not found
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.checkUpdate(FileProviderSource.java:112) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:60) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	... 22 more
-[16:57:37] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/AnimatedScoreboard.jar' failed to update!
+[16:58:27] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/AnimatedScoreboard.jar' failed to update!
 java.lang.RuntimeException: Directory 'plugins/AnimatedScoreboard.jar' failed to update!
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:62) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.lambda$prepareContext$1(DirectoryProviderSource.java:33) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
@@ -793,7 +793,7 @@ Caused by: java.util.zip.ZipException: zip END header not found
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.checkUpdate(FileProviderSource.java:112) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:60) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	... 22 more
-[16:57:37] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/Dynmap.jar' failed to update!
+[16:58:27] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/Dynmap.jar' failed to update!
 java.lang.RuntimeException: Directory 'plugins/Dynmap.jar' failed to update!
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:62) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.lambda$prepareContext$1(DirectoryProviderSource.java:33) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
@@ -837,7 +837,7 @@ Caused by: java.util.zip.ZipException: zip END header not found
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.checkUpdate(FileProviderSource.java:112) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:60) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	... 22 more
-[16:57:37] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/LevelledMobs.jar' failed to update!
+[16:58:27] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/LevelledMobs.jar' failed to update!
 java.lang.RuntimeException: Directory 'plugins/LevelledMobs.jar' failed to update!
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:62) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.lambda$prepareContext$1(DirectoryProviderSource.java:33) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
@@ -881,7 +881,7 @@ Caused by: java.util.zip.ZipException: zip END header not found
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.checkUpdate(FileProviderSource.java:112) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:60) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	... 22 more
-[16:57:37] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/UltimateStacker.jar' failed to update!
+[16:58:27] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/UltimateStacker.jar' failed to update!
 java.lang.RuntimeException: Directory 'plugins/UltimateStacker.jar' failed to update!
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:62) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.lambda$prepareContext$1(DirectoryProviderSource.java:33) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
@@ -925,7 +925,7 @@ Caused by: java.util.zip.ZipException: zip END header not found
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.checkUpdate(FileProviderSource.java:112) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:60) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	... 22 more
-[16:57:37] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/ViaVersion.jar' failed to update!
+[16:58:27] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/ViaVersion.jar' failed to update!
 java.lang.RuntimeException: Directory 'plugins/ViaVersion.jar' failed to update!
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:62) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.lambda$prepareContext$1(DirectoryProviderSource.java:33) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
@@ -970,7 +970,7 @@ Caused by: java.util.zip.ZipException: zip file is empty
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.checkUpdate(FileProviderSource.java:112) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:60) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	... 22 more
-[16:57:37] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/CustomCrafting.jar' failed to update!
+[16:58:27] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/CustomCrafting.jar' failed to update!
 java.lang.RuntimeException: Directory 'plugins/CustomCrafting.jar' failed to update!
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:62) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.lambda$prepareContext$1(DirectoryProviderSource.java:33) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
@@ -1014,7 +1014,7 @@ Caused by: java.util.zip.ZipException: zip END header not found
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.checkUpdate(FileProviderSource.java:112) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:60) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	... 22 more
-[16:57:37] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/EconomyShopGUI.jar' failed to update!
+[16:58:27] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/EconomyShopGUI.jar' failed to update!
 java.lang.RuntimeException: Directory 'plugins/EconomyShopGUI.jar' failed to update!
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:62) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.lambda$prepareContext$1(DirectoryProviderSource.java:33) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
@@ -1058,7 +1058,7 @@ Caused by: java.util.zip.ZipException: zip END header not found
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.checkUpdate(FileProviderSource.java:112) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:60) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	... 22 more
-[16:57:37] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/ImageOnMap.jar' failed to update!
+[16:58:27] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/ImageOnMap.jar' failed to update!
 java.lang.RuntimeException: Directory 'plugins/ImageOnMap.jar' failed to update!
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:62) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.lambda$prepareContext$1(DirectoryProviderSource.java:33) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
@@ -1102,7 +1102,7 @@ Caused by: java.util.zip.ZipException: zip END header not found
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.checkUpdate(FileProviderSource.java:112) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:60) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	... 22 more
-[16:57:37] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/PlaceholderAPI.jar' failed to update!
+[16:58:27] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/PlaceholderAPI.jar' failed to update!
 java.lang.RuntimeException: Directory 'plugins/PlaceholderAPI.jar' failed to update!
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:62) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.lambda$prepareContext$1(DirectoryProviderSource.java:33) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
@@ -1146,7 +1146,7 @@ Caused by: java.util.zip.ZipException: zip END header not found
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.checkUpdate(FileProviderSource.java:112) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:60) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	... 22 more
-[16:57:37] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/BetterRTP.jar' failed to update!
+[16:58:27] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/BetterRTP.jar' failed to update!
 java.lang.RuntimeException: Directory 'plugins/BetterRTP.jar' failed to update!
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:62) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.lambda$prepareContext$1(DirectoryProviderSource.java:33) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
@@ -1190,7 +1190,7 @@ Caused by: java.util.zip.ZipException: zip END header not found
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.checkUpdate(FileProviderSource.java:112) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:60) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	... 22 more
-[16:57:37] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/CoreProtect.jar' failed to update!
+[16:58:27] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/CoreProtect.jar' failed to update!
 java.lang.RuntimeException: Directory 'plugins/CoreProtect.jar' failed to update!
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:62) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.lambda$prepareContext$1(DirectoryProviderSource.java:33) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
@@ -1234,7 +1234,7 @@ Caused by: java.util.zip.ZipException: zip END header not found
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.checkUpdate(FileProviderSource.java:112) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:60) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	... 22 more
-[16:57:37] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/QuickShop.jar' failed to update!
+[16:58:27] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/QuickShop.jar' failed to update!
 java.lang.RuntimeException: Directory 'plugins/QuickShop.jar' failed to update!
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:62) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.lambda$prepareContext$1(DirectoryProviderSource.java:33) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
@@ -1278,7 +1278,7 @@ Caused by: java.util.zip.ZipException: zip END header not found
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.checkUpdate(FileProviderSource.java:112) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:60) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	... 22 more
-[16:57:37] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/HeadDatabase.jar' failed to update!
+[16:58:27] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/HeadDatabase.jar' failed to update!
 java.lang.RuntimeException: Directory 'plugins/HeadDatabase.jar' failed to update!
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:62) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.lambda$prepareContext$1(DirectoryProviderSource.java:33) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
@@ -1322,7 +1322,7 @@ Caused by: java.util.zip.ZipException: zip END header not found
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.checkUpdate(FileProviderSource.java:112) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:60) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	... 22 more
-[16:57:37] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/LuckPermsGUI.jar' failed to update!
+[16:58:27] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/LuckPermsGUI.jar' failed to update!
 java.lang.RuntimeException: Directory 'plugins/LuckPermsGUI.jar' failed to update!
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:62) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.lambda$prepareContext$1(DirectoryProviderSource.java:33) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
@@ -1366,7 +1366,7 @@ Caused by: java.util.zip.ZipException: zip END header not found
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.checkUpdate(FileProviderSource.java:112) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:60) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	... 22 more
-[16:57:37] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/BetterTeams.jar' failed to update!
+[16:58:27] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/BetterTeams.jar' failed to update!
 java.lang.RuntimeException: Directory 'plugins/BetterTeams.jar' failed to update!
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:62) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.lambda$prepareContext$1(DirectoryProviderSource.java:33) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
@@ -1410,7 +1410,7 @@ Caused by: java.util.zip.ZipException: zip END header not found
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.checkUpdate(FileProviderSource.java:112) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:60) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	... 22 more
-[16:57:37] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/Quests.jar' failed to update!
+[16:58:27] [ServerMain/ERROR]: [DirectoryProviderSource] Error preparing plugin context: Directory 'plugins/Quests.jar' failed to update!
 java.lang.RuntimeException: Directory 'plugins/Quests.jar' failed to update!
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:62) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.lambda$prepareContext$1(DirectoryProviderSource.java:33) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
@@ -1454,8 +1454,8 @@ Caused by: java.util.zip.ZipException: zip END header not found
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.checkUpdate(FileProviderSource.java:112) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:60) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	... 22 more
-[16:57:39] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Remapping plugin 'plugins/SkinsRestorer.jar'...
-[16:57:49] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Done remapping plugin 'plugins/SkinsRestorer.jar' in 9561ms.
-[16:57:51] [ServerMain/INFO]: [PluginInitializerManager] Initialized 25 plugins
-[16:57:51] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (25):
+[16:58:27] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Remapping plugin 'plugins/SkinsRestorer.jar'...
+[16:58:35] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Done remapping plugin 'plugins/SkinsRestorer.jar' in 7375ms.
+[16:58:35] [ServerMain/INFO]: [PluginInitializerManager] Initialized 25 plugins
+[16:58:35] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (25):
  - AuctionHouse (1.3.9), AuthMe (5.6.0-beta2-b2453), CMILib (1.5.7.5), ChestShop (3.12.3-SNAPSHOT (build 446)), DecentHolograms (2.8.11), DiscordSRV (1.28.0), Essentials (2.21.0), Essentials (2.21.2), EssentialsChat (2.21.0), EssentialsSpawn (2.21.0), Geyser-Spigot (2.9.1-SNAPSHOT), GriefPrevention (16.18.5), Jobs (5.2.6.5), LuckPerms (5.5.0), Multiverse-Core (4.3.12), SkinsRestorer (15.9.3), TAB (5.0.3), Vault (1.7.3-b131), VeinMiner (2.3.0), ViaRewind (4.0.3), ViaVersion (5.5.0), WorldEdit (7.4.0-beta-01+ae062ca), WorldGuard (7.0.15-beta-01+445a1d7), floodgate (2.2.5-SNAPSHOT (b121-55a85ec)), mcMMO (2.2.046-SNAPSHOT)
