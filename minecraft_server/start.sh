@@ -1,7 +1,7 @@
 #!/bin/bash
 # Optimized for 2GB RAM (memory saving mode)
 # Using Aikar's flags for best performance
-java -Xms1G -Xmx2G \
+java -Xms512M -Xmx1G \
   -XX:+UseG1GC \
   -XX:+ParallelRefProcEnabled \
   -XX:MaxGCPauseMillis=200 \
