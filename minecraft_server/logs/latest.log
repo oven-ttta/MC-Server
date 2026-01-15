@@ -1796,3 +1796,4 @@ Direct Download: https://get.discordsrv.com
 [10:20:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5108ms or 102 ticks behind
 [12:43:14] [Craft Scheduler Thread - 156 - Vault/INFO]: [Vault] Checking for Updates ... 
 [12:43:15] [Craft Scheduler Thread - 156 - Vault/INFO]: [Vault] No new version available
+[12:44:04] [pool-34-thread-1/WARN]: [DiscordSRV] Update check failed: zip file closed
