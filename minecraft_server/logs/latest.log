@@ -1797,3 +1797,13 @@ Direct Download: https://get.discordsrv.com
 [12:43:14] [Craft Scheduler Thread - 156 - Vault/INFO]: [Vault] Checking for Updates ... 
 [12:43:15] [Craft Scheduler Thread - 156 - Vault/INFO]: [Vault] No new version available
 [12:44:04] [pool-34-thread-1/WARN]: [DiscordSRV] Update check failed: zip file closed
+[18:42:49] [pool-34-thread-1/WARN]: [DiscordSRV] 
+
+The current build of DiscordSRV is outdated by 82 commits! Get the latest build at your favorite distribution center.
+
+Spigot: https://www.spigotmc.org/resources/discordsrv.18494/
+Github: https://github.com/DiscordSRV/DiscordSRV/releases
+Direct Download: https://get.discordsrv.com
+
+[18:43:14] [Craft Scheduler Thread - 301 - Vault/INFO]: [Vault] Checking for Updates ... 
+[18:43:14] [Craft Scheduler Thread - 301 - Vault/INFO]: [Vault] No new version available
