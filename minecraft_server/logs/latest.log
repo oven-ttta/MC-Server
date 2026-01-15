@@ -1772,3 +1772,24 @@ Direct Download: https://get.discordsrv.com
 [06:42:58] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.9.1-b1002 (git-master-0cdd31e)
 [06:42:58] [Server thread/INFO]: [Geyser-Spigot] 
 [06:42:58] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[06:43:08] [GeyserServer-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
+[06:43:08] [Server thread/INFO]: [Geyser-Spigot] Done (10.524s)! Run /geyser help for help!
+[06:43:09] [Server thread/INFO]: Done preparing level "world" (37.700s)
+[06:43:09] [Server thread/INFO]: Starting remote control listener
+[06:43:09] [Server thread/WARN]: No rcon password set in server.properties, rcon disabled!
+[06:43:09] [Server thread/INFO]: Running delayed init tasks
+[06:43:09] [Craft Scheduler Thread - 5 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[06:43:09] [Craft Scheduler Thread - 6 - Essentials/INFO]: [Essentials] Fetching version information...
+[06:43:09] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[06:43:09] [Craft Scheduler Thread - 9 - AuthMe/INFO]: [AuthMe] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[06:43:09] [Craft Scheduler Thread - 9 - AuthMe/WARN]: [AuthMe] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[06:43:09] [Craft Scheduler Thread - 9 - AuthMe/INFO]: [AuthMe] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[06:43:09] [Craft Scheduler Thread - 9 - AuthMe/WARN]: [AuthMe] Could not download GeoLiteAPI database [FileNotFoundException]: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+[06:43:09] [Craft Scheduler Thread - 8 - Vault/INFO]: [Vault] Checking for Updates ... 
+[06:43:09] [Craft Scheduler Thread - 5 - CMILib/INFO]: New version of CMILib was detected. Please update it (1.5.7.5 -> 1.5.8.2)
+[06:43:09] [Craft Scheduler Thread - 8 - Vault/INFO]: [Vault] No new version available
+[06:43:09] [Server thread/INFO]: [DiscordSRV] Disabling DiscordSRV v1.28.0
+[06:43:09] [Server thread/INFO]: [Jobs] Successfully linked with Vault. (Essentials)
+[06:43:09] [Server thread/INFO]: [Jobs] Successfully linked with Vault. (LuckPerms)
+[06:43:09] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.7.0, you're on: 5.5.0
+[06:43:09] [Server thread/INFO]: Done (97.778s)! For help, type "help"
