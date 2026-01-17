@@ -1483,3 +1483,18 @@ See https://github.com/google/gson/blob/main/Troubleshooting.md#malformed-json
 	... 12 more
 [17:50:13] [ServerMain/WARN]: resource-pack-id missing, using default of 0dd6cae4-4a97-344a-924d-3ae2a975ed31
 [17:50:14] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17:50:58] [ServerMain/INFO]: Loaded 1370 recipes
+[17:50:58] [ServerMain/INFO]: Loaded 1481 advancements
+[17:50:59] [ServerMain/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
+[17:51:05] [ServerMain/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 5,894.7ms
+[17:51:07] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[17:51:07] [Server thread/WARN]: ****************************
+[17:51:07] [Server thread/WARN]: YOU ARE RUNNING THIS SERVER AS AN ADMINISTRATIVE OR ROOT USER. THIS IS NOT ADVISED.
+[17:51:07] [Server thread/WARN]: YOU ARE OPENING YOURSELF UP TO POTENTIAL RISKS WHEN DOING THIS.
+[17:51:07] [Server thread/WARN]: FOR MORE INFORMATION, SEE https://madelinemiller.dev/blog/root-minecraft-server/
+[17:51:07] [Server thread/WARN]: ****************************
+[17:51:07] [Server thread/INFO]: Loading properties
+[17:51:08] [Server thread/INFO]: This server is running Paper version 1.21.4-6-master@71a367e (2024-12-08T06:14:29Z) (Implementing API version 1.21.4-R0.1-SNAPSHOT)
+[17:51:15] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[17:51:18] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[17:51:18] [Server thread/INFO]: Using 6 threads for Netty based IO
