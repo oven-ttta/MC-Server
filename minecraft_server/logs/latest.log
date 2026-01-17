@@ -8,3 +8,7 @@ Direct Download: https://get.discordsrv.com
 
 [00:43:38] [Craft Scheduler Thread - 1027 - Vault/INFO]: [Vault] Checking for Updates ... 
 [00:43:38] [Craft Scheduler Thread - 1027 - Vault/INFO]: [Vault] No new version available
+[05:36:52] [Server thread/INFO]: Stopping server
+[05:36:53] [Server thread/INFO]: [AuctionHouse] Disabling AuctionHouse v1.3.9
+[05:36:53] [Server thread/INFO]: [TAB] Disabling TAB v5.0.3
+[05:36:54] [Server thread/INFO]: [TAB] Disabled in 278ms
