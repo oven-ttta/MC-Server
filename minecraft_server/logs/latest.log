@@ -1735,3 +1735,65 @@ Direct Download: https://get.discordsrv.com
 [17:53:20] [Server thread/INFO]: Update shops items icon section and use 'ItemStack' instead
 [17:53:20] [Server thread/INFO]: Loaded 4 shop items
 [17:53:20] [Server thread/INFO]: Loaded 1 quests for Hunter
+[17:53:20] [Server thread/INFO]: Loaded 1 quests for Brewer
+[17:53:20] [Server thread/INFO]: Loaded 1 quests for Crafter
+[17:53:20] [Server thread/INFO]: Loaded 1 quests for Woodcutter
+[17:53:21] [Server thread/INFO]: Loaded 1 quests for Farmer
+[17:53:21] [Server thread/INFO]: Loaded 1 quests for Fisherman
+[17:53:21] [Server thread/INFO]: Loaded 1 quests for Digger
+[17:53:21] [Server thread/INFO]: Loaded 1 quests for Weaponsmith
+[17:53:21] [Server thread/INFO]: Loaded 1 quests for Explorer
+[17:53:21] [Server thread/INFO]: Loaded 1 quests for Miner
+[17:53:21] [Server thread/INFO]: Loaded 1 quests for Builder
+[17:53:21] [Server thread/INFO]: Loaded 1 quests for Enchanter
+[17:53:21] [Server thread/INFO]: Loaded 12 jobs
+[17:53:21] [Server thread/INFO]: Loaded 0 boosted items
+[17:53:21] [Server thread/INFO]: Loaded 9 furnace for reassigning.
+[17:53:21] [Jobs-DatabaseSaveTask/INFO]: Started database save task.
+[17:53:21] [Jobs-BufferedPaymentThread/INFO]: Started buffered payment thread.
+[17:53:21] [Server thread/INFO]: Preloaded 5 players data in 0.06
+[17:53:21] [Server thread/INFO]: mcMMO detected.
+[17:53:21] [Server thread/INFO]: Registering listeners...
+[17:53:21] [Server thread/INFO]: Registered mcMMO 2.x listener.
+[17:53:21] [Server thread/INFO]: Listeners registered successfully
+[17:53:21] [Server thread/INFO]: Plugin has been enabled successfully.
+[17:53:21] [Server thread/INFO]: ------------------------------------
+[17:53:21] [Server thread/INFO]: [DecentHolograms] Enabling DecentHolograms v2.8.11
+[17:53:21] [Server thread/ERROR]: [DecentHolograms] Unsupported server version detected: 1.21.4-6-71a367e (MC: 1.21.4)
+[17:53:21] [Server thread/ERROR]: [DecentHolograms] Plugin will now be disabled.
+[17:53:21] [Server thread/INFO]: [DecentHolograms] Disabling DecentHolograms v2.8.11
+[17:53:21] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.21.0
+[17:53:21] [Server thread/WARN]: [EssentialsChat] Version mismatch! Please update all Essentials jars to the same version.
+[17:53:21] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
+[17:53:21] [Server thread/INFO]: [TAB] Enabling TAB v5.0.3
+[17:53:22] [Server thread/INFO]: [TAB] Loaded NMS hook in 208ms
+[17:53:22] [Server thread/INFO]: [TAB] Enabled in 602ms
+[17:53:23] [Server thread/INFO]: [AuctionHouse] Enabling AuctionHouse v1.3.9
+[17:53:23] [Server thread/INFO]: [AuctionHouse] AuctionHouse enabled in 127ms
+[17:53:24] [Server thread/INFO]: [spark] Starting background profiler...
+[17:53:25] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[17:53:25] [Server thread/INFO]: [Geyser-Spigot] 
+[17:53:25] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.9.1-b1002 (git-master-0cdd31e)
+[17:53:25] [Server thread/INFO]: [Geyser-Spigot] 
+[17:53:25] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[17:53:36] [GeyserServer-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
+[17:53:36] [Server thread/INFO]: [Geyser-Spigot] Done (11.378s)! Run /geyser help for help!
+[17:53:37] [Server thread/INFO]: Done preparing level "world" (54.979s)
+[17:53:37] [Server thread/INFO]: Starting remote control listener
+[17:53:37] [Server thread/WARN]: No rcon password set in server.properties, rcon disabled!
+[17:53:37] [Server thread/INFO]: Running delayed init tasks
+[17:53:37] [Craft Scheduler Thread - 5 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[17:53:37] [Craft Scheduler Thread - 6 - Essentials/INFO]: [Essentials] Fetching version information...
+[17:53:37] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[17:53:37] [Craft Scheduler Thread - 9 - AuthMe/INFO]: [AuthMe] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[17:53:37] [Craft Scheduler Thread - 9 - AuthMe/WARN]: [AuthMe] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[17:53:37] [Craft Scheduler Thread - 9 - AuthMe/INFO]: [AuthMe] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[17:53:37] [Craft Scheduler Thread - 9 - AuthMe/WARN]: [AuthMe] Could not download GeoLiteAPI database [FileNotFoundException]: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+[17:53:37] [Craft Scheduler Thread - 8 - Vault/INFO]: [Vault] Checking for Updates ... 
+[17:53:37] [Craft Scheduler Thread - 5 - CMILib/INFO]: New version of CMILib was detected. Please update it (1.5.7.5 -> 1.5.8.2)
+[17:53:37] [Craft Scheduler Thread - 8 - Vault/INFO]: [Vault] No new version available
+[17:53:37] [Server thread/INFO]: [DiscordSRV] Disabling DiscordSRV v1.28.0
+[17:53:37] [Server thread/INFO]: [Jobs] Successfully linked with Vault. (Essentials)
+[17:53:37] [Server thread/INFO]: [Jobs] Successfully linked with Vault. (LuckPerms)
+[17:53:37] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.7.0, you're on: 5.5.0
+[17:53:37] [Server thread/INFO]: Done (371.811s)! For help, type "help"
