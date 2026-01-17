@@ -1534,3 +1534,75 @@ org.bukkit.plugin.InvalidPluginException: Unsupported API version 1.21.10
 [17:52:00] [Server thread/INFO]: [ViaVersion] ViaVersion 5.5.0 is now loaded. Registering protocol transformers and injecting...
 [17:52:06] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
 [17:52:10] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[17:52:13] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.5.0
+[17:52:16] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[17:52:16] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.4.0-beta-01+ae062ca
+[17:52:20] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@afda341]
+[17:52:20] [Server thread/INFO]: [Multiverse-Core] Loading server plugin Multiverse-Core v4.3.12
+[17:52:20] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.2
+[17:52:20] [Server thread/INFO]: [mcMMO] Loading server plugin mcMMO v2.2.046-SNAPSHOT
+[17:52:20] [Server thread/INFO]: [GriefPrevention] Loading server plugin GriefPrevention v16.18.5
+[17:52:20] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.5-SNAPSHOT (b121-55a85ec)
+[17:52:24] [Server thread/INFO]: [floodgate] Took 4,399ms to boot Floodgate
+[17:52:24] [Server thread/INFO]: [EssentialsSpawn] Loading server plugin EssentialsSpawn v2.21.0
+[17:52:24] [Server thread/INFO]: [CMILib] Loading server plugin CMILib v1.5.7.5
+[17:52:24] [Server thread/INFO]: [DiscordSRV] Loading server plugin DiscordSRV v1.28.0
+[17:52:24] [Server thread/INFO]: [ChestShop] Loading server plugin ChestShop v3.12.3-SNAPSHOT (build 446)
+[17:52:24] [Server thread/INFO]: [ChestShop] GriefPrevention version 16.18.5 loaded.
+[17:52:24] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.9.3
+[17:52:24] [Server thread/INFO]: [AuthMe] Loading server plugin AuthMe v5.6.0-beta2-b2453
+[17:52:24] [Server thread/INFO]: [VeinMiner] Loading server plugin VeinMiner v2.3.0
+[17:52:24] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.9.1-SNAPSHOT
+[17:52:26] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[17:52:26] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[17:52:26] [Server thread/INFO]: [Jobs] Loading server plugin Jobs v5.2.6.5
+[17:52:26] [Server thread/INFO]: [DecentHolograms] Loading server plugin DecentHolograms v2.8.11
+[17:52:26] [Server thread/INFO]: [EssentialsChat] Loading server plugin EssentialsChat v2.21.0
+[17:52:26] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.0.3
+[17:52:26] [Server thread/INFO]: [AuctionHouse] Loading server plugin AuctionHouse v1.3.9
+[17:52:26] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[17:52:26] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.5.0
+[17:52:28] [Server thread/INFO]:         __    
+[17:52:28] [Server thread/INFO]:   |    |__)   LuckPerms v5.5.0
+[17:52:28] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[17:52:28] [Server thread/INFO]: 
+[17:52:28] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[17:52:28] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[17:52:30] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[17:52:31] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[17:52:31] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 5225ms)
+[17:52:31] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[17:52:31] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[17:52:32] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[17:52:32] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[17:52:32] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[17:52:32] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.4.0-beta-01+ae062ca
+[17:52:32] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[17:52:32] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[17:52:33] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_21_4.PaperweightAdapter as the Bukkit adapter
+[17:52:38] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.9.3
+[17:52:40] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.4.
+[17:52:40] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
+[17:52:42] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[17:52:42] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:52:42] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:52:42] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:52:42] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:52:42] [Server thread/INFO]: Preparing level "world"
+[17:52:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[17:52:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[17:52:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[17:52:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[17:52:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[17:52:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[17:52:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[17:52:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.9.3
+[17:52:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 989bf18
+[17:52:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[17:52:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[17:52:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[17:52:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[17:52:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:52:47] [Server thread/INFO]: Preparing spawn area: 0%
+[17:52:47] [Server thread/INFO]: Preparing spawn area: 0%
+[17:52:48] [Server thread/INFO]: Preparing spawn area: 2%
