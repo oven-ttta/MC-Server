@@ -54,3 +54,11 @@ Direct Download: https://get.discordsrv.com
 [17:54:09] [Craft Scheduler Thread - 1754 - Vault/INFO]: [Vault] No new version available
 [18:25:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7546ms or 150 ticks behind
 [21:07:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4130ms or 82 ticks behind
+[23:53:11] [pool-34-thread-1/WARN]: [DiscordSRV] 
+
+The current build of DiscordSRV is outdated by 87 commits! Get the latest build at your favorite distribution center.
+
+Spigot: https://www.spigotmc.org/resources/discordsrv.18494/
+Github: https://github.com/DiscordSRV/DiscordSRV/releases
+Direct Download: https://get.discordsrv.com
+
