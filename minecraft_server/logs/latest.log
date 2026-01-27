@@ -81,3 +81,33 @@ Direct Download: https://get.discordsrv.com
 [09:31:35] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
 [09:31:35] [Paper Watchdog Thread/ERROR]: ------------------------------
 [09:31:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 32546ms or 650 ticks behind
+[10:22:05] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21.4-6-71a367e (MC: 1.21.4) ---
+[10:22:05] [Paper Watchdog Thread/ERROR]: The server has not responded for 11 seconds! Creating thread dump
+[10:22:05] [Paper Watchdog Thread/ERROR]: ------------------------------
+[10:22:05] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[10:22:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11113ms or 222 ticks behind
+[10:22:06] [Paper Watchdog Thread/ERROR]: ------------------------------
+[10:22:06] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[10:22:06] [Paper Watchdog Thread/ERROR]: 	PID: 43 | Suspended: false | Native: false | State: RUNNABLE
+[10:22:06] [Paper Watchdog Thread/ERROR]: 	Stack:
+[10:22:06] [Paper Watchdog Thread/ERROR]: 		DiscordSRV.jar//github.scarsz.discordsrv.objects.log4j.JdaFilter.filter(JdaFilter.java:80)
+[10:22:06] [Paper Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.filter.CompositeFilter.filter(CompositeFilter.java:658)
+[10:22:06] [Paper Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.filter.AbstractFilterable.isFiltered(AbstractFilterable.java:152)
+[10:22:06] [Paper Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.config.LoggerConfig.log(LoggerConfig.java:647)
+[10:22:06] [Paper Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.config.LoggerConfig.log(LoggerConfig.java:584)
+[10:22:06] [Paper Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.config.AwaitCompletionReliabilityStrategy.log(AwaitCompletionReliabilityStrategy.java:92)
+[10:22:06] [Paper Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.Logger.log(Logger.java:240)
+[10:22:06] [Paper Watchdog Thread/ERROR]: 		org.apache.logging.log4j.spi.AbstractLogger.tryLogMessage(AbstractLogger.java:2904)
+[10:22:06] [Paper Watchdog Thread/ERROR]: 		org.apache.logging.log4j.spi.AbstractLogger.logMessageTrackRecursion(AbstractLogger.java:2857)
+[10:22:06] [Paper Watchdog Thread/ERROR]: 		org.apache.logging.log4j.spi.AbstractLogger.logMessageSafely(AbstractLogger.java:2839)
+[10:22:06] [Paper Watchdog Thread/ERROR]: 		org.apache.logging.log4j.spi.AbstractLogger.logMessage(AbstractLogger.java:2646)
+[10:22:06] [Paper Watchdog Thread/ERROR]: 		org.apache.logging.log4j.spi.AbstractLogger.logIfEnabled(AbstractLogger.java:2413)
+[10:22:06] [Paper Watchdog Thread/ERROR]: 		org.apache.logging.slf4j.Log4jLogger.warn(Log4jLogger.java:243)
+[10:22:06] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1288)
+[10:22:06] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:341)
+[10:22:06] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x00007107c8dca220.run(Unknown Source)
+[10:22:06] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.lang.Thread.runWith(Thread.java:1596)
+[10:22:06] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.lang.Thread.run(Thread.java:1583)
+[10:22:06] [Paper Watchdog Thread/ERROR]: ------------------------------
+[10:22:06] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[10:22:06] [Paper Watchdog Thread/ERROR]: ------------------------------
