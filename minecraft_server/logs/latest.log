@@ -56,3 +56,28 @@ Direct Download: https://get.discordsrv.com
 [09:21:21] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
 [09:21:21] [Paper Watchdog Thread/ERROR]: ------------------------------
 [09:30:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5231ms or 104 ticks behind
+[09:30:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3216ms or 64 ticks behind
+[09:31:33] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21.4-6-71a367e (MC: 1.21.4) ---
+[09:31:33] [Paper Watchdog Thread/ERROR]: The server has not responded for 0 seconds! Creating thread dump
+[09:31:33] [Paper Watchdog Thread/ERROR]: ------------------------------
+[09:31:33] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[09:31:35] [Paper Watchdog Thread/ERROR]: ------------------------------
+[09:31:35] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[09:31:35] [Paper Watchdog Thread/ERROR]: 	PID: 43 | Suspended: false | Native: false | State: RUNNABLE
+[09:31:35] [Paper Watchdog Thread/ERROR]: 	Stack:
+[09:31:35] [Paper Watchdog Thread/ERROR]: 		ca.spottedleaf.moonrise.patches.chunk_system.scheduling.ChunkHolderManager.autoSave(ChunkHolderManager.java:234)
+[09:31:35] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ChunkMap.processUnloads(ChunkMap.java:427)
+[09:31:35] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ChunkMap.tick(ChunkMap.java:415)
+[09:31:35] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache.tick(ServerChunkCache.java:479)
+[09:31:35] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:772)
+[09:31:35] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1877)
+[09:31:35] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1666)
+[09:31:35] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1331)
+[09:31:35] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:341)
+[09:31:35] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x00007107c8dca220.run(Unknown Source)
+[09:31:35] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.lang.Thread.runWith(Thread.java:1596)
+[09:31:35] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.lang.Thread.run(Thread.java:1583)
+[09:31:35] [Paper Watchdog Thread/ERROR]: ------------------------------
+[09:31:35] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[09:31:35] [Paper Watchdog Thread/ERROR]: ------------------------------
+[09:31:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 32546ms or 650 ticks behind
