@@ -115,3 +115,19 @@ Direct Download: https://get.discordsrv.com
 [10:23:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5283ms or 105 ticks behind
 [10:24:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3921ms or 78 ticks behind
 [10:26:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2791ms or 55 ticks behind
+[10:36:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4010ms or 80 ticks behind
+[10:36:50] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21.4-6-71a367e (MC: 1.21.4) ---
+[10:37:04] [Paper Watchdog Thread/ERROR]: The server has not responded for 11 seconds! Creating thread dump
+[10:37:06] [Paper Watchdog Thread/ERROR]: ------------------------------
+[10:37:06] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[10:37:18] [Paper Watchdog Thread/ERROR]: ------------------------------
+[10:37:18] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[10:37:18] [Paper Watchdog Thread/ERROR]: 	PID: 43 | Suspended: false | Native: false | State: RUNNABLE
+[10:37:18] [Paper Watchdog Thread/ERROR]: 	Stack:
+[10:37:18] [Paper Watchdog Thread/ERROR]: 		VeinMiner.jar//wtf.choco.veinminer.VeinMinerPlugin$$Lambda/0x00007107ca0aa910.call(Unknown Source)
+[10:37:18] [Paper Watchdog Thread/ERROR]: 		VeinMiner.jar//wtf.choco.veinminer.metrics.charts.SingleLineChart.getChartData(SingleLineChart.java:24)
+[10:37:18] [Paper Watchdog Thread/ERROR]: 		VeinMiner.jar//wtf.choco.veinminer.metrics.charts.CustomChart.getRequestJsonObject(CustomChart.java:22)
+[10:37:18] [Paper Watchdog Thread/ERROR]: 		VeinMiner.jar//wtf.choco.veinminer.metrics.MetricsBase.lambda$submitData$2(MetricsBase.java:172)
+[10:37:18] [Paper Watchdog Thread/ERROR]: 		VeinMiner.jar//wtf.choco.veinminer.metrics.MetricsBase$$Lambda/0x00007107c8611000.apply(Unknown Source)
+[10:37:18] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+[10:37:18] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.util.HashMap$KeySpliterator.forEachRemaining(HashMap.java:1715)
