@@ -1526,3 +1526,53 @@ Direct Download: https://get.discordsrv.com
 [10:47:07] [Paper Watchdog Thread/INFO]: [AuthMe] AuthMe 5.6.0-beta2-b2453 disabled!
 [10:47:07] [Paper Watchdog Thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.9.3
 [10:47:08] [Paper Watchdog Thread/INFO]: [ChestShop] Disabling ChestShop v3.12.3-SNAPSHOT (build 446)
+[10:47:08] [Paper Watchdog Thread/INFO]: [CMILib] Disabling CMILib v1.5.7.5
+[10:47:08] [Paper Watchdog Thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.21.0
+[10:47:08] [Paper Watchdog Thread/INFO]: [floodgate] Disabling floodgate v2.2.5-SNAPSHOT (b121-55a85ec)
+[10:47:11] [Paper Watchdog Thread/INFO]: [GriefPrevention] Disabling GriefPrevention v16.18.5
+[10:47:11] [Paper Watchdog Thread/INFO]: [GriefPrevention] GriefPrevention disabled.
+[10:47:11] [Paper Watchdog Thread/INFO]: [mcMMO] Disabling mcMMO v2.2.046-SNAPSHOT
+[10:47:11] [Paper Watchdog Thread/INFO]: [mcMMO] Server shutdown has been executed, saving and cleaning up data...
+[10:47:13] [Paper Watchdog Thread/INFO]: [Essentials] Disabling Essentials v2.21.2
+[10:47:13] [Paper Watchdog Thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[10:47:13] [Paper Watchdog Thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v4.3.12
+[10:47:13] [Paper Watchdog Thread/INFO]: [WorldEdit] Disabling WorldEdit v7.4.0-beta-01+ae062ca
+[10:47:14] [Paper Watchdog Thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[10:47:14] [Paper Watchdog Thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[10:47:14] [Paper Watchdog Thread/INFO]: [LuckPerms] Disabling LuckPerms v5.5.0
+[10:47:14] [Paper Watchdog Thread/INFO]: [LuckPerms] Starting shutdown process...
+[10:47:15] [Paper Watchdog Thread/INFO]: [LuckPerms] Closing storage...
+[10:47:17] [Paper Watchdog Thread/INFO]: [LuckPerms] Goodbye!
+[10:47:17] [Paper Watchdog Thread/INFO]: [ViaVersion] Disabling ViaVersion v5.5.0
+[10:47:17] [Paper Watchdog Thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[10:47:17] [Paper Watchdog Thread/INFO]: Saving players
+[10:47:17] [Paper Watchdog Thread/INFO]: Saving worlds
+[10:47:17] [Paper Watchdog Thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10:47:17] [Paper Watchdog Thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[10:47:17] [Paper Watchdog Thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[10:47:17] [Paper Watchdog Thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[10:47:17] [Paper Watchdog Thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 6 entity chunks, 0 poi chunks in world 'world' in 0.16s
+[10:47:17] [Paper Watchdog Thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[10:47:17] [Paper Watchdog Thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[10:47:17] [Paper Watchdog Thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[10:47:18] [Paper Watchdog Thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[10:47:18] [Paper Watchdog Thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[10:47:18] [Paper Watchdog Thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[10:47:18] [Paper Watchdog Thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[10:47:18] [Paper Watchdog Thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[10:47:18] [Paper Watchdog Thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[10:47:18] [Paper Watchdog Thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[10:47:18] [Paper Watchdog Thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[10:47:18] [Paper Watchdog Thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[10:47:18] [Paper Watchdog Thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[10:47:18] [Paper Watchdog Thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.04s
+[10:47:18] [Paper Watchdog Thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[10:47:18] [Paper Watchdog Thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[10:47:18] [Paper Watchdog Thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10:47:18] [Paper Watchdog Thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10:47:18] [Paper Watchdog Thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10:47:18] [Paper Watchdog Thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[10:47:18] [Paper Watchdog Thread/INFO]: Waiting for I/O tasks to complete...
+[10:47:18] [Paper Watchdog Thread/INFO]: All I/O tasks to complete
+[10:47:18] [Paper Watchdog Thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[10:47:18] [Paper Watchdog Thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
