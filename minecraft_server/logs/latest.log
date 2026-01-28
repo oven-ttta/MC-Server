@@ -1,2 +1,25 @@
-[00:17:04] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.9+10-Ubuntu-124.04; Ubuntu null) on Linux 6.8.0-90-generic (amd64)
-[00:17:04] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.4-6-master@71a367e (2024-12-08T06:14:29Z) for Minecraft 1.21.4
+[00:17:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14278ms or 285 ticks behind
+[00:17:40] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21.4-6-71a367e (MC: 1.21.4) ---
+[00:17:40] [Paper Watchdog Thread/ERROR]: The server has not responded for -17 seconds! Creating thread dump
+[00:17:40] [Paper Watchdog Thread/ERROR]: ------------------------------
+[00:17:40] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[00:17:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13796ms or 275 ticks behind
+[00:17:56] [Paper Watchdog Thread/ERROR]: ------------------------------
+[00:17:56] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[00:17:56] [Paper Watchdog Thread/ERROR]: 	PID: 40 | Suspended: false | Native: false | State: RUNNABLE
+[00:17:56] [Paper Watchdog Thread/ERROR]: 	Stack:
+[00:17:56] [Paper Watchdog Thread/ERROR]: 		me.lucko.spark.paper.common.util.RollingAverage.add(RollingAverage.java:53)
+[00:17:56] [Paper Watchdog Thread/ERROR]: 		me.lucko.spark.paper.common.monitor.tick.SparkTickStatistics.onTick(SparkTickStatistics.java:99)
+[00:17:56] [Paper Watchdog Thread/ERROR]: 		me.lucko.spark.paper.common.tick.AbstractTickReporter.onTick(AbstractTickReporter.java:31)
+[00:17:56] [Paper Watchdog Thread/ERROR]: 		me.lucko.spark.paper.PaperTickReporter.onTick(PaperTickReporter.java:43)
+[00:17:56] [Paper Watchdog Thread/ERROR]: 		me.lucko.spark.paper.PaperSparkPlugin.onServerTickEnd(PaperSparkPlugin.java:110)
+[00:17:56] [Paper Watchdog Thread/ERROR]: 		io.papermc.paper.SparksFly.tickEnd(SparksFly.java:162)
+[00:17:56] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1706)
+[00:17:56] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1331)
+[00:17:56] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:341)
+[00:17:56] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x0000782310dba640.run(Unknown Source)
+[00:17:56] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.lang.Thread.runWith(Thread.java:1596)
+[00:17:56] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.9/java.lang.Thread.run(Thread.java:1583)
+[00:17:56] [Paper Watchdog Thread/ERROR]: ------------------------------
+[00:17:56] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[00:17:56] [Paper Watchdog Thread/ERROR]: ------------------------------
