@@ -1800,3 +1800,11 @@ Direct Download: https://get.discordsrv.com
 [06:54:27] [Server thread/INFO]: Done (143.960s)! For help, type "help"
 [09:32:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2513ms or 50 ticks behind
 [09:46:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9076ms or 181 ticks behind
+[12:53:58] [pool-34-thread-1/WARN]: [DiscordSRV] 
+
+The current build of DiscordSRV is outdated by 87 commits! Get the latest build at your favorite distribution center.
+
+Spigot: https://www.spigotmc.org/resources/discordsrv.18494/
+Github: https://github.com/DiscordSRV/DiscordSRV/releases
+Direct Download: https://get.discordsrv.com
+
