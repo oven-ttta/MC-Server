@@ -63,3 +63,20 @@ Direct Download: https://get.discordsrv.com
 
 [18:56:25] [Craft Scheduler Thread - 2626 - Vault/INFO]: [Vault] Checking for Updates ... 
 [18:56:25] [Craft Scheduler Thread - 2626 - Vault/INFO]: [Vault] No new version available
+[21:35:30] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
+[21:35:30] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     +==================+
+[21:35:30] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[21:35:30] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |------------------|
+[21:35:30] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[21:35:30] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     +==================+
+[21:35:30] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
+[21:35:30] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     Version: 15.9.3
+[21:35:30] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     Commit: 989bf18
+[21:35:30] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     A new version (15.10.0) is available! Downloading update...
+[21:35:30] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
+[21:35:30] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[21:35:30] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[21:35:30] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] [GitHubUpdate] Downloading update...
+[21:35:32] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] [GitHubUpdate] Downloaded update in 2163ms
+[21:35:32] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] [GitHubUpdate] Update saved as SkinsRestorer.jar
+[21:35:32] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] [GitHubUpdate] The update will be loaded on the next server restart
