@@ -1838,3 +1838,26 @@ Direct Download: https://get.discordsrv.com
 
 [12:38:16] [Craft Scheduler Thread - 156 - Vault/INFO]: [Vault] Checking for Updates ... 
 [12:38:16] [Craft Scheduler Thread - 156 - Vault/INFO]: [Vault] No new version available
+[15:12:47] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21.4-6-71a367e (MC: 1.21.4) ---
+[15:12:47] [Paper Watchdog Thread/ERROR]: The server has not responded for 25 seconds! Creating thread dump
+[15:12:47] [Paper Watchdog Thread/ERROR]: ------------------------------
+[15:12:47] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[15:12:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25665ms or 513 ticks behind
+[15:12:48] [Paper Watchdog Thread/ERROR]: ------------------------------
+[15:12:48] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[15:12:48] [Paper Watchdog Thread/ERROR]: 	PID: 44 | Suspended: false | Native: false | State: RUNNABLE
+[15:12:48] [Paper Watchdog Thread/ERROR]: 	Stack:
+[15:12:48] [Paper Watchdog Thread/ERROR]: 		org.apache.logging.log4j.message.ReusableParameterizedMessage.reserve(ReusableParameterizedMessage.java:361)
+[15:12:48] [Paper Watchdog Thread/ERROR]: 		org.apache.logging.log4j.message.ReusableMessageFactory.getParameterized(ReusableMessageFactory.java:60)
+[15:12:48] [Paper Watchdog Thread/ERROR]: 		org.apache.logging.log4j.message.ReusableMessageFactory.newMessage(ReusableMessageFactory.java:122)
+[15:12:48] [Paper Watchdog Thread/ERROR]: 		org.apache.logging.log4j.spi.AbstractLogger.logMessage(AbstractLogger.java:2645)
+[15:12:48] [Paper Watchdog Thread/ERROR]: 		org.apache.logging.log4j.spi.AbstractLogger.logIfEnabled(AbstractLogger.java:2413)
+[15:12:48] [Paper Watchdog Thread/ERROR]: 		org.apache.logging.slf4j.Log4jLogger.warn(Log4jLogger.java:243)
+[15:12:48] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1288)
+[15:12:48] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:341)
+[15:12:48] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x00007b69d4ddf338.run(Unknown Source)
+[15:12:48] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.10/java.lang.Thread.runWith(Thread.java:1596)
+[15:12:48] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.10/java.lang.Thread.run(Thread.java:1583)
+[15:12:48] [Paper Watchdog Thread/ERROR]: ------------------------------
+[15:12:48] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[15:12:48] [Paper Watchdog Thread/ERROR]: ------------------------------
