@@ -1581,3 +1581,91 @@ org.bukkit.plugin.InvalidPluginException: Unsupported API version 1.21.10
 [06:36:21] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.4.0-beta-01+ae062ca
 [06:36:21] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
 [06:36:22] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[06:36:23] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_21_4.PaperweightAdapter as the Bukkit adapter
+[06:36:29] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.10.0
+[06:36:33] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.4.
+[06:36:34] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
+[06:36:35] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[06:36:35] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[06:36:35] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[06:36:35] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[06:36:35] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[06:36:35] [Server thread/INFO]: Preparing level "world"
+[06:36:36] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[06:36:36] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[06:36:36] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[06:36:36] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[06:36:36] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[06:36:36] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[06:36:36] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[06:36:36] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.10.0
+[06:36:36] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: fcb9320
+[06:36:36] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[06:36:36] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[06:36:36] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[06:36:36] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[06:36:39] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[06:36:40] [Server thread/INFO]: Preparing spawn area: 0%
+[06:36:40] [Server thread/INFO]: Preparing spawn area: 0%
+[06:36:40] [Server thread/INFO]: Preparing spawn area: 0%
+[06:36:41] [Server thread/INFO]: Preparing spawn area: 2%
+[06:36:41] [Server thread/INFO]: Preparing spawn area: 2%
+[06:36:43] [Server thread/INFO]: Preparing spawn area: 4%
+[06:36:43] [Server thread/INFO]: Preparing spawn area: 4%
+[06:36:43] [Server thread/INFO]: Preparing spawn area: 4%
+[06:36:43] [Server thread/INFO]: Preparing spawn area: 4%
+[06:36:44] [Server thread/INFO]: Preparing spawn area: 4%
+[06:36:44] [Server thread/INFO]: Time elapsed: 4545 ms
+[06:36:44] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[06:36:44] [Server thread/INFO]: Preparing spawn area: 0%
+[06:36:44] [Server thread/INFO]: Preparing spawn area: 12%
+[06:36:44] [Server thread/INFO]: Time elapsed: 720 ms
+[06:36:44] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[06:36:44] [Server thread/INFO]: Preparing spawn area: 0%
+[06:36:45] [Server thread/INFO]: Preparing spawn area: 77%
+[06:36:45] [Server thread/INFO]: Time elapsed: 544 ms
+[06:36:45] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.5.0
+[06:36:45] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.4 (769)
+[06:36:45] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.3.12
+[06:36:45] [Server thread/WARN]: [Multiverse-Core] "Multiverse-Core v4.3.12" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
+[06:36:45] [Server thread/INFO]: [Multiverse-Core] §aWe are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
+[06:36:46] [Server thread/INFO]: [Multiverse-Core] 3 - World(s) loaded.
+[06:36:46] [Server thread/WARN]: [Multiverse-Core] Buscript failed to load! The script command will be disabled! If you would like not to see this message, use `/mv conf enablebuscript false` to disable Buscript from loading.
+[06:36:46] [Server thread/INFO]: [Multiverse-Core] Version 4.3.12 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
+[06:36:46] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.2
+[06:36:48] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[06:36:48] [Server thread/WARN]: [Essentials] Version mismatch! Please update EssentialsSpawn to the same version.
+[06:36:48] [Server thread/WARN]: [Essentials] Version mismatch! Please update EssentialsChat to the same version.
+[06:36:48] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[06:36:48] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[06:36:49] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
+[06:36:49] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
+[06:36:49] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
+[06:36:49] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
+[06:36:49] [Server thread/INFO]: [Essentials] Selected Legacy Biome Name Provider as the provider for BiomeNameProvider
+[06:36:49] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
+[06:36:49] [Server thread/INFO]: [Essentials] Selected 1.21.4+ Sync Commands Provider as the provider for SyncCommandsProvider
+[06:36:49] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
+[06:36:49] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
+[06:36:49] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
+[06:36:49] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
+[06:36:49] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
+[06:36:49] [Server thread/INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
+[06:36:49] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
+[06:36:49] [Server thread/INFO]: [Essentials] Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
+[06:36:49] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
+[06:36:49] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
+[06:36:49] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
+[06:36:49] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
+[06:36:49] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
+[06:36:49] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
+[06:36:49] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
+[06:36:49] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
+[06:36:50] [Server thread/INFO]: [Essentials] Loaded 43880 items from items.json.
+[06:36:50] [Server thread/INFO]: [Essentials] Using locale en_US
+[06:36:51] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[06:36:52] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[06:36:52] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[06:36:52] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[06:36:52] [Server thread/INFO]: [mcMMO] Enabling mcMMO v2.2.046-SNAPSHOT
+[06:36:54] [Server thread/INFO]: [mcMMO] Loaded 232 of 232 Alchemy potions.
