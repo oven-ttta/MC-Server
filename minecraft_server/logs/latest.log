@@ -1803,3 +1803,5 @@ Direct Download: https://get.discordsrv.com
 [06:37:53] [Server thread/INFO]: [Jobs] Successfully linked with Vault. (LuckPerms)
 [06:37:53] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.7.1, you're on: 5.5.0
 [06:37:53] [Server thread/INFO]: Done (191.654s)! For help, type "help"
+[08:54:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8248ms or 164 ticks behind
+[08:54:32] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21.4-6-71a367e (MC: 1.21.4) ---
