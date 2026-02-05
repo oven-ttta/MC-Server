@@ -1801,3 +1801,11 @@ Direct Download: https://get.discordsrv.com
 [06:34:23] [Server thread/INFO]: Done (210.788s)! For help, type "help"
 [06:34:23] [Craft Scheduler Thread - 8 - CMILib/INFO]: New version of CMILib was detected. Please update it (1.5.7.5 -> 1.5.8.6)
 [10:11:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3740ms or 74 ticks behind
+[12:33:47] [pool-34-thread-1/WARN]: [DiscordSRV] 
+
+The current build of DiscordSRV is outdated by 87 commits! Get the latest build at your favorite distribution center.
+
+Spigot: https://www.spigotmc.org/resources/discordsrv.18494/
+Github: https://github.com/DiscordSRV/DiscordSRV/releases
+Direct Download: https://get.discordsrv.com
+
