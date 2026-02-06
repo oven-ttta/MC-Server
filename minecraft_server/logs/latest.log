@@ -1530,3 +1530,10 @@ org.bukkit.plugin.InvalidPluginException: Unsupported API version 1.21.10
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1236) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:341) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[06:06:57] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.5.0
+[06:06:57] [Server thread/INFO]: [ViaVersion] ViaVersion 5.5.0 is now loaded. Registering protocol transformers and injecting...
+[06:06:58] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[06:06:59] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[06:07:03] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.5.0
+[06:07:12] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[06:07:12] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.4.0-beta-01+ae062ca
