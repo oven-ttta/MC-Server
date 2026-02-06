@@ -868,3 +868,5 @@
 [02-06 06:08:37]: [INFO] Hooked successfully into Essentials
 [02-06 06:08:37]: [INFO] Hooked successfully into Multiverse-Core
 [02-06 06:08:37]: [INFO] Essentials spawn file not found: '/root/MC-Server/minecraft_server/plugins/Essentials/spawn.yml'
+[02-06 06:08:37]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[02-06 06:08:38]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
