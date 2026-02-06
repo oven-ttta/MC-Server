@@ -1454,3 +1454,44 @@ Caused by: java.util.zip.ZipException: zip END header not found
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.checkUpdate(FileProviderSource.java:112) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	at io.papermc.paper.plugin.provider.source.FileProviderSource.prepareContext(FileProviderSource.java:60) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
 	... 22 more
+[06:05:40] [ServerMain/INFO]: [PluginInitializerManager] Initialized 25 plugins
+[06:05:40] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (25):
+ - AuctionHouse (1.3.9), AuthMe (5.6.0-beta2-b2453), CMILib (1.5.7.5), ChestShop (3.12.3-SNAPSHOT (build 446)), DecentHolograms (2.8.11), DiscordSRV (1.28.0), Essentials (2.21.0), Essentials (2.21.2), EssentialsChat (2.21.0), EssentialsSpawn (2.21.0), Geyser-Spigot (2.9.1-SNAPSHOT), GriefPrevention (16.18.5), Jobs (5.2.6.5), LuckPerms (5.5.0), Multiverse-Core (4.3.12), SkinsRestorer (15.10.0), TAB (5.0.3), Vault (1.7.3-b131), VeinMiner (2.3.0), ViaRewind (4.0.3), ViaVersion (5.5.0), WorldEdit (7.4.0-beta-01+ae062ca), WorldGuard (7.0.15-beta-01+445a1d7), floodgate (2.2.5-SNAPSHOT (b121-55a85ec)), mcMMO (2.2.046-SNAPSHOT)
+[06:06:00] [ServerMain/WARN]: Failed to parse resource pack prompt '§6§lOvenx Shop Server §r§e- ดาวน์โหลด Faithful 64x Resource Pack เพื่อประสบการณ์ที่ดีที่สุด!'
+com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setStrictness(Strictness.LENIENT) to accept malformed JSON at line 1 column 12 path $
+See https://github.com/google/gson/blob/main/Troubleshooting.md#malformed-json
+	at com.google.gson.JsonParser.parseReader(JsonParser.java:116) ~[gson-2.11.0.jar:?]
+	at com.google.gson.JsonParser.parseString(JsonParser.java:92) ~[gson-2.11.0.jar:?]
+	at net.minecraft.network.chat.Component$Serializer.fromJson(Component.java:315) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at net.minecraft.server.dedicated.DedicatedServerProperties.parseResourcePackPrompt(DedicatedServerProperties.java:198) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at net.minecraft.server.dedicated.DedicatedServerProperties.getServerPackInfo(DedicatedServerProperties.java:231) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at net.minecraft.server.dedicated.DedicatedServerProperties.<init>(DedicatedServerProperties.java:175) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at net.minecraft.server.dedicated.DedicatedServerProperties.fromFile(DedicatedServerProperties.java:185) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at net.minecraft.server.dedicated.DedicatedServerSettings.<init>(DedicatedServerSettings.java:19) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at net.minecraft.server.Main.main(Main.java:130) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at io.papermc.paper.PaperBootstrap.boot(PaperBootstrap.java:21) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at org.bukkit.craftbukkit.Main.main(Main.java:281) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at io.papermc.paperclip.Paperclip.lambda$main$0(Paperclip.java:42) ~[app:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setStrictness(Strictness.LENIENT) to accept malformed JSON at line 1 column 12 path $
+See https://github.com/google/gson/blob/main/Troubleshooting.md#malformed-json
+	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1754) ~[gson-2.11.0.jar:?]
+	at com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1550) ~[gson-2.11.0.jar:?]
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:625) ~[gson-2.11.0.jar:?]
+	at com.google.gson.stream.JsonReader.peek(JsonReader.java:507) ~[gson-2.11.0.jar:?]
+	at com.google.gson.JsonParser.parseReader(JsonParser.java:111) ~[gson-2.11.0.jar:?]
+	... 12 more
+[06:06:00] [ServerMain/WARN]: resource-pack-id missing, using default of 0dd6cae4-4a97-344a-924d-3ae2a975ed31
+[06:06:00] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[06:06:09] [ServerMain/INFO]: Loaded 1370 recipes
+[06:06:09] [ServerMain/INFO]: Loaded 1481 advancements
+[06:06:10] [ServerMain/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
+[06:06:10] [ServerMain/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 848.6ms
+[06:06:11] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[06:06:11] [Server thread/WARN]: ****************************
+[06:06:11] [Server thread/WARN]: YOU ARE RUNNING THIS SERVER AS AN ADMINISTRATIVE OR ROOT USER. THIS IS NOT ADVISED.
+[06:06:11] [Server thread/WARN]: YOU ARE OPENING YOURSELF UP TO POTENTIAL RISKS WHEN DOING THIS.
+[06:06:11] [Server thread/WARN]: FOR MORE INFORMATION, SEE https://madelinemiller.dev/blog/root-minecraft-server/
+[06:06:11] [Server thread/WARN]: ****************************
+[06:06:11] [Server thread/INFO]: Loading properties
+[06:06:11] [Server thread/INFO]: This server is running Paper version 1.21.4-6-master@71a367e (2024-12-08T06:14:29Z) (Implementing API version 1.21.4-R0.1-SNAPSHOT)
