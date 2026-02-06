@@ -1799,3 +1799,4 @@ Direct Download: https://get.discordsrv.com
 [06:09:13] [Server thread/INFO]: [Jobs] Successfully linked with Vault. (LuckPerms)
 [06:09:13] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.7.1, you're on: 5.5.0
 [06:09:13] [Server thread/INFO]: Done (236.510s)! For help, type "help"
+[07:47:18] [WebSocketConnectReadThread-418/WARN]: [Geyser-Spigot] Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org: Temporary failure in name resolution
