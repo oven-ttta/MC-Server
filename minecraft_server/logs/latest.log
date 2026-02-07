@@ -68,3 +68,8 @@ Direct Download: https://get.discordsrv.com
 [13:55:11] [Paper Watchdog Thread/ERROR]: ------------------------------
 [13:55:11] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
 [13:55:11] [Paper Watchdog Thread/ERROR]: ------------------------------
+[16:58:17] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21.4-6-71a367e (MC: 1.21.4) ---
+[16:58:17] [Paper Watchdog Thread/ERROR]: The server has not responded for 15 seconds! Creating thread dump
+[16:58:17] [Paper Watchdog Thread/ERROR]: ------------------------------
+[16:58:17] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[16:58:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15681ms or 313 ticks behind
