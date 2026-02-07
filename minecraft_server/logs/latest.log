@@ -35,3 +35,11 @@ java.lang.IllegalArgumentException: Invalid JSON: api.geysermc.org
 	at Geyser-Spigot.jar/org.java_websocket.WebSocketImpl.closeConnection(WebSocketImpl.java:545) ~[Geyser-Spigot.jar:?]
 	at Geyser-Spigot.jar/org.java_websocket.client.WebSocketClient.run(WebSocketClient.java:485) ~[Geyser-Spigot.jar:?]
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[12:08:35] [pool-34-thread-1/WARN]: [DiscordSRV] 
+
+The current build of DiscordSRV is outdated by 87 commits! Get the latest build at your favorite distribution center.
+
+Spigot: https://www.spigotmc.org/resources/discordsrv.18494/
+Github: https://github.com/DiscordSRV/DiscordSRV/releases
+Direct Download: https://get.discordsrv.com
+
