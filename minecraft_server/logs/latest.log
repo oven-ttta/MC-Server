@@ -29,3 +29,24 @@ Direct Download: https://get.discordsrv.com
 [12:10:46] [Craft Scheduler Thread - 1320 - Vault/INFO]: [Vault] Checking for Updates ... 
 [12:10:46] [Craft Scheduler Thread - 1320 - Vault/INFO]: [Vault] No new version available
 [13:17:58] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21.4-6-71a367e (MC: 1.21.4) ---
+[13:17:59] [Paper Watchdog Thread/ERROR]: The server has not responded for 26 seconds! Creating thread dump
+[13:17:59] [Paper Watchdog Thread/ERROR]: ------------------------------
+[13:17:59] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[13:18:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 28811ms or 576 ticks behind
+[13:18:01] [Paper Watchdog Thread/ERROR]: ------------------------------
+[13:18:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12569ms or 251 ticks behind
+[13:18:01] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[13:18:01] [Paper Watchdog Thread/ERROR]: 	PID: 43 | Suspended: false | Native: false | State: RUNNABLE
+[13:18:01] [Paper Watchdog Thread/ERROR]: 	Stack:
+[13:18:01] [Paper Watchdog Thread/ERROR]: 		org.bukkit.configuration.MemoryConfiguration.getDefaults(MemoryConfiguration.java:74)
+[13:18:01] [Paper Watchdog Thread/ERROR]: 		org.bukkit.configuration.MemorySection.getDefault(MemorySection.java:862)
+[13:18:01] [Paper Watchdog Thread/ERROR]: 		org.bukkit.configuration.MemorySection.getBoolean(MemorySection.java:370)
+[13:18:01] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.CraftServer.getWarnOnOverload(CraftServer.java:832)
+[13:18:01] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1287)
+[13:18:01] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:341)
+[13:18:01] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x00007ae608dc7318.run(Unknown Source)
+[13:18:01] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.10/java.lang.Thread.runWith(Thread.java:1596)
+[13:18:01] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.10/java.lang.Thread.run(Thread.java:1583)
+[13:18:01] [Paper Watchdog Thread/ERROR]: ------------------------------
+[13:18:01] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[13:18:01] [Paper Watchdog Thread/ERROR]: ------------------------------
