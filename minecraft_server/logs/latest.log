@@ -34,3 +34,30 @@ Direct Download: https://get.discordsrv.com
 [13:04:29] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
 [13:05:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10611ms or 212 ticks behind
 [13:05:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 35293ms or 705 ticks behind
+[13:05:45] [Paper Watchdog Thread/ERROR]: ------------------------------
+[13:05:45] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[13:05:45] [Paper Watchdog Thread/ERROR]: 	PID: 43 | Suspended: false | Native: false | State: RUNNABLE
+[13:05:45] [Paper Watchdog Thread/ERROR]: 	Stack:
+[13:05:45] [Paper Watchdog Thread/ERROR]: 		io.papermc.paper.pluginremap.reflect.PaperReflection.findMappedMethodName(PaperReflection.java:104)
+[13:05:45] [Paper Watchdog Thread/ERROR]: 		io.papermc.paper.pluginremap.reflect.PaperReflection.findMappedMethodName(PaperReflection.java:104)
+[13:05:45] [Paper Watchdog Thread/ERROR]: 		io.papermc.paper.pluginremap.reflect.PaperReflection.mapMethodName(PaperReflection.java:69)
+[13:05:45] [Paper Watchdog Thread/ERROR]: 		io.papermc.reflectionrewriter.runtime.AbstractDefaultRulesReflectionProxy.getMethod(AbstractDefaultRulesReflectionProxy.java:100)
+[13:05:45] [Paper Watchdog Thread/ERROR]: 		io.papermc.paper.pluginremap.reflect.PaperReflectionHolder.getMethod(Unknown Source)
+[13:05:45] [Paper Watchdog Thread/ERROR]: 		AuthMe.jar//fr.xephi.authme.libs.org.bstats.bukkit.Metrics.getPlayerAmount(Metrics.java:113)
+[13:05:45] [Paper Watchdog Thread/ERROR]: 		AuthMe.jar//fr.xephi.authme.libs.org.bstats.bukkit.Metrics.appendPlatformData(Metrics.java:93)
+[13:05:45] [Paper Watchdog Thread/ERROR]: 		AuthMe.jar//fr.xephi.authme.libs.org.bstats.bukkit.Metrics$$Lambda/0x00007ae60a0957d0.accept(Unknown Source)
+[13:05:45] [Paper Watchdog Thread/ERROR]: 		AuthMe.jar//fr.xephi.authme.libs.org.bstats.MetricsBase.submitData(MetricsBase.java:140)
+[13:05:45] [Paper Watchdog Thread/ERROR]: 		AuthMe.jar//fr.xephi.authme.libs.org.bstats.MetricsBase$$Lambda/0x00007ae60a55d858.run(Unknown Source)
+[13:05:45] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78)
+[13:05:45] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:474)
+[13:05:45] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1805)
+[13:05:45] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1666)
+[13:05:45] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1331)
+[13:05:45] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:341)
+[13:05:45] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x00007ae608dc7318.run(Unknown Source)
+[13:05:45] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.10/java.lang.Thread.runWith(Thread.java:1596)
+[13:05:45] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.10/java.lang.Thread.run(Thread.java:1583)
+[13:05:45] [Paper Watchdog Thread/ERROR]: ------------------------------
+[13:05:45] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[13:05:45] [Paper Watchdog Thread/ERROR]: ------------------------------
+[13:05:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24944ms or 498 ticks behind
