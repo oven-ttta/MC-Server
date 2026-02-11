@@ -42,3 +42,14 @@ Direct Download: https://get.discordsrv.com
 
 [06:13:49] [Craft Scheduler Thread - 2918 - Vault/INFO]: [Vault] Checking for Updates ... 
 [06:13:49] [Craft Scheduler Thread - 2918 - Vault/INFO]: [Vault] No new version available
+[10:21:33] [WebSocketConnectReadThread-15714/WARN]: [Geyser-Spigot] Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org: Temporary failure in name resolution
+[10:21:42] [WebSocketConnectReadThread-15715/WARN]: [Geyser-Spigot] Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org
+[10:21:42] [WebSocketConnectReadThread-15715/WARN]: [Geyser-Spigot] Error while handling onClose
+java.lang.IllegalArgumentException: Invalid JSON: api.geysermc.org
+	at Geyser-Spigot.jar/org.geysermc.geyser.util.JsonUtils.parseJson(JsonUtils.java:56) ~[Geyser-Spigot.jar:?]
+	at Geyser-Spigot.jar/org.geysermc.geyser.skin.FloodgateSkinUploader$1.onClose(FloodgateSkinUploader.java:151) ~[Geyser-Spigot.jar:?]
+	at Geyser-Spigot.jar/org.java_websocket.client.WebSocketClient.onWebsocketClose(WebSocketClient.java:619) ~[Geyser-Spigot.jar:?]
+	at Geyser-Spigot.jar/org.java_websocket.WebSocketImpl.closeConnection(WebSocketImpl.java:522) ~[Geyser-Spigot.jar:?]
+	at Geyser-Spigot.jar/org.java_websocket.WebSocketImpl.closeConnection(WebSocketImpl.java:545) ~[Geyser-Spigot.jar:?]
+	at Geyser-Spigot.jar/org.java_websocket.client.WebSocketClient.run(WebSocketClient.java:485) ~[Geyser-Spigot.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
