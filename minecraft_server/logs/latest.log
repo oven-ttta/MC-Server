@@ -88,3 +88,8 @@ Direct Download: https://get.discordsrv.com
 [18:13:49] [Craft Scheduler Thread - 3208 - Vault/INFO]: [Vault] No new version available
 [19:06:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2992ms or 59 ticks behind
 [19:06:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5993ms or 119 ticks behind
+[23:01:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11985ms or 239 ticks behind
+[23:01:50] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21.4-6-71a367e (MC: 1.21.4) ---
+[23:01:50] [Paper Watchdog Thread/ERROR]: The server has not responded for -6 seconds! Creating thread dump
+[23:01:50] [Paper Watchdog Thread/ERROR]: ------------------------------
+[23:01:50] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
