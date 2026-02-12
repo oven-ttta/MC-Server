@@ -32,3 +32,20 @@ Direct Download: https://get.discordsrv.com
 [16:21:17] [Paper Watchdog Thread/ERROR]: The server has not responded for 10 seconds! Creating thread dump
 [16:21:17] [Paper Watchdog Thread/ERROR]: ------------------------------
 [16:21:17] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[16:21:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10541ms or 210 ticks behind
+[16:21:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11589ms or 231 ticks behind
+[16:21:44] [Paper Watchdog Thread/ERROR]: ------------------------------
+[16:21:44] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[16:21:44] [Paper Watchdog Thread/ERROR]: 	PID: 43 | Suspended: false | Native: false | State: RUNNABLE
+[16:21:44] [Paper Watchdog Thread/ERROR]: 	Stack:
+[16:21:44] [Paper Watchdog Thread/ERROR]: 		org.bukkit.configuration.MemorySection.getDefault(MemorySection.java:859)
+[16:21:44] [Paper Watchdog Thread/ERROR]: 		org.bukkit.configuration.MemorySection.getBoolean(MemorySection.java:370)
+[16:21:44] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.CraftServer.getWarnOnOverload(CraftServer.java:832)
+[16:21:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1287)
+[16:21:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:341)
+[16:21:44] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x00007ae608dc7318.run(Unknown Source)
+[16:21:44] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.10/java.lang.Thread.runWith(Thread.java:1596)
+[16:21:44] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.10/java.lang.Thread.run(Thread.java:1583)
+[16:21:44] [Paper Watchdog Thread/ERROR]: ------------------------------
+[16:21:44] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[16:21:44] [Paper Watchdog Thread/ERROR]: ------------------------------
