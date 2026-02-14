@@ -28,3 +28,6 @@ Spigot: https://www.spigotmc.org/resources/discordsrv.18494/
 Github: https://github.com/DiscordSRV/DiscordSRV/releases
 Direct Download: https://get.discordsrv.com
 
+[12:16:38] [Craft Scheduler Thread - 4806 - Vault/INFO]: [Vault] Checking for Updates ... 
+[12:16:38] [Craft Scheduler Thread - 4806 - Vault/WARN]: [Vault] No files found, or Feed URL is bad.
+[12:16:38] [Craft Scheduler Thread - 4806 - Vault/INFO]: [Vault] No new version available
