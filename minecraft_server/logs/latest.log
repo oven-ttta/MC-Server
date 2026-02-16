@@ -41,3 +41,7 @@ Direct Download: https://get.discordsrv.com
 
 [18:17:16] [Craft Scheduler Thread - 6113 - Vault/INFO]: [Vault] Checking for Updates ... 
 [18:17:16] [Craft Scheduler Thread - 6113 - Vault/INFO]: [Vault] No new version available
+[23:30:25] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21.4-6-71a367e (MC: 1.21.4) ---
+[23:30:25] [Paper Watchdog Thread/ERROR]: The server has not responded for 10 seconds! Creating thread dump
+[23:30:25] [Paper Watchdog Thread/ERROR]: ------------------------------
+[23:30:25] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
