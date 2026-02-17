@@ -1432,3 +1432,5 @@ java.lang.IllegalArgumentException: Invalid JSON: api.geysermc.org
 	at Geyser-Spigot.jar/org.java_websocket.client.WebSocketClient.run(WebSocketClient.java:485) ~[Geyser-Spigot.jar:?]
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
 [05:56:40] [WebSocketConnectReadThread-33241/WARN]: [Geyser-Spigot] Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org: Temporary failure in name resolution
+[05:56:54] [WebSocketConnectReadThread-33243/WARN]: [Geyser-Spigot] Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org: Temporary failure in name resolution
+[05:57:08] [WebSocketConnectReadThread-33244/WARN]: [Geyser-Spigot] Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org: Temporary failure in name resolution
