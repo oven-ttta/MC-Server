@@ -1834,3 +1834,9 @@ java.lang.IllegalArgumentException: Invalid JSON: api.geysermc.org
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
 [06:16:54] [WebSocketConnectReadThread-33382/WARN]: [Geyser-Spigot] Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org: Temporary failure in name resolution
 [06:17:08] [WebSocketConnectReadThread-33383/WARN]: [Geyser-Spigot] Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org: Temporary failure in name resolution
+[06:17:22] [WebSocketConnectReadThread-33384/WARN]: [Geyser-Spigot] Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org: Temporary failure in name resolution
+[06:17:26] [Craft Scheduler Thread - 6404 - Vault/INFO]: [Vault] Checking for Updates ... 
+[06:17:26] [Craft Scheduler Thread - 6404 - Vault/INFO]: [Vault] There was an issue attempting to check for the latest version.
+[06:17:26] [Craft Scheduler Thread - 6404 - Vault/INFO]: [Vault] No new version available
+[06:17:33] [WebSocketConnectReadThread-33389/WARN]: [Geyser-Spigot] Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org: Temporary failure in name resolution
+[06:17:46] [WebSocketConnectReadThread-33390/WARN]: [Geyser-Spigot] Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org: Temporary failure in name resolution
