@@ -779,3 +779,15 @@ java.lang.IllegalArgumentException: Invalid JSON: api.geysermc.org
 [04:56:21] [WebSocketConnectReadThread-32923/WARN]: [Geyser-Spigot] Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org: Temporary failure in name resolution
 [04:56:39] [WebSocketConnectReadThread-32924/WARN]: [Geyser-Spigot] Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org: Temporary failure in name resolution
 [04:56:55] [WebSocketConnectReadThread-32925/WARN]: [Geyser-Spigot] Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org: Temporary failure in name resolution
+[04:57:13] [WebSocketConnectReadThread-32927/WARN]: [Geyser-Spigot] Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org: Temporary failure in name resolution
+[04:57:28] [WebSocketConnectReadThread-32928/WARN]: [Geyser-Spigot] Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org: Temporary failure in name resolution
+[04:57:37] [WebSocketConnectReadThread-32931/WARN]: [Geyser-Spigot] Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org
+[04:57:37] [WebSocketConnectReadThread-32931/WARN]: [Geyser-Spigot] Error while handling onClose
+java.lang.IllegalArgumentException: Invalid JSON: api.geysermc.org
+	at Geyser-Spigot.jar/org.geysermc.geyser.util.JsonUtils.parseJson(JsonUtils.java:56) ~[Geyser-Spigot.jar:?]
+	at Geyser-Spigot.jar/org.geysermc.geyser.skin.FloodgateSkinUploader$1.onClose(FloodgateSkinUploader.java:151) ~[Geyser-Spigot.jar:?]
+	at Geyser-Spigot.jar/org.java_websocket.client.WebSocketClient.onWebsocketClose(WebSocketClient.java:619) ~[Geyser-Spigot.jar:?]
+	at Geyser-Spigot.jar/org.java_websocket.WebSocketImpl.closeConnection(WebSocketImpl.java:522) ~[Geyser-Spigot.jar:?]
+	at Geyser-Spigot.jar/org.java_websocket.WebSocketImpl.closeConnection(WebSocketImpl.java:545) ~[Geyser-Spigot.jar:?]
+	at Geyser-Spigot.jar/org.java_websocket.client.WebSocketClient.run(WebSocketClient.java:485) ~[Geyser-Spigot.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
