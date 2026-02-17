@@ -5421,3 +5421,15 @@ java.lang.IllegalArgumentException: Invalid JSON: api.geysermc.org
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
 [09:46:05] [WebSocketConnectReadThread-34833/WARN]: [Geyser-Spigot] Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org: Temporary failure in name resolution
 [09:46:16] [WebSocketConnectReadThread-34834/WARN]: [Geyser-Spigot] Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org: Temporary failure in name resolution
+[09:46:27] [WebSocketConnectReadThread-34835/WARN]: [Geyser-Spigot] Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org: Temporary failure in name resolution
+[09:46:36] [WebSocketConnectReadThread-34836/WARN]: [Geyser-Spigot] Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org
+[09:46:36] [WebSocketConnectReadThread-34836/WARN]: [Geyser-Spigot] Error while handling onClose
+java.lang.IllegalArgumentException: Invalid JSON: api.geysermc.org
+	at Geyser-Spigot.jar/org.geysermc.geyser.util.JsonUtils.parseJson(JsonUtils.java:56) ~[Geyser-Spigot.jar:?]
+	at Geyser-Spigot.jar/org.geysermc.geyser.skin.FloodgateSkinUploader$1.onClose(FloodgateSkinUploader.java:151) ~[Geyser-Spigot.jar:?]
+	at Geyser-Spigot.jar/org.java_websocket.client.WebSocketClient.onWebsocketClose(WebSocketClient.java:619) ~[Geyser-Spigot.jar:?]
+	at Geyser-Spigot.jar/org.java_websocket.WebSocketImpl.closeConnection(WebSocketImpl.java:522) ~[Geyser-Spigot.jar:?]
+	at Geyser-Spigot.jar/org.java_websocket.WebSocketImpl.closeConnection(WebSocketImpl.java:545) ~[Geyser-Spigot.jar:?]
+	at Geyser-Spigot.jar/org.java_websocket.client.WebSocketClient.run(WebSocketClient.java:485) ~[Geyser-Spigot.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[09:46:49] [WebSocketConnectReadThread-34837/WARN]: [Geyser-Spigot] Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org: Temporary failure in name resolution
