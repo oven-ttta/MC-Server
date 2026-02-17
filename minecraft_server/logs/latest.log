@@ -13696,3 +13696,6 @@ java.lang.IllegalArgumentException: Invalid JSON: api.geysermc.org
 [18:08:32] [pool-34-thread-1/WARN]: [DiscordSRV] Update check failed: zip file closed
 [18:08:36] [WebSocketConnectReadThread-38289/WARN]: [Geyser-Spigot] Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org: Temporary failure in name resolution
 [18:08:47] [WebSocketConnectReadThread-38290/WARN]: [Geyser-Spigot] Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org: Temporary failure in name resolution
+[18:08:59] [WebSocketConnectReadThread-38292/WARN]: [Geyser-Spigot] Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org: Temporary failure in name resolution
+[18:09:12] [WebSocketConnectReadThread-38293/WARN]: [Geyser-Spigot] Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org: Temporary failure in name resolution
+[18:09:23] [WebSocketConnectReadThread-38294/WARN]: [Geyser-Spigot] Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org: Temporary failure in name resolution
