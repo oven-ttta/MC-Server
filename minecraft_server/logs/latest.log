@@ -1719,3 +1719,5 @@ Caused by: java.net.UnknownHostException: api.minecraftservices.com
 	... 9 more
 [06:08:42] [WebSocketConnectReadThread-33327/WARN]: [Geyser-Spigot] Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org: Temporary failure in name resolution
 [06:08:53] [WebSocketConnectReadThread-33329/WARN]: [Geyser-Spigot] Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org: Temporary failure in name resolution
+[06:09:07] [WebSocketConnectReadThread-33330/WARN]: [Geyser-Spigot] Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org: Temporary failure in name resolution
+[06:09:21] [WebSocketConnectReadThread-33331/WARN]: [Geyser-Spigot] Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org: Temporary failure in name resolution
