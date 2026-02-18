@@ -1606,3 +1606,61 @@ org.bukkit.plugin.InvalidPluginException: Unsupported API version 1.21.10
 [04:30:26] [Server thread/INFO]: Preparing spawn area: 0%
 [04:30:26] [Server thread/INFO]: Preparing spawn area: 0%
 [04:30:26] [Server thread/INFO]: Preparing spawn area: 2%
+[04:30:28] [Server thread/INFO]: Preparing spawn area: 4%
+[04:30:28] [Server thread/INFO]: Preparing spawn area: 4%
+[04:30:28] [Server thread/INFO]: Preparing spawn area: 4%
+[04:30:28] [Server thread/INFO]: Preparing spawn area: 4%
+[04:30:28] [Server thread/INFO]: Preparing spawn area: 4%
+[04:30:29] [Server thread/INFO]: Time elapsed: 3537 ms
+[04:30:29] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[04:30:29] [Server thread/INFO]: Preparing spawn area: 0%
+[04:30:29] [Server thread/INFO]: Preparing spawn area: 12%
+[04:30:29] [Server thread/INFO]: Time elapsed: 770 ms
+[04:30:29] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[04:30:29] [Server thread/INFO]: Preparing spawn area: 0%
+[04:30:30] [Server thread/INFO]: Time elapsed: 400 ms
+[04:30:30] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.5.0
+[04:30:30] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.4 (769)
+[04:30:30] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.3.12
+[04:30:30] [Server thread/WARN]: [Multiverse-Core] "Multiverse-Core v4.3.12" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
+[04:30:30] [Server thread/INFO]: [Multiverse-Core] §aWe are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
+[04:30:31] [Server thread/INFO]: [Multiverse-Core] 3 - World(s) loaded.
+[04:30:31] [Server thread/WARN]: [Multiverse-Core] Buscript failed to load! The script command will be disabled! If you would like not to see this message, use `/mv conf enablebuscript false` to disable Buscript from loading.
+[04:30:31] [Server thread/INFO]: [Multiverse-Core] Version 4.3.12 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
+[04:30:31] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.2
+[04:30:36] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[04:30:36] [Server thread/WARN]: [Essentials] Version mismatch! Please update EssentialsSpawn to the same version.
+[04:30:36] [Server thread/WARN]: [Essentials] Version mismatch! Please update EssentialsChat to the same version.
+[04:30:36] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[04:30:36] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[04:30:36] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
+[04:30:36] [Server thread/INFO]: [Essentials] Selected 1.21.4+ Sync Commands Provider as the provider for SyncCommandsProvider
+[04:30:36] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
+[04:30:36] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
+[04:30:36] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
+[04:30:36] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
+[04:30:36] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
+[04:30:36] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
+[04:30:36] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
+[04:30:36] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
+[04:30:36] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
+[04:30:36] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
+[04:30:36] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
+[04:30:36] [Server thread/INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
+[04:30:37] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
+[04:30:37] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
+[04:30:37] [Server thread/INFO]: [Essentials] Selected Legacy Biome Name Provider as the provider for BiomeNameProvider
+[04:30:37] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
+[04:30:37] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
+[04:30:37] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
+[04:30:37] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
+[04:30:37] [Server thread/INFO]: [Essentials] Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
+[04:30:37] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
+[04:30:37] [Server thread/INFO]: [Essentials] Loaded 43880 items from items.json.
+[04:30:37] [Server thread/INFO]: [Essentials] Using locale en_US
+[04:30:37] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[04:30:38] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[04:30:38] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[04:30:38] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[04:30:38] [Server thread/INFO]: [mcMMO] Enabling mcMMO v2.2.046-SNAPSHOT
+[04:30:39] [Server thread/INFO]: [mcMMO] Loaded 232 of 232 Alchemy potions.
