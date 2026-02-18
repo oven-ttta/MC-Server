@@ -3072,3 +3072,6 @@ java.lang.IllegalArgumentException: Invalid JSON: api.geysermc.org
 [03:01:56] [WebSocketConnectReadThread-41971/WARN]: [Geyser-Spigot] Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org: Temporary failure in name resolution
 [03:02:00] [Folia Async Scheduler Thread #3/WARN]: [SkinsRestorer] Failed to get release info from api.github.com. 
  If this message is repeated a lot, please see https://skinsrestorer.net/firewall
+[03:02:06] [WebSocketConnectReadThread-41972/WARN]: [Geyser-Spigot] Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org: Temporary failure in name resolution
+[03:02:20] [WebSocketConnectReadThread-41973/WARN]: [Geyser-Spigot] Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org: Temporary failure in name resolution
+[03:02:30] [WebSocketConnectReadThread-41974/WARN]: [Geyser-Spigot] Unable to resolve the skin api! This can be caused by your connection or the skin api being unreachable. api.geysermc.org: Temporary failure in name resolution
