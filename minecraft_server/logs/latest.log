@@ -1534,3 +1534,91 @@ org.bukkit.plugin.InvalidPluginException: Unsupported API version 1.21.10
 [06:47:21] [Server thread/INFO]: [ViaVersion] ViaVersion 5.5.0 is now loaded. Registering protocol transformers and injecting...
 [06:47:23] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
 [06:47:24] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[06:47:25] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.5.0
+[06:47:27] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[06:47:27] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.4.0-beta-01+ae062ca
+[06:47:30] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@cf3630d]
+[06:47:30] [Server thread/INFO]: [Multiverse-Core] Loading server plugin Multiverse-Core v4.3.12
+[06:47:30] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.2
+[06:47:30] [Server thread/INFO]: [mcMMO] Loading server plugin mcMMO v2.2.046-SNAPSHOT
+[06:47:30] [Server thread/INFO]: [GriefPrevention] Loading server plugin GriefPrevention v16.18.5
+[06:47:30] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.5-SNAPSHOT (b121-55a85ec)
+[06:47:33] [Server thread/INFO]: [floodgate] Took 2,798ms to boot Floodgate
+[06:47:33] [Server thread/INFO]: [EssentialsSpawn] Loading server plugin EssentialsSpawn v2.21.0
+[06:47:33] [Server thread/INFO]: [CMILib] Loading server plugin CMILib v1.5.7.5
+[06:47:33] [Server thread/INFO]: [DiscordSRV] Loading server plugin DiscordSRV v1.28.0
+[06:47:33] [Server thread/INFO]: [ChestShop] Loading server plugin ChestShop v3.12.3-SNAPSHOT (build 446)
+[06:47:33] [Server thread/INFO]: [ChestShop] GriefPrevention version 16.18.5 loaded.
+[06:47:33] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.10.0
+[06:47:33] [Server thread/INFO]: [AuthMe] Loading server plugin AuthMe v5.6.0-beta2-b2453
+[06:47:33] [Server thread/INFO]: [VeinMiner] Loading server plugin VeinMiner v2.3.0
+[06:47:33] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.9.1-SNAPSHOT
+[06:47:35] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[06:47:35] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[06:47:35] [Server thread/INFO]: [Jobs] Loading server plugin Jobs v5.2.6.5
+[06:47:35] [Server thread/INFO]: [DecentHolograms] Loading server plugin DecentHolograms v2.8.11
+[06:47:35] [Server thread/INFO]: [EssentialsChat] Loading server plugin EssentialsChat v2.21.0
+[06:47:35] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.0.3
+[06:47:35] [Server thread/INFO]: [AuctionHouse] Loading server plugin AuctionHouse v1.3.9
+[06:47:35] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[06:47:35] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.5.0
+[06:47:37] [Server thread/INFO]:         __    
+[06:47:37] [Server thread/INFO]:   |    |__)   LuckPerms v5.5.0
+[06:47:37] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[06:47:37] [Server thread/INFO]: 
+[06:47:37] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[06:47:38] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[06:47:39] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[06:47:40] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[06:47:40] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 5124ms)
+[06:47:40] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[06:47:40] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[06:47:40] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[06:47:40] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[06:47:40] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[06:47:40] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.4.0-beta-01+ae062ca
+[06:47:40] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[06:47:41] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[06:47:41] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_21_4.PaperweightAdapter as the Bukkit adapter
+[06:47:47] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.10.0
+[06:47:51] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.4.
+[06:47:52] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
+[06:47:53] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[06:47:53] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[06:47:53] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[06:47:53] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[06:47:53] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[06:47:53] [Server thread/INFO]: Preparing level "world"
+[06:47:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[06:47:54] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[06:47:54] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[06:47:54] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[06:47:54] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[06:47:54] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[06:47:54] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[06:47:54] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.10.0
+[06:47:54] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: fcb9320
+[06:47:54] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[06:47:54] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[06:47:54] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[06:47:54] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[06:47:54] [Server thread/ERROR]: Error loading saved data: raids
+java.lang.ArrayIndexOutOfBoundsException: arraycopy: length -1 is negative
+	at java.base/java.lang.System.arraycopy(Native Method) ~[?:?]
+	at java.base/java.io.PushbackInputStream.unread(PushbackInputStream.java:247) ~[?:?]
+	at net.minecraft.world.level.storage.DimensionDataStorage.isGzip(DimensionDataStorage.java:129) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at net.minecraft.world.level.storage.DimensionDataStorage.readTagFromDisk(DimensionDataStorage.java:102) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at net.minecraft.world.level.storage.DimensionDataStorage.readSavedData(DimensionDataStorage.java:80) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at net.minecraft.world.level.storage.DimensionDataStorage.get(DimensionDataStorage.java:68) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at net.minecraft.world.level.storage.DimensionDataStorage.computeIfAbsent(DimensionDataStorage.java:54) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at net.minecraft.server.level.ServerLevel.<init>(ServerLevel.java:645) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at net.minecraft.server.MinecraftServer.loadWorld0(MinecraftServer.java:719) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at net.minecraft.server.MinecraftServer.loadLevel(MinecraftServer.java:531) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:326) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1236) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:341) ~[paper-1.21.4.jar:1.21.4-6-71a367e]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[06:47:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[06:47:58] [Server thread/INFO]: Preparing spawn area: 0%
+[06:47:58] [Server thread/INFO]: Preparing spawn area: 0%
+[06:47:58] [Server thread/INFO]: Preparing spawn area: 2%
