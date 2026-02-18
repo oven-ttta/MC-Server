@@ -1817,3 +1817,11 @@ Direct Download: https://get.discordsrv.com
 [06:48:56] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.7.1, you're on: 5.5.0
 [06:48:56] [Server thread/INFO]: Done (149.703s)! For help, type "help"
 [07:34:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3813ms or 76 ticks behind
+[12:48:25] [pool-34-thread-1/WARN]: [DiscordSRV] 
+
+The current build of DiscordSRV is outdated by 87 commits! Get the latest build at your favorite distribution center.
+
+Spigot: https://www.spigotmc.org/resources/discordsrv.18494/
+Github: https://github.com/DiscordSRV/DiscordSRV/releases
+Direct Download: https://get.discordsrv.com
+
