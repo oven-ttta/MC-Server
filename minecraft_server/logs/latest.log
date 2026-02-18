@@ -1799,3 +1799,49 @@ Direct Download: https://get.discordsrv.com
 [04:31:41] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.7.1, you're on: 5.5.0
 [04:31:41] [Server thread/INFO]: Done (394.150s)! For help, type "help"
 [04:36:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3128ms or 62 ticks behind
+[06:46:09] [Server thread/INFO]: Stopping server
+[06:46:09] [Server thread/INFO]: [AuctionHouse] Disabling AuctionHouse v1.3.9
+[06:46:09] [Server thread/INFO]: [TAB] Disabling TAB v5.0.3
+[06:46:09] [Server thread/INFO]: [TAB] Disabled in 7ms
+[06:46:09] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.21.0
+[06:46:09] [Server thread/INFO]: [Jobs] Disabling Jobs v5.2.6.5
+[06:46:09] [Server thread/INFO]: ------------- Jobs -------------
+[06:46:09] [Jobs-DatabaseSaveTask/INFO]: Database save task shutdown!
+[06:46:09] [Server thread/INFO]: Cleared boss bar cache
+[06:46:09] [Jobs-BufferedPaymentThread/INFO]: Buffered payment thread shutdown.
+[06:46:09] [Server thread/INFO]: Saved player data
+[06:46:09] [Server thread/INFO]: Closed database connection
+[06:46:09] [Server thread/INFO]: ------------------------------------
+[06:46:09] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.9.1-SNAPSHOT
+[06:46:10] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[06:46:10] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[06:46:10] [Server thread/INFO]: [VeinMiner] Disabling VeinMiner v2.3.0
+[06:46:10] [Server thread/INFO]: [VeinMiner] Clearing localized data
+[06:46:10] [Server thread/INFO]: [AuthMe] Disabling AuthMe v5.6.0-beta2-b2453
+[06:46:10] [Server thread/INFO]: [AuthMe] Waiting for 0 tasks to finish
+[06:46:10] [WebSocketConnectReadThread-166/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[06:46:10] [Server thread/INFO]: [AuthMe] AuthMe 5.6.0-beta2-b2453 disabled!
+[06:46:10] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.10.0
+[06:46:10] [Server thread/INFO]: [ChestShop] Disabling ChestShop v3.12.3-SNAPSHOT (build 446)
+[06:46:10] [Server thread/INFO]: [CMILib] Disabling CMILib v1.5.7.5
+[06:46:10] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.21.0
+[06:46:10] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.5-SNAPSHOT (b121-55a85ec)
+[06:46:10] [Server thread/INFO]: [GriefPrevention] Disabling GriefPrevention v16.18.5
+[06:46:10] [Server thread/INFO]: [GriefPrevention] GriefPrevention disabled.
+[06:46:10] [Server thread/INFO]: [mcMMO] Disabling mcMMO v2.2.046-SNAPSHOT
+[06:46:10] [Server thread/INFO]: [mcMMO] Server shutdown has been executed, saving and cleaning up data...
+[06:46:10] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.2
+[06:46:10] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[06:46:10] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v4.3.12
+[06:46:10] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.4.0-beta-01+ae062ca
+[06:46:11] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[06:46:11] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[06:46:11] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.5.0
+[06:46:11] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[06:46:11] [Server thread/INFO]: [LuckPerms] Closing storage...
+[06:46:11] [Server thread/INFO]: [LuckPerms] Goodbye!
+[06:46:11] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.5.0
+[06:46:11] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[06:46:11] [Server thread/INFO]: Saving players
+[06:46:11] [Server thread/INFO]: Saving worlds
+[06:46:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
